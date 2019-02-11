@@ -11,6 +11,8 @@
 * [SmaROBOT模組](smarobot-mo.md)
 * [SmaMOTION模組](smamotion-mo.md)
 * [SmaDIO模組](smadio-mo.md)
-* [關於偲倢](undefined.md)
+* [關於偲倢](undefined/README.md)
+  * [聯絡方式](undefined/fang-shi.md)
+  * [公司理念](undefined/gong-si-li-nian.md)
 * [附錄](fu.md)
 
