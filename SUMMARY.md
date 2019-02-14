@@ -15,7 +15,7 @@
   * [SmaMOTION](mo-jie/smamotion.md)
   * [SmaDIO](mo-jie/smadio.md)
 * [Sequencer模組](liu-cheng-mo/README.md)
-  * [流程大綱](liu-cheng-mo/liu-cheng-zuo-fang-shi-setupmaincleanup.md)
+  * [線程大綱](liu-cheng-mo/liu-cheng-zuo-fang-shi-setupmaincleanup.md)
   * [操作介面](liu-cheng-mo/cao-zuo-jie-mian.md)
   * [變數表](liu-cheng-mo/biao/README.md)
     * [變數編輯方式\(資料型態、新增、刪除、重新命名\)](liu-cheng-mo/biao/fang-shi-liao-xing-xin-zeng-chu-zhong-xin-ming-ming.md)
