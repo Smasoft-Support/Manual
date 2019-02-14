@@ -8,6 +8,7 @@
   * [專案檔、專案介面檔與建議路徑](shi-nin-de-liu-cheng/an-an-jie-mian-jian-lu.md)
 * [模組簡介](mo-jie/README.md)
   * [模組操作\(右鍵新增、刪除、重新命名、專案總管\)](mo-jie/mo-cao-zuo-you-xin-zeng-chu-zhong-xin-ming-ming-an-guan.md)
+  * [Sequencer](mo-jie/sequencer.md)
   * [SmaCOM](mo-jie/smacom.md)
   * [SmaVISION](mo-jie/smavision.md)
   * [SmaROBOT](mo-jie/smarobot.md)
