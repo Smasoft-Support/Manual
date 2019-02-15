@@ -5,7 +5,7 @@
 * [開始您的流程](shi-nin-de-liu-cheng/README.md)
   * [建立新專案](shi-nin-de-liu-cheng/jian-li-xin-an.md)
   * [開啟原有專案](shi-nin-de-liu-cheng/an.md)
-  * [專案檔、專案介面檔與建議路徑](shi-nin-de-liu-cheng/an-an-jie-mian-jian-lu.md)
+  * [專案檔、專案介面檔](shi-nin-de-liu-cheng/an-an-jie-mian-jian-lu.md)
 * [模組簡介](mo-jie/README.md)
   * [模組專案總管](mo-jie/mo-cao-zuo-you-xin-zeng-chu-zhong-xin-ming-ming-an-guan.md)
   * [Sequencer](mo-jie/sequencer.md)
