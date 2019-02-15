@@ -1,7 +1,7 @@
 # Table of contents
 
 * [目錄](README.md)
-* [SmaSEQ 2.0簡介](smaseq-2.0-jie.md)
+* [SmaSEQ 2.0 簡介](smaseq-2.0-jie.md)
 * [開始您的流程](shi-nin-de-liu-cheng/README.md)
   * [建立新專案](shi-nin-de-liu-cheng/jian-li-xin-an.md)
   * [開啟原有專案](shi-nin-de-liu-cheng/an.md)
