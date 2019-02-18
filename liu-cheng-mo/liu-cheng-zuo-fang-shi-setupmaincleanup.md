@@ -10,5 +10,3 @@
 
 ![](../.gitbook/assets/process.JPG)
 
-
-
