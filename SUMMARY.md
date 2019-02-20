@@ -23,7 +23,7 @@
     * [變數的參考與一鍵刪除](liu-cheng-mo/biao/cha.md)
   * [流程編輯函式](liu-cheng-mo/liu-cheng-han-shi/README.md)
     * [流程編輯方法\(新增、刪除、複製、貼上、註解、更改字體與顏色\)](liu-cheng-mo/liu-cheng-han-shi/liu-cheng-fang-fa-xin-zeng-chu-shang-jie-geng-gai-zi-se.md)
-    * [流編函式列表](liu-cheng-mo/liu-cheng-han-shi/liu-han-shi-lie-biao.md)
+    * [流程編輯函式列表](liu-cheng-mo/liu-cheng-han-shi/liu-han-shi-lie-biao.md)
     * [函數的功能與參數設定方式](liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi.md)
   * [設計您的操作員介面](liu-cheng-mo/nin-de-cao-zuo-zhe-jie-mian/README.md)
     * [介面編輯方法\(資料型態、新增、刪除、重新命名、分頁\)](liu-cheng-mo/nin-de-cao-zuo-zhe-jie-mian/jie-mian-fang-fa-liao-xing-xin-zeng-chu-zhong-xin-ming-ming-fen.md)
