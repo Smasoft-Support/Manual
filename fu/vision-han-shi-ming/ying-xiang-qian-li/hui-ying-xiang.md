@@ -15,7 +15,7 @@ Morphology: 形態學\(灰階\)
 * Structure Element: Kernel的形狀
 * Iteration: 疊代層數
 
-![](../../../../.gitbook/assets/tu-pian-11.png)
+![](../../../.gitbook/assets/tu-pian-11.png)
 
 Lookup Table: 查找表
 
@@ -23,14 +23,14 @@ Lookup Table: 查找表
 * ……
 * Power Value: 強度
 
-![](../../../../.gitbook/assets/tu-pian-12.jpg)
+![](../../../.gitbook/assets/tu-pian-12.jpg)
 
 Filter: 濾鏡
 
 * Smoothing: 灰階圖像平滑處理 
 * ……
 
-![](../../../../.gitbook/assets/tu-pian-13.jpg)
+![](../../../.gitbook/assets/tu-pian-13.jpg)
 
 
 

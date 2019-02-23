@@ -10,7 +10,7 @@ Brightness: 亮度調整
 * Contrast: 對比度
 * Gamma: Gamma校正
 
-![](../../../../.gitbook/assets/tu-pian-4.png)
+![](../../../.gitbook/assets/tu-pian-4.png)
 
 
 

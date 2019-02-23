@@ -4,7 +4,9 @@
 
 在影像視窗中點擊右鍵，即可選擇各項調整工具。
 
-* **Selection**: 選取工具\(箭頭\)
+![](../.gitbook/assets/tu-pian-44.png)
+
+* **Selection**: 選取工具
 * **Pan**: 拖拉工具
   * 影像放大時，可使用拖拉工具調整視野範圍
 * **Zoom**: 縮放工具
@@ -21,6 +23,4 @@
 * **Delete**: 刪除ROI
 * **Delete All**: 刪除所有ROI
 * **Save Image**: 儲存當前影像\(RGB / Grayscale\)。
-
-![](../.gitbook/assets/tu-pian-44.png)
 
