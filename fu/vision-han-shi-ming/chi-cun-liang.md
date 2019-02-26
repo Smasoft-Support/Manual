@@ -22,5 +22,3 @@ Caliper: 座標關係計算
 
 ![](../../.gitbook/assets/tu-pian-25.jpg)
 
-
-

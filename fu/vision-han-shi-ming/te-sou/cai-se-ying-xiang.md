@@ -14,5 +14,3 @@ Color Pattern Match: 彩色圖像比對
 
 ![](../../../.gitbook/assets/tu-pian-9.png)
 
-
-

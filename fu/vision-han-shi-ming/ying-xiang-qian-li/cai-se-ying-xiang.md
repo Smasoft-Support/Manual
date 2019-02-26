@@ -12,5 +12,3 @@ Brightness: 亮度調整
 
 ![](../../../.gitbook/assets/tu-pian-4.png)
 
-
-

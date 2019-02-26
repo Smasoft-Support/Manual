@@ -12,5 +12,3 @@ Auto Threshold: 自動二值化
 
 ![](../../../.gitbook/assets/tu-pian-33.jpg)
 
-
-

@@ -11,8 +11,6 @@ IMAQdx Image ; Load Image
 
 ![](../../.gitbook/assets/tu-pian-2.png)
 
-
-
 Calibration: 影像校正、Scale計算、座標換算
 
 * Launch Calibration: 啟動校正應用程式 

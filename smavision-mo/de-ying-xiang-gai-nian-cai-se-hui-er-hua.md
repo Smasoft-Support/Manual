@@ -36,13 +36,7 @@
 
 ![](../.gitbook/assets/tu-pian-43.png)
 
-
-
 ## 影像的基本概念與分類
 
-
-
 ![](../.gitbook/assets/tu-pian-1.png)
-
-
 

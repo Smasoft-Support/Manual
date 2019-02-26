@@ -22,5 +22,3 @@ Tesseract OCR: 字體辨識
 
 ![](../../../.gitbook/assets/tu-pian-30.jpg)
 
-
-
