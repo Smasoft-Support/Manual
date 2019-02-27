@@ -41,10 +41,6 @@
 
 ![](../../../.gitbook/assets/motionfunction1.jpg)
 
-![](../../../.gitbook/assets/motionfunction2.jpg)
-
-![](../../../.gitbook/assets/motionfunction3.jpg)
-
 ## \# SmaROBOT
 
 呼叫SmaROBOT模組執行手臂控制。
