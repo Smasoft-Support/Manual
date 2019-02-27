@@ -14,7 +14,7 @@ SmaSEQ 2.0 提供讓使用者自定義錯誤發生時的處理方式，當線程
 
 #### \# Step 2 : 判斷錯誤類別
 
-當主線程運作過程中發生問題並傳來Error.Action變數後，此時在ErrorHandle中要透過If...ElseIf...End的判斷式找出與錯誤名稱對應的排除方式，判斷式的語法為\[Error.Action="錯誤名稱"\]，設定方式請參考\[[函數的功能與參數設定方式](liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi.md)\]。
+當主線程運作過程中發生問題並傳來Error.Action變數後，此時在ErrorHandle中要透過If...ElseIf...End的判斷式找出與錯誤名稱對應的排除方式，判斷式的語法為\[Error.Action="錯誤名稱"\]，設定方式請參考\[[函數的功能與參數設定方式](liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/)\]。
 
 #### \# Step 3 : 回歸主線程
 
@@ -26,7 +26,7 @@ SmaSEQ 2.0 提供讓使用者自定義錯誤發生時的處理方式，當線程
 * Cleanup : 進入Cleanup流程。
 * Abort : 直接終止流程。
 
-在上述的操作中，Goto的使用方式可以細分為2種，第一種是選擇特定流程的特定步驟，如:Main的Step 5、Setup 的 Step 9等方式，第二種方法是選擇特定的Label流程函式進行跳躍，輸入格式為\[流程@Label名稱\]，例如:Setup@Label3、Main@Label6，詳細的設定方式可以參考\[[函數的功能與參數設定方式](liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi.md)\]。
+在上述的操作中，Goto的使用方式可以細分為2種，第一種是選擇特定流程的特定步驟，如:Main的Step 5、Setup 的 Step 9等方式，第二種方法是選擇特定的Label流程函式進行跳躍，輸入格式為\[流程@Label名稱\]，例如:Setup@Label3、Main@Label6，詳細的設定方式可以參考\[[函數的功能與參數設定方式](liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/)\]。
 
 另外需要注意的是Action的Goto只是改變流程繼續執行的位置，必須要再加入Action的Continue流程才會繼續運作。
 
