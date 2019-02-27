@@ -91,7 +91,36 @@
       </td>
     </tr>
   </tbody>
-</table>#### \# 表達式\(Expression\)
+</table>![](../../../.gitbook/assets/button-dialog.jpg)
+
+#### \# 表達式\(Expression\)
+
+能夠進行變數的寫入以及運算，若在同一個Expression中執行多個表達式運算時，可以用分 號\[;\]進行分隔。
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">設定參數</th>
+      <th style="text-align:left">參數說明</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">名稱(Name)</td>
+      <td style="text-align:left">步驟名稱，可自訂</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">表達式(Expression)</td>
+      <td style="text-align:left">
+        <p>程式內容</p>
+        <p>。數值變數 : Local.變數名稱=Local.變數名稱+5</p>
+        <p>。布林變數 : Local.變數名稱＝True</p>
+        <p>。字串變數 : Local.變數名稱="文字內容"</p>
+        <p>。字串疊加 : Local.變數名稱=Local.變數名稱+"文字內容"</p>
+      </td>
+    </tr>
+  </tbody>
+</table>![](../../../.gitbook/assets/expression.jpg)
 
 #### \# 等待\(Wait\)
 
