@@ -11,6 +11,7 @@
 。數值變數 : Local.變數名稱。字串變數 : Local.變數名稱=="idle"。布林變數為True : Local.變數名稱
 。布林變數為False : !Local.變數名稱。&&為且、||為或
 
+![](../../../.gitbook/assets/while.jpg)
 
 ## \# If...ElseIf...End
 
@@ -22,3 +23,5 @@
 
 。數值變數 : Local.變數名稱。字串變數 : Local.變數名稱=="idle"。布林變數為True : Local.變數名稱
 。布林變數為False : !Local.變數名稱。&&為且、||為或
+
+![](../../../.gitbook/assets/if.jpg)
