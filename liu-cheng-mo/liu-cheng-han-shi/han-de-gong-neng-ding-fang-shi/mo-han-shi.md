@@ -79,6 +79,10 @@
 * ReadDI : 讀取輸入腳位的狀態
 * WaitUntil : 等待輸入腳位到達特定狀態
 
+![](../../../.gitbook/assets/smarobotfunction1.JPG)
+
+![](../../../.gitbook/assets/smarobotfunction2.JPG)
+
 ## \# SmaVISION
 
 呼叫SmaVISION模組執行影像處理。
