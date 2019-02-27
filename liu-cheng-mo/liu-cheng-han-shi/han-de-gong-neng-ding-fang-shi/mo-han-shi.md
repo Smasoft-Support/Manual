@@ -21,6 +21,8 @@
   * 直接寫入 : "寫入的文字內容"
   * 透過變數 : Local.變數名稱 \(必須是字串變數\)
 
+![](../../../.gitbook/assets/smacomfunction.jpg)
+
 ## \# SmaMOTION
 
 呼叫SmaMOTION模組進行運動控制。
@@ -45,6 +47,8 @@
 * Result : 讀取影像處理完成後的結果
 * Save : 將結果影像進行存檔
 
+![](../../../.gitbook/assets/smavisionfunction.jpg)
+
 ## \# SmaDIO
 
 呼叫SmaDIO模組執行擴充IO的功能。
@@ -61,3 +65,5 @@
 * WriteDO : 編輯輸出腳位的狀態
 * ReadDI : 讀取輸入腳位的狀態
 * WaitUntil : 等待輸入腳位到達特定狀態
+
+![](../../../.gitbook/assets/smadiofunction.jpg)
