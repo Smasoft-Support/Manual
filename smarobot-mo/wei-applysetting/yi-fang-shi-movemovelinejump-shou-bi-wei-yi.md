@@ -6,3 +6,10 @@
 
 ![SmaRobot&#x624B;&#x81C2;&#x79FB;&#x52D5;&#x65B9;&#x5F0F;&#x8A2D;&#x5B9A;&#x4F4D;&#x7F6E;](../../.gitbook/assets/17.jpg)
 
+* SmaRobot手臂移動方式分成三種：Move、MoveLine與Jump。
+
+![SmaRobot&#x79FB;&#x52D5;&#x65B9;&#x5F0F;](../../.gitbook/assets/18.jpg)
+
+1. Move：以Point-To-Point的模式進行移動。
+2. MoveLine：以直線插捕的模式移動。
+
