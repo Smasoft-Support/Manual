@@ -36,7 +36,12 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>## \# 按鈕對話框\(Button Dialog\)
+</table>
+
+
+![](../../../.gitbook/assets/dialog.jpg)
+
+## \# 按鈕對話框\(Button Dialog\)
 
 在流程運作中跳出有選項的對話視窗，可依照操作員的選擇執行不同的程式\(表達式\)，在對話框出現的期間流程會暫停，最多支援三個按鈕選項。
 
@@ -93,7 +98,11 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>## \# 表達式\(Expression\)
+</table>
+
+![](../../../.gitbook/assets/button-dialog.jpg)
+
+## \# 表達式\(Expression\)
 
 能夠進行變數的寫入以及運算，若在同一個Expression中執行多個表達式運算時，可以用分 號\[;\]進行分隔。
 
@@ -119,7 +128,11 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>## \# 等待\(Wait\)
+</table>
+
+![](../../../.gitbook/assets/expression.jpg)
+
+## \# 等待\(Wait\)
 
 在流程步驟之間加入等待時間。
 
@@ -156,4 +169,4 @@
 </table>| 變數\(Variable\) | 用於接收讀取的時間，必須是字串變數 |
 | :--- | :--- |
 
-
+![](../../../.gitbook/assets/timestring.jpg)
