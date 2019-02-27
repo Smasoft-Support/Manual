@@ -13,3 +13,7 @@
 1. Move：以Point-To-Point的模式進行移動。
 2. MoveLine：以直線插捕的模式移動。
 
+![SmaRobot Jump&#x904B;&#x52D5;&#x6A21;&#x5F0F;](../../.gitbook/assets/19.jpg)
+
+1. Jump：以門控運動模式進行Point-To-Point的移動。
+
