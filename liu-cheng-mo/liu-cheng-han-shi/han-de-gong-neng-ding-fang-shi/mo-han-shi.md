@@ -39,6 +39,19 @@
 | 逾時\(Timeout\) | 設定等待時間，超過時間會進入錯誤處理程序 |
 | 命令\(Command\) | 模組執行的動作，直接點擊右側的編輯標籤進行設定 |
 
+#### \# Method設定方式
+
+* Move : 移動到指定點位
+* SetOrigin : 將該軸當下位置設定為原點
+* Stop : 停止運動
+* Home : 回原點
+* AllHome : 所有軸都回原點
+* CheckDone : 確認移動是否完成
+* AllCheckDone : 確認所有軸的移動是否完成
+* WriteDO : 編輯輸出腳位的狀態
+* ReadDI : 讀取輸入腳位的狀態
+* WaitUntil : 等待輸入腳位到達特定狀態
+
 ![](../../../.gitbook/assets/motionfunction1.jpg)
 
 ## \# SmaROBOT
