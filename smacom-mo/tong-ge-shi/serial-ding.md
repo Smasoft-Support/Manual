@@ -6,5 +6,10 @@
 
 * 點擊"Settings"會出現以下設定畫面：
 
-![](../../.gitbook/assets/serial-setup.JPG)
+![SmaCOM Serial Setup&#x4ECB;&#x9762;](../../.gitbook/assets/serial-setup.JPG)
+
+1. 連接埠編號選擇。
+2. Buad Rate設定，預設是9600。
+3. 資料傳輸Bit數量設定，預設值為8 bits。 
+4. 結束資料Bit數量設定，預設值為1.0 bits。
 
