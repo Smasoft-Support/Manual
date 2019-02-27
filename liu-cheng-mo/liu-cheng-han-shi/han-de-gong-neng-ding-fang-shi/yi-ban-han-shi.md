@@ -24,7 +24,7 @@
 
 ![](../../../.gitbook/assets/dialog.jpg)
 
-## \# 按鈕對話框\(Button Dialog\)
+### \# 按鈕對話框\(Button Dialog\)
 
 在流程運作中跳出有選項的對話視窗，可依照操作員的選擇執行不同的程式\(表達式\)，在對話框出現的期間流程會暫停，最多支援三個按鈕選項。
 
@@ -33,15 +33,19 @@
 | 名稱\(Name\) | 步驟名稱，可自訂 |
 | 模式\(Type\) | 選擇按鈕的數量 |
 | 訊息\(Message\) | 顯示於對話框中的文字 |
-| 按鈕 1\(Button 1\) | 按鈕1參數，左側為按鈕上的文字， 右側為按下後執行的程式，程式內 容請參考下方Expression函式說明。 |
-| 按鈕 2\(Button 2\) | 按鈕2參數，左側為按鈕上的文字， 右側為按下後執行的程式，程式內 容請參考下方Expression函式說明。 |
-| 按鈕 3\(Button 3\) | 按鈕3參數，左側為按鈕上的文字， 右側為按下後執行的程式，程式內 容請參考下方Expression函式說明。 |
+| 按鈕 1\(Button 1\) | 按鈕1參數，左側為按鈕上的文字， 右側為Expression函式。 |
+| 按鈕 2\(Button 2\) | 按鈕2參數，左側為按鈕上的文字， 右側為Expression函式。 |
+| 按鈕 3\(Button 3\) | 按鈕3參數，左側為按鈕上的文字， 右側為Expression函式。 |
 
-。直接輸入 : "訊息內容" 。字串變數 : Local.變數名稱 。數值變數 : str\("Local.變數名稱"\)
+#### 。Expression設定方式
+
+* 直接輸入 : "訊息內容" 
+* 字串變數 : Local.變數名稱
+* 數值變數 : str\("Local.變數名稱"\)
 
 ![](../../../.gitbook/assets/button-dialog.jpg)
 
-## \# 表達式\(Expression\)
+### \# 表達式\(Expression\)
 
 能夠進行變數的寫入以及運算，若在同一個Expression中執行多個表達式運算時，可以用分 號\[;\]進行分隔。
 
@@ -50,11 +54,14 @@
 | 名稱\(Name\) | 步驟名稱，可自訂 |
 | 表達式\(Expression\) | 程式內容 |
 
-。數值變數 : Local.變數名稱=Local.變數名稱+5 。布林變數 : Local.變數名稱＝True 。字串變數 : Local.變數名稱="文字內容" 。字串疊加 : Local.變數名稱=Local.變數名稱+"文字內容"
+#### 。Expression設定方式
 
-![](https://github.com/SmaSEQ/Manual/tree/028d4c04bd6d16da962f0e2787acd842069aec74/.gitbook/assets/expression.jpg)
+* 數值變數 : Local.變數名稱=Local.變數名稱+5
+* 布林變數 : Local.變數名稱＝True 
+* 字串變數 : Local.變數名稱="文字內容"
+* 字串疊加 : Local.變數名稱=Local.變數名稱+"文字內容"
 
-## \# 等待\(Wait\)
+### \# 等待\(Wait\)
 
 在流程步驟之間加入等待時間。
 
@@ -65,7 +72,7 @@
 
 ![](../../../.gitbook/assets/waittime.jpg)
 
-## \# 標準時間\(Time String\)
+### \# 標準時間\(Time String\)
 
 使用於讀取系統當下的時間。
 
