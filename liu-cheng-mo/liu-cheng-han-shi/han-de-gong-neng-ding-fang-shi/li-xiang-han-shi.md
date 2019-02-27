@@ -16,38 +16,17 @@
 
 在ErrorHandle中完成錯誤處理程序後，需指定流程的下一步該如何繼續運行，其中Goto的使用方式請參考\[[流程中的錯誤處理\(ErrorHandle\)](../../liu-cheng-zhong-de-li-errorhandle.md)\]。
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">設定參數</th>
-      <th style="text-align:left">參數說明</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">名稱(Name)</td>
-      <td style="text-align:left">步驟名稱，可自訂</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">行為(Action)</td>
-      <td style="text-align:left">
-        <p>下一步的流程動作</p>
-        <p>。Continue : 從暫停的狀態繼續運行</p>
-        <p>。Pause : 暫停線程</p>
-        <p>。Goto : 指定繼續運行的下一個步驟</p>
-        <p>。Cleanup : 進入Cleanup流程</p>
-        <p>。Abort : 終止所有線程</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">線程(Sequence)</td>
-      <td style="text-align:left">指定要Goto的線程</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">目錄(Index)</td>
-      <td style="text-align:left">指定要Goto的步驟編號</td>
-    </tr>
-  </tbody>
-</table>
+| 設定參數 | 參數說明 |
+| :--- | :--- |
+| 名稱\(Name\) | 步驟名稱，可自訂 |
+| 行為\(Action\) | 下一步的流程動作 |
+| 線程\(Sequence\) | 指定要Goto的線程 |
+| 目錄\(Index\) | 指定要Goto的步驟編號 |
 
 ![](../../../.gitbook/assets/actionfunction.jpg)
+
+Continue : 從暫停的狀態繼續運行
+Pause : 暫停線程
+Goto : 指定繼續運行的下一個步驟
+Cleanup : 進入Cleanup流程
+Abort : 終止所有線程
