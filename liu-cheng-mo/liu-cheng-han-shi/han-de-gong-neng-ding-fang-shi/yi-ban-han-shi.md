@@ -149,24 +149,8 @@
 
 | 設定參數 | 參數說明 |
 | :--- | :--- |
-
-
 | 名稱\(Name\) | 步驟名稱，可自訂 |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">格式(Formula)</th>
-      <th style="text-align:left">
-        <p>讀取的時間格式，可自訂</p>
-        <p>。格式範例 : %Y-%m-%d %H:%M:%S</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>| 變數\(Variable\) | 用於接收讀取的時間，必須是字串變數 |
-| :--- | :--- |
+| 格式\(\Formula) | 讀取的時間格式，可自訂 |
+| 變數\(Variable\) | 用於接收讀取的時間，必須是字串變數 |
 
 ![](../../../.gitbook/assets/timestring.jpg)
