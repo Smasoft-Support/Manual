@@ -124,5 +124,42 @@
 
 #### \# 等待\(Wait\)
 
+在流程步驟之間加入等待時間。
+
+| 設定參數 | 參數說明 |
+| :--- | :--- |
+| 名稱\(Name\) | 步驟名稱，可自訂 |
+| 等待時間\(Wait Time\) | 等待時間，單位為毫秒\(ms\) |
+
+![](../../../.gitbook/assets/waittime.jpg)
+
 #### \# 標準時間\(Time String\)
+
+使用於讀取系統當下的時間。
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">設定參數</th>
+      <th style="text-align:left">參數說明</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">名稱(Name)</td>
+      <td style="text-align:left">步驟名稱，可自訂</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">格式(Formula)</td>
+      <td style="text-align:left">
+        <p>讀取的時間格式，可自訂</p>
+        <p>。格式範例 : %Y-%m-%d %H:%M:%S</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">變數(Variable)</td>
+      <td style="text-align:left">用於接收讀取的時間，必須是字串變數</td>
+    </tr>
+  </tbody>
+</table>![](../../../.gitbook/assets/timestring.jpg)
 
