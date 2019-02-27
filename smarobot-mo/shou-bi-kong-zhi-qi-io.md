@@ -4,7 +4,7 @@
 
 * 手臂控制器IO的位置在SmaRobot介面的右上邊紅色框處：
 
-![SmaRobot&#x624B;&#x81C2;&#x63A7;&#x5236;&#x5668;IO&#x4F4D;&#x7F6E;](../.gitbook/assets/12%20%281%29.jpg)
+![SmaRobot&#x624B;&#x81C2;&#x63A7;&#x5236;&#x5668;IO&#x4F4D;&#x7F6E;](../.gitbook/assets/12-1.jpg)
 
 * 點擊之後出現以下畫面：
 

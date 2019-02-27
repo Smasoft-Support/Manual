@@ -15,8 +15,7 @@
 1. Move：以Point-To-Point的模式進行移動。
 2. MoveLine：以直線插捕的模式移動。
 3. Jump：以門控運動模式進行Point-To-Point的移動
-
-* Jump運動模式設定分為相對運動\(Relative\)與絕對運動\(Absolute\)
+4. Jump運動模式設定分為相對運動\(Relative\)與絕對運動\(Absolute\)
 
 ![](../../.gitbook/assets/20.jpg)
 
