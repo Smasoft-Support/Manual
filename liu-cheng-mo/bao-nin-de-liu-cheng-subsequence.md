@@ -16,5 +16,3 @@
 
 ![](../.gitbook/assets/_seqfindcaller.JPG)
 
-
-
