@@ -46,59 +46,16 @@
 在流程運作中跳出有選項的對話視窗，可依照操作員的選擇執行不同的程式\(表達式\)，在對話框出現的期間流程會暫停，最多支援三個按鈕選項。
 
 | 設定參數 | 參數說明 |
-| :--- | :--- |
-
-
 | 名稱\(Name\) | 步驟名稱，可自訂 |
-| :--- | :--- |
-
-
 | 模式\(Type\) | 選擇按鈕的數量 |
-| :--- | :--- |
+| 訊息\(Message\) | 顯示於對話框中的文字 |
+| 按鈕 1\(Button 1\) | 按鈕1參數，左側為按鈕上的文字， 右側為按下後執行的程式，程式內 容請參考下方Expression函式說明。 |
+| 按鈕 2\(Button 2\) | 按鈕2參數，左側為按鈕上的文字， 右側為按下後執行的程式，程式內 容請參考下方Expression函式說明。 |
+| 按鈕 3\(Button 3\) | 按鈕3參數，左側為按鈕上的文字， 右側為按下後執行的程式，程式內 容請參考下方Expression函式說明。 |
 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">訊息(Message)</th>
-      <th style="text-align:left">
-        <p>顯示於對話框中的文字</p>
-        <p>。直接輸入 : "訊息內容"</p>
-        <p>。字串變數 : Local.變數名稱</p>
-        <p>。數值變數 : str("Local.變數名稱")</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>| 按鈕 1\(Button 1\) | 按鈕1參數，左側為按鈕上的文字， 右側為按下後執行的程式，程式內 容請參考下方Expression函式說明。 |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">按鈕 2(Button 2)</th>
-      <th style="text-align:left">
-        <p>按鈕2參數，左側為按鈕上的文字，</p>
-        <p>右側為按下後執行的程式，程式內</p>
-        <p>容請參考下方Expression函式說明。</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">按鈕 3(Button 3)</th>
-      <th style="text-align:left">
-        <p>按鈕3參數，左側為按鈕上的文字，</p>
-        <p>右側為按下後執行的程式，程式內</p>
-        <p>容請參考下方Expression函式說明。</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
+。直接輸入 : "訊息內容"
+。字串變數 : Local.變數名稱
+。數值變數 : str("Local.變數名稱")
 
 ![](../../../.gitbook/assets/button-dialog.jpg)
 
@@ -107,28 +64,13 @@
 能夠進行變數的寫入以及運算，若在同一個Expression中執行多個表達式運算時，可以用分 號\[;\]進行分隔。
 
 | 設定參數 | 參數說明 |
-| :--- | :--- |
-
-
 | 名稱\(Name\) | 步驟名稱，可自訂 |
-| :--- | :--- |
+| 表達式\(Expression\) | 程式內容 |
 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">表達式(Expression)</th>
-      <th style="text-align:left">
-        <p>程式內容</p>
-        <p>。數值變數 : Local.變數名稱=Local.變數名稱+5</p>
-        <p>。布林變數 : Local.變數名稱＝True</p>
-        <p>。字串變數 : Local.變數名稱="文字內容"</p>
-        <p>。字串疊加 : Local.變數名稱=Local.變數名稱+"文字內容"</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
+。數值變數 : Local.變數名稱=Local.變數名稱+5
+。布林變數 : Local.變數名稱＝True
+。字串變數 : Local.變數名稱="文字內容"
+。字串疊加 : Local.變數名稱=Local.變數名稱+"文字內容"
 
 ![](../../../.gitbook/assets/expression.jpg)
 
