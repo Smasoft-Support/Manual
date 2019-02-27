@@ -48,5 +48,5 @@
       <td style="text-align:left">指定要Goto的步驟編號</td>
     </tr>
   </tbody>
-</table>![](../../../.gitbook/assets/actionfunction%20%281%29.jpg)
+</table>
 
