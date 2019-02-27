@@ -1,6 +1,6 @@
 # 模組函式
 
-## \# SmaCOM
+### \# SmaCOM
 
 呼叫SmaCOM模組進行通訊連線。
 
@@ -11,7 +11,7 @@
 | 錯誤名稱\(Error Action\) | 命名模組執行時發生的錯誤 |
 | 資料\(Data\) | 接收資料的變數或寫入的資料內容 |
 
-### \# Method設定方式
+#### \# Method設定方式
 
 * Read : 接收資訊
 * Write : 寫入資訊
@@ -23,7 +23,7 @@
 
 ![](../../../.gitbook/assets/smacomfunction.jpg)
 
-## \# SmaMOTION
+### \# SmaMOTION
 
 呼叫SmaMOTION模組進行運動控制。
 
@@ -37,7 +37,7 @@
 | 逾時\(Timeout\) | 設定等待時間，超過時間會進入錯誤處理程序 |
 | 命令\(Command\) | 模組執行的動作，直接點擊右側的編輯標籤進行設定 |
 
-### \# Method設定方式
+#### \# Method設定方式
 
 * Move : 移動到指定點位
 * SetOrigin : 將該軸當下位置設定為原點
@@ -56,7 +56,7 @@
 
 ![](../../../.gitbook/assets/motionfunction3.JPG)
 
-## \# SmaROBOT
+### \# SmaROBOT
 
 呼叫SmaROBOT模組執行手臂控制。
 
@@ -68,7 +68,7 @@
 | 逾時\(Timeout\) | 設定等待時間，超過時間會進入錯誤處理程序 |
 | 命令\(Command\) | 模組執行的動作，直接點擊右側的編輯標籤進行設定 |
 
-### \# Method設定方式
+#### \# Method設定方式
 
 * Points : 移動到指定點位
 * VisionGuide : 手臂視覺校正設定
@@ -82,7 +82,7 @@
 
 ![](../../../.gitbook/assets/smarobotfunction2.JPG)
 
-## \# SmaVISION
+### \# SmaVISION
 
 呼叫SmaVISION模組執行影像處理。
 
@@ -93,7 +93,7 @@
 | 錯誤名稱\(Error Action\) | 命名模組執行時發生的錯誤 |
 | 更新結果\(Update Result\) | 指派變數去接收影像處理後的結果，或是輸入影像的儲存路徑 |
 
-### \# Method設定方式
+#### \# Method設定方式
 
 * Start : 開始執行影像處理
 * Result : 讀取影像處理完成後的結果
@@ -101,7 +101,7 @@
 
 ![](../../../.gitbook/assets/smavisionfunction.jpg)
 
-## \# SmaDIO
+### \# SmaDIO
 
 呼叫SmaDIO模組執行擴充IO的功能。
 
@@ -113,7 +113,7 @@
 | 逾時\(Timeout\) | 設定等待時間，超過時間會進入錯誤處理程序 |
 | 命令\(Command\) | 模組執行的動作，直接點擊右側的編輯標籤進行設定 |
 
-### \# Method設定方式
+#### \# Method設定方式
 
 * WriteDO : 編輯輸出腳位的狀態
 * ReadDI : 讀取輸入腳位的狀態
