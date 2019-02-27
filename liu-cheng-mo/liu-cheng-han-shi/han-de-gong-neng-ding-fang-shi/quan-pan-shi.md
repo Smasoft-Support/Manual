@@ -21,7 +21,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>## \# If...ElseIf...End
+</table>![](../../../.gitbook/assets/while.jpg)
+
+## \# If...ElseIf...End
 
 由上而下依序進行條件判斷，當遇到條件成立時運行成立的條件式中的程式，其餘條件式中的程式則不執行，條件式中只能進行最多兩個條件判斷，且兩個條件中的變數必須為相同資料型態。
 
@@ -42,4 +44,5 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>
+</table>![](../../../.gitbook/assets/if%20%281%29.jpg)
+
