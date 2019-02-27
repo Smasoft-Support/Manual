@@ -1,6 +1,6 @@
 # 一般函式
 
-## \# 標籤\(Label\)
+### \# 標籤\(Label\)
 
 使用於線程的說明與註解，方便程式的閱讀與維護，在線程運作時不會執行，進階功能可做為Action函式的指向目標進行Goto的跳躍。
 
@@ -11,7 +11,7 @@
 
 ![](../../../.gitbook/assets/label.jpg)
 
-## \# 對話框\(Dialog\)
+### \# 對話框\(Dialog\)
 
 在流程運作中跳出對話視窗，常用於警告使用者軟硬體異常，在對話框出現的期間流程會暫停。
 
@@ -38,7 +38,7 @@
   <tbody></tbody>
 </table>![](../../../.gitbook/assets/dialog.jpg)
 
-## \# 按鈕對話框\(Button Dialog\)
+### \# 按鈕對話框\(Button Dialog\)
 
 在流程運作中跳出有選項的對話視窗，可依照操作員的選擇執行不同的程式\(表達式\)，在對話框出現的期間流程會暫停，最多支援三個按鈕選項。
 
@@ -97,7 +97,7 @@
   <tbody></tbody>
 </table>![](../../../.gitbook/assets/button-dialog.jpg)
 
-## \# 表達式\(Expression\)
+### \# 表達式\(Expression\)
 
 能夠進行變數的寫入以及運算，若在同一個Expression中執行多個表達式運算時，可以用分 號\[;\]進行分隔。
 
@@ -125,7 +125,7 @@
   <tbody></tbody>
 </table>![](../../../.gitbook/assets/expression%20%281%29.jpg)
 
-## \# 等待\(Wait\)
+### \# 等待\(Wait\)
 
 在流程步驟之間加入等待時間。
 
@@ -136,7 +136,7 @@
 
 ![](../../../.gitbook/assets/waittime.jpg)
 
-## \# 標準時間\(Time String\)
+### \# 標準時間\(Time String\)
 
 使用於讀取系統當下的時間。
 
