@@ -52,7 +52,11 @@
 * ReadDI : 讀取輸入腳位的狀態
 * WaitUntil : 等待輸入腳位到達特定狀態
 
-![](../../../.gitbook/assets/motionfunction1.jpg)
+![](../../../.gitbook/assets/motionfunction1.JPG)
+
+![](../../../.gitbook/assets/motionfunction2.JPG)
+
+![](../../../.gitbook/assets/motionfunction3.JPG)
 
 ## \# SmaROBOT
 
