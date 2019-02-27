@@ -14,8 +14,6 @@ Find Straight Line 找直線
 
 ![](../../../.gitbook/assets/tu-pian-24.jpg)
 
-
-
 Find Circle: 找圓
 
 * 在框選的影像區域中，搜尋圓形輪廓的目標，並輸出該圓形的圓心像素座標、半徑與真圓度
@@ -49,6 +47,4 @@ Geometric Pattern Match: 幾何圖像比對
 ![](../../../.gitbook/assets/tu-pian-21.png)
 
 ![](../../../.gitbook/assets/tu-pian-22.png)
-
-
 

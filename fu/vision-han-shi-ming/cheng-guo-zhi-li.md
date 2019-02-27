@@ -17,5 +17,3 @@ Set Result Status
 
 ![](../../.gitbook/assets/tu-pian-40.png)
 
-
-

@@ -6,5 +6,3 @@ Image Mask
 
 ![](../../../.gitbook/assets/tu-pian-38.png)
 
-
-

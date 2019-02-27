@@ -8,5 +8,3 @@ Histogram: 灰階直方圖
 
 ![](../../../.gitbook/assets/tu-pian-14.jpg)
 
-
-

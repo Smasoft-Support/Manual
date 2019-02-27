@@ -18,5 +18,3 @@ FindCoordSys \(Rect\): 自動定義 ROI 座標點\(直角\)
 
 ![](../../../.gitbook/assets/tu-pian-27.png)
 
-
-

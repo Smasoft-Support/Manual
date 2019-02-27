@@ -6,5 +6,3 @@ Extract: 抽色
 
 ![](../../../.gitbook/assets/tu-pian-10.png)
 
-
-
