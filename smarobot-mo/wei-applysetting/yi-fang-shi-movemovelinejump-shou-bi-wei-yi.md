@@ -22,3 +22,7 @@
 
 ![](../../.gitbook/assets/21.jpg)
 
+* 設定完成後，記得點擊"Apply Setting"存取設定值。
+
+![](../../.gitbook/assets/23.jpg)
+
