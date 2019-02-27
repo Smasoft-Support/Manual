@@ -20,9 +20,7 @@
 | 名稱\(Name\) | 步驟名稱，可自訂 |
 | 訊息\(Message\) | 顯示於對話框中的文字 |
 
-直接輸入 : "訊息內容"
-字串變數 : Local.變數名稱
-數值變數 : str("Local.變數名稱")
+直接輸入 : "訊息內容" 字串變數 : Local.變數名稱 數值變數 : str\("Local.變數名稱"\)
 
 ![](../../../.gitbook/assets/dialog.jpg)
 
@@ -39,9 +37,7 @@
 | 按鈕 2\(Button 2\) | 按鈕2參數，左側為按鈕上的文字， 右側為按下後執行的程式，程式內 容請參考下方Expression函式說明。 |
 | 按鈕 3\(Button 3\) | 按鈕3參數，左側為按鈕上的文字， 右側為按下後執行的程式，程式內 容請參考下方Expression函式說明。 |
 
-。直接輸入 : "訊息內容"
-。字串變數 : Local.變數名稱
-。數值變數 : str("Local.變數名稱")
+。直接輸入 : "訊息內容" 。字串變數 : Local.變數名稱 。數值變數 : str\("Local.變數名稱"\)
 
 ![](../../../.gitbook/assets/button-dialog.jpg)
 
@@ -54,12 +50,9 @@
 | 名稱\(Name\) | 步驟名稱，可自訂 |
 | 表達式\(Expression\) | 程式內容 |
 
-。數值變數 : Local.變數名稱=Local.變數名稱+5
-。布林變數 : Local.變數名稱＝True
-。字串變數 : Local.變數名稱="文字內容"
-。字串疊加 : Local.變數名稱=Local.變數名稱+"文字內容"
+。數值變數 : Local.變數名稱=Local.變數名稱+5 。布林變數 : Local.變數名稱＝True 。字串變數 : Local.變數名稱="文字內容" 。字串疊加 : Local.變數名稱=Local.變數名稱+"文字內容"
 
-![](../../../.gitbook/assets/expression.jpg)
+![](https://github.com/SmaSEQ/Manual/tree/028d4c04bd6d16da962f0e2787acd842069aec74/.gitbook/assets/expression.jpg)
 
 ## \# 等待\(Wait\)
 
@@ -79,7 +72,8 @@
 | 設定參數 | 參數說明 |
 | :--- | :--- |
 | 名稱\(Name\) | 步驟名稱，可自訂 |
-| 格式\(\Formula) | 讀取的時間格式，可自訂 |
+| 格式\(\Formula\) | 讀取的時間格式，可自訂 |
 | 變數\(Variable\) | 用於接收讀取的時間，必須是字串變數 |
 
 ![](../../../.gitbook/assets/timestring.jpg)
+
