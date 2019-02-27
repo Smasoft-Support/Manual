@@ -1,2 +1,2 @@
-# 封面
+# Initial page
 
