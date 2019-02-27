@@ -66,7 +66,7 @@
   * [夾爪設定](smarobot-mo/zhua-ding.md)
   * [自動路徑規劃](smarobot-mo/zi-lu.md)
 * [SmaMOTION模組](smamotion-mo/README.md)
-  * [操作介面\(極限與原點燈號\)](smamotion-mo/cao-zuo-jie-mian-xian-yuan.md)
+  * [操作介面](smamotion-mo/cao-zuo-jie-mian-xian-yuan.md)
   * [連線設定\(IP\)](smamotion-mo/ding-ip.md)
   * [軸卡參數設定](smamotion-mo/ka-ding.md)
   * [伺服啟動](smamotion-mo/si-fu.md)
