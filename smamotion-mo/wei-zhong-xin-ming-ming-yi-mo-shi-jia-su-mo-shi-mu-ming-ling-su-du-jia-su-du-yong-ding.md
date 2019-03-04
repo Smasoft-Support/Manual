@@ -5,12 +5,13 @@
 * Name : 編輯點位名稱
 * Axis : 軸選擇
 * Type : 編輯點位移動模式
-* Target : 編輯伺服命令(Unit:pulse)
-* Posiotion : 編碼器位置回授(Unit:pulse)
+* Target : 編輯伺服命令\(Unit:pulse\)
+* Posiotion : 編碼器位置回授\(Unit:pulse\)
 * Profile : 編輯點位輪廓模式
 * Start Velocity : 編輯單軸起始速度
 * Max Velocity : 編輯伺服電機最大速度
 * Acceleration : 編輯伺服電機加速度
 * Deceleration : 編輯伺服電機減速度
 
-![](../.gitbook/assets/servopositionedit.jpg)
+![](https://github.com/SmaSEQ/Manual/tree/476f6ba66a4e4d8c8128ca60aacfdbaa1be7e9a4/.gitbook/assets/servopositionedit.jpg)
+
