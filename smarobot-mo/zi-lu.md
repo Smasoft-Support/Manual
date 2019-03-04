@@ -32,12 +32,21 @@
 
 ![Route\_3&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(D-&amp;gt;E\)](../.gitbook/assets/lu-jing-gui-hua-4.JPG)
 
-* 設定完成後記得開啟"AutoPlan"功能，兩點之間的運動將會自動規畫路徑並使用Route方式移動至目標點：
+* 設定完成後記得開啟"AutoPlan"功能，兩點之間的運動將會自動規畫路徑並使用Route方式移動至目標點。
 
 ![](../.gitbook/assets/29.jpg)
 
 ## 在Sequencer上的自動路徑規劃設定
 
 * 在Point Setup裡增加了"Route Auto Planning"選項，若開啟此選項將移動至該路徑規劃目標點時會以AutoRoute的方式移動。
-* 若設定成功，手臂運動路徑每經過途經點會快速且圓滑的方式運動。
+
+![Point Setup&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x9078;&#x9805;](../.gitbook/assets/seqautoroute.jpg)
+
+* 實際應用，AutoPlan ON：
+
+![AutoPlan ON  A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/kai-qi-zi-dong-lu-jing-gui-hua.JPG)
+
+* AutoPlan OFF：
+
+![AutoPlan OFF  A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/wei-kai-qi-zi-dong-lu-jing-gui-hua-lu-xian.JPG)
 
