@@ -6,7 +6,7 @@
 
 ![SmaRobot&#x901F;&#x5EA6;&#x8A2D;&#x5B9A;&#x4F4D;&#x7F6E;](../.gitbook/assets/7.jpg)
 
-* 點擊後會出現以下視窗：
+* 點擊後會依照不同手臂廠牌出現以下視窗：
 
 ![SmaRobot&#x901F;&#x5EA6;&#x8A2D;&#x5B9A;&#x5C0F;&#x8996;&#x7A97;](../.gitbook/assets/8.jpg)
 
