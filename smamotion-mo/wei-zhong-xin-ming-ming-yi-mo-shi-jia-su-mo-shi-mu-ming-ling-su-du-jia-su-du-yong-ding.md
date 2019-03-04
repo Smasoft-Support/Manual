@@ -13,5 +13,4 @@
 * Acceleration : 編輯伺服電機加速度
 * Deceleration : 編輯伺服電機減速度
 
-![](https://github.com/SmaSEQ/Manual/tree/476f6ba66a4e4d8c8128ca60aacfdbaa1be7e9a4/.gitbook/assets/servopositionedit.jpg)
-
+![](../.gitbook/assets/servopositionedit.jpg)
