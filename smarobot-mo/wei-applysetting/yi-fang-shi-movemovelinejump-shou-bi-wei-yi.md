@@ -13,7 +13,7 @@
 ![SmaRobot&#x79FB;&#x52D5;&#x65B9;&#x5F0F;](../../.gitbook/assets/18.jpg)
 
 1. Move：以Point-To-Point的模式進行移動。
-2. MoveLine：以直線插捕的模式移動。
+2. MoveLine：以直線插補的模式移動。
 3. Jump：以門控運動模式進行Point-To-Point的移動
 4. Jump運動模式設定分為相對運動\(Relative\)與絕對運動\(Absolute\)
 
