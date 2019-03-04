@@ -32,7 +32,7 @@
 
 ![Route\_3&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(D-&amp;gt;E\)](../.gitbook/assets/lu-jing-gui-hua-4.JPG)
 
-    ●  設定完成後記得開啟"AutoPlan"功能：
+* 設定完成後記得開啟"AutoPlan"功能，兩點之間的運動將會自動規畫路徑並使用Route方式移動至目標點：
 
 ![](../.gitbook/assets/29.jpg)
 
