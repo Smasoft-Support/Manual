@@ -8,7 +8,7 @@
 
 * 當手臂完成點位設定後，配合自動路徑規劃的功能將點位依照現場狀況進行劃分，並組成若干條路徑，如此一來在手臂移動時可避免在使用者在不了解情況之下導致撞機的風險，同時也能將流程更加簡化。
 
-![&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x85CD;&#x5716;](../.gitbook/assets/26.jpg)
+![&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x793A;&#x610F;&#x5716;](../.gitbook/assets/26.jpg)
 
 * 點擊"Edit Route"後會出現以下視窗：
 
@@ -19,7 +19,20 @@
 3. **途經點位表**：顯示使用者自行選擇之路徑組別中的途經點位。
 4. **路徑 起始點/終點 表**：顯示起始點/終點位置\(switch功能是轉換起始/終點位置\)。
 5. **途經點預覽設定表**：預覽顯示該路徑組別之途經點順序。
-6. 設定完成後記得開啟"AutoPlan"功能：
+
+* 依照自動路徑規劃藍圖設定路徑組別：
+
+![&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x85CD;&#x5716;](../.gitbook/assets/lu-jing-gui-hua-lan-tu.jpg)
+
+![Route&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(C-&amp;gt;B\)](../.gitbook/assets/lu-jing-gui-hua-1.JPG)
+
+![Route\_1&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(A-&amp;gt;B-&amp;gt;D\)](../.gitbook/assets/lu-jing-gui-hua-2.JPG)
+
+![Route\_2&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(D-&amp;gt;F-&amp;gt;G\)](../.gitbook/assets/lu-jing-gui-hua-3.JPG)
+
+![Route\_3&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(D-&amp;gt;E\)](../.gitbook/assets/lu-jing-gui-hua-4.JPG)
+
+    ●  設定完成後記得開啟"AutoPlan"功能：
 
 ![](../.gitbook/assets/29.jpg)
 
