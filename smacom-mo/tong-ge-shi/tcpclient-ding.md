@@ -13,7 +13,8 @@
 1. IP/Port設定欄位，預設為"127.0.0.1/6024"。
 2. 接收與查看資料格式設定，預設為Standard、Buffered、CRLF與Immediate模式。
 
-* Standard\(預設\)：
+* Standard\(預設\)：等待讀取所指定的bytes到達或是Client讀取時間逾時為止，並回傳目前接收到的byte數量。若byte數量少於Client需求的數量，會回傳部分的byte並報告超時錯誤訊息。
+* Buffered：等待讀取指定的bytes到達或是Client讀取時間逾時為止。若byte數量少於Client需求的數量，不會回傳任何的byte數量並報告超時錯誤訊息。
 
     3. 連線逾時設定與資料 傳送/接收 讀/寫 逾時時間設定。
 
