@@ -36,7 +36,8 @@
 
 ![](../.gitbook/assets/29.jpg)
 
-* 若設定成功，手臂運動路徑每經過途經點會快速且圓滑的方式運動。
+## 在Sequencer上的自動路徑規劃設定
 
-![](../.gitbook/assets/30.jpg)
+* 在Point Setup裡增加了"Route Auto Planning"選項，若開啟此選項將移動至該路徑規劃目標點時會以AutoRoute的方式移動。
+* 若設定成功，手臂運動路徑每經過途經點會快速且圓滑的方式運動。
 
