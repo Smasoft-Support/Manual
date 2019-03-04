@@ -32,7 +32,7 @@
 
 ![Route\_3&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(D-&amp;gt;E\)](../.gitbook/assets/lu-jing-gui-hua-4.JPG)
 
-* 設定完成後記得開啟"AutoPlan"功能，兩點之間的運動將會自動規畫路徑並使用Route方式移動至目標點。
+* 設定完成後記得開啟"AutoPlan"功能，兩點之間的運動將會自動規劃路徑並使用Route方式移動至目標點。
 
 ![](../.gitbook/assets/29.jpg)
 
@@ -42,11 +42,11 @@
 
 ![Point Setup&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x9078;&#x9805;](../.gitbook/assets/seqautoroute.jpg)
 
-* 實際應用，AutoPlan ON：
+* 實際應用，AutoPlan ON：流程中只需增加目標點。
 
 ![AutoPlan ON  A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/kai-qi-zi-dong-lu-jing-gui-hua.JPG)
 
-* AutoPlan OFF：
+* AutoPlan OFF：過程中需自行設定各個點位且到該點位時都會停頓下來
 
 ![AutoPlan OFF  A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/wei-kai-qi-zi-dong-lu-jing-gui-hua-lu-xian.JPG)
 
