@@ -57,11 +57,7 @@
   * Line Fit: 多點所成之最佳直線
   * Circle Fit: 多點所成之圓
   * Ellipse Fit: 多點所成之橢圓
-
-{% hint style="info" %}
-選點的先後順序與計算之定義有關
-{% endhint %}
-
+  
 ![](../../.gitbook/assets/tu-pian-25.jpg)
 
 <<<<<<< HEAD
