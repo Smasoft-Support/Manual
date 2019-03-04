@@ -1,4 +1,4 @@
-# TCPserver與設定參數
+# TCPServer與設定參數
 
 * TCPServer設定位於SmaCOM操作介面上方處：
 

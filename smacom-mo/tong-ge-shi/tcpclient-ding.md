@@ -1,4 +1,4 @@
-# TCPclient與設定參數
+# TCPClient與設定參數
 
 * TCPClient功能位於SmaCOM上方處：
 
