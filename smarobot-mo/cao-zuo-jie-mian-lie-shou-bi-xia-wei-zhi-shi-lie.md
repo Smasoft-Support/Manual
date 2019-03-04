@@ -1,6 +1,6 @@
 # 操作介面\(連線狀態列、手臂當下位置顯示列\)
 
-SmaRobot的操作介面規劃出可以讓使用者操作簡單明瞭，以下為SmaRobot操作介面的介紹。
+SmaRobot的操作介面規劃出可以讓使用者簡單明瞭，以下為SmaRobot操作介面的介紹。
 
 ![SmaRobot&#x64CD;&#x4F5C;&#x4ECB;&#x9762;](../.gitbook/assets/1-1.jpg)
 
