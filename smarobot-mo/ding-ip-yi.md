@@ -6,7 +6,7 @@
 
 ![&#x6A5F;&#x68B0;&#x624B;&#x81C2;&#x9023;&#x7DDA;&#x8A2D;&#x5B9A;&#x4F4D;&#x7F6E;](../.gitbook/assets/5.jpg)
 
-* 點擊後會出現以下視窗：
+* 點擊後會依據不同手臂廠牌出現以下視窗：
 
 ![](../.gitbook/assets/connectsetup.jpg)
 
