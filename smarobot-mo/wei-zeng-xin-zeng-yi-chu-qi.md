@@ -14,6 +14,6 @@
 2. Action：運動模式。
 3. X/Y/Z/U/V/W：點位座標資訊。
 4. Handly：手臂姿態。
-5. Tool：夾爪編號。
+5. Tool：工具編號。
 6. Remark：註解。
 
