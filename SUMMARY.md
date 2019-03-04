@@ -70,7 +70,7 @@
   * [連線設定\(IP\)](smamotion-mo/ding-ip.md)
   * [軸卡參數設定](smamotion-mo/ka-ding.md)
   * [伺服啟動](smamotion-mo/si-fu.md)
-  * [點位增減\(新增、移除\)](smamotion-mo/wei-zeng-xin-zeng-yi-chu.md)
+  * [點位增減](smamotion-mo/wei-zeng-xin-zeng-yi-chu.md)
   * [點位表\(名稱、軸、移動模式、加減速模式、目標命令、速度、加速度\)](smamotion-mo/wei-biao-ming-yi-mo-shi-jia-su-mo-shi-mu-ming-ling-su-du-jia-su-du.md)
   * [點位編輯\(重新命名、軸選擇、移動模式、加減速模式、目標命令、速度、加速度、應用設定\)](smamotion-mo/wei-zhong-xin-ming-ming-yi-mo-shi-jia-su-mo-shi-mu-ming-ling-su-du-jia-su-du-yong-ding.md)
   * [點位操作\(移動、停止、回原點、設定原點、錯誤重製\)](smamotion-mo/wei-cao-zuo-yi-ting-zhi-hui-yuan-ding-yuan-zhong.md)
