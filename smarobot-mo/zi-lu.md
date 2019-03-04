@@ -46,7 +46,11 @@
 
 ![AutoPlan ON  A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/kai-qi-zi-dong-lu-jing-gui-hua.JPG)
 
-* AutoPlan OFF：過程中需自行設定各個點位且到該點位時都會停頓下來
+* AutoPlan OFF：過程中需自行設定各個點位且到達該點位時都會停頓下來。
 
 ![AutoPlan OFF  A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/wei-kai-qi-zi-dong-lu-jing-gui-hua-lu-xian.JPG)
+
+## 運行過程按下急停
+
+* 若在移動過程中按下急停或是Point中的offset功能，則當下位置不會出現在點位表中。自動路徑規劃會找尋上一次移動路徑的歷史路徑，並從中找尋最近與Tool相同的點位來做路徑規劃。
 
