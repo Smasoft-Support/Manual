@@ -1,6 +1,6 @@
 # 色彩分析
 
-Color Classification: 色彩定義
+## Color Classification: 色彩定義
 
 * Path: 載入資訊檔\(.clf\)
 * Target: 目標名稱
@@ -8,7 +8,15 @@ Color Classification: 色彩定義
 
 ![](../../../.gitbook/assets/tu-pian-5.png)
 
-Color Match 色彩比對
+#### ROI 工具:
+
+|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| :---: | :---: | :---: | :---: |
+| - | 單一 / 多個 | - | - |
+
+ 
+
+## Color Match 色彩比對
 
 * Create Template: 創建比對樣本
 * Color Sensitivity: 顏色解析精細度
@@ -16,7 +24,15 @@ Color Match 色彩比對
 
 ![](../../../.gitbook/assets/tu-pian-6.png)
 
-Feature Vector: 特徵向量比對
+#### ROI 工具:
+
+|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| :---: | :---: | :---: | :---: |
+| - | 單一 / 多個 | - | - |
+
+ 
+
+## Feature Vector: 特徵向量比對
 
 * Grid Size: 分割數量
 * Histogram Bins: 特徵向量解析支束
@@ -24,9 +40,28 @@ Feature Vector: 特徵向量比對
 
 ![](../../../.gitbook/assets/tu-pian-7.jpg)
 
-Line Profile
+#### ROI 工具:
+
+|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| :---: | :---: | :---: | :---: |
+| - | 單一 | - | - |
+
+ 
+
+## Line Profile
 
 * Save Current to Golden: 儲存ROI內所劃出的 3\*3 Line Profile
 
 ![](../../../.gitbook/assets/tu-pian-8.jpg)
 
+<<<<<<< HEAD
+=======
+#### ROI 工具:
+
+|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| :---: | :---: | :---: | :---: |
+| - | 單一 | - | - |
+
+ 
+
+>>>>>>> SmaVISION

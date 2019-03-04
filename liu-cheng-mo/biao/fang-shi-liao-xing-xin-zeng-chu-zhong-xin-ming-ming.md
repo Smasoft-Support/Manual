@@ -30,7 +30,7 @@
 
 <<<<<<< HEAD
 {% hint style="info" %}
-\*\*\*\*![](../../.gitbook/assets/group%20%281%29.jpg) **Group**的功能是讓使用者能夠替變數自訂群組，方便進行管理與分類。
+\*\*\*\*![](../../.gitbook/assets/group-1.jpg) **Group**的功能是讓使用者能夠替變數自訂群組，方便進行管理與分類。
 {% endhint %}
 
 =======
