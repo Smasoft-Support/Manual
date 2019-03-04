@@ -57,7 +57,7 @@
     * [移動方式\(move、moveline、jump、手臂點位移動\)](smarobot-mo/wei-applysetting/yi-fang-shi-movemovelinejump-shou-bi-wei-yi.md)
     * [教導當下點位](smarobot-mo/wei-applysetting/jiao-xia-wei.md)
   * [手臂控制器IO](smarobot-mo/shou-bi-kong-zhi-qi-io.md)
-  * [夾爪設定](smarobot-mo/zhua-ding.md)
+  * [工具設定](smarobot-mo/zhua-ding.md)
   * [自動路徑規劃](smarobot-mo/zi-lu.md)
 * [SmaMOTION模組](smamotion-mo/README.md)
   * [操作介面\(極限與原點燈號\)](smamotion-mo/cao-zuo-jie-mian-xian-yuan.md)
