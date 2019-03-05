@@ -70,3 +70,11 @@
 1. 移動完畢後，畫面將標示圓點位置。
 2. 點擊Next，手臂相機旋轉180度或-180度並回到旋轉位置。
 
+* 手臂視覺取物校正完成：
+
+![&#x624B;&#x81C2;&#x8996;&#x89BA;&#x53D6;&#x7269;&#x6821;&#x6B63;&#x5B8C;&#x6210;](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-6.jpg)
+
+* 手臂工具資料：若為校正DownCam，會自動新增該工具座標。
+
+![&#x624B;&#x81C2;&#x5DE5;&#x5177;&#x8CC7;&#x6599;](../../../.gitbook/assets/downcam-shou-bi-gong-ju-zi-liao.jpg)
+
