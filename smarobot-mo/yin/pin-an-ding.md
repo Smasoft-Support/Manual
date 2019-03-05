@@ -35,17 +35,18 @@
 
 * 編輯影像模組Pattern Match。
 
-![&#x5F71;&#x50CF;&#x6A21;&#x7D44;Pattern Match&#x8A2D;&#x5B9A;](../../.gitbook/assets/patten-match-she-ding.jpg)
+![Pattern Match&#x8A2D;&#x5B9A;](../../.gitbook/assets/patten-match-she-ding.jpg)
 
 1. 在Locate的選項點擊Pattern Match。
 2. 在彈出視窗中設定樣板，並在影像顯示區設定要搜尋的ROI。\(建議設定兩個Pattern Match並接著使用Caliper增加穩定性\(後續\)\)
 
 * 編輯影像模組Caliper：
 
-![&#x5F71;&#x50CF;&#x6A21;&#x7D44;Caliper&#x8A2D;&#x5B9A;](../../.gitbook/assets/caliper-she-ding-1.jpg)
+![Caliper MidPoint&#x8A2D;&#x5B9A;](../../.gitbook/assets/caliper-she-ding-1.jpg)
+
+![Caliper Angle from Horizontal &#x8A2D;&#x5B9A;](../../.gitbook/assets/caliper-she-ding-2.jpg)
 
 1. 在Measure的選項點擊Caliper。
 2. 使用MidPoint功能，找兩個Pattern Match的中點。
-
-
+3. 使用Angle from Horizontal功能，找兩個Pattern Match的角度。
 
