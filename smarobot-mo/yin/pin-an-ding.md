@@ -50,3 +50,10 @@
 2. 使用MidPoint功能，找兩個Pattern Match的中點。
 3. 使用Angle from Horizontal功能，找兩個Pattern Match的角度。
 
+* 設定結果別名：
+
+![Pattern Match&#x7D50;&#x679C;&#x5225;&#x540D;](../../.gitbook/assets/patternmatch-jie-guo-bie-ming.jpg)
+
+1. 設定目標的位置和角度結果別名。
+2. 記得點擊SmaSEQ右上方儲存。
+
