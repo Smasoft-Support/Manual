@@ -41,3 +41,11 @@
 1. 若Offset設定正確無誤，此時Tool點應在抓取點。
 2. 按下Next回到初始位置。
 
+* 建立Offset 完成：
+
+![&#x5EFA;&#x7ACB;Offset&#x5B8C;&#x6210;](../../../.gitbook/assets/jian-li-offset7.jpg)
+
+* 若成功建立，Manage Calibration視窗會多一項Offset。
+
+![Manage Calibration&#x65B0;&#x589E;Offset&#x5B8C;&#x6210;](../../../.gitbook/assets/jian-li-offset8.jpg)
+

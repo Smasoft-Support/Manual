@@ -70,7 +70,7 @@
     * [樣品視覺專案設定](smarobot-mo/yin/pin-an-ding.md)
     * [參數設定](smarobot-mo/yin/ding/README.md)
       * [設定Offset](smarobot-mo/yin/ding/ding-offset.md)
-      * [設定Golden](smarobot-mo/yin/ding/ding-golden.md)
+      * [設定Golden\(DownCam\)](smarobot-mo/yin/ding/ding-golden.md)
     * [Sequencer調用](smarobot-mo/yin/sequencer-yong.md)
 * [SmaMOTION模組](smamotion-mo/README.md)
   * [操作介面\(極限與原點燈號\)](smamotion-mo/cao-zuo-jie-mian-xian-yuan.md)
