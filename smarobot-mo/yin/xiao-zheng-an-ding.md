@@ -9,3 +9,8 @@
 1. 右鍵點擊SmaVision，點選Create new。
 2. 為本視覺模組命名。
 
+* 接著編輯影像模組來取得圖像。
+
+![&#x7DE8;&#x8F2F;&#x5F71;&#x50CF;&#x6A21;&#x7D44;\_&#x53D6;&#x50CF;](../../.gitbook/assets/bian-ji-ying-xiang-mo-zu.jpg)
+
+1. 
