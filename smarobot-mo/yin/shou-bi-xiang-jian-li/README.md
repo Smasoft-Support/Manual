@@ -19,3 +19,19 @@
 3. 移動手臂至拍照位置，並記錄手臂的點位\(此點位的Z軸高度即為之後導引的取像高度\)。
 4. 若校正為DownCam，拍照點的U軸角度必須為0。
 
+* 啟動校正程序：
+
+![&#x6821;&#x6B63;&#x7A0B;&#x5E8F;](../../../.gitbook/assets/qi-dong-xiao-zheng-cheng-xu.jpg)
+
+1. 右鍵點擊手臂模組，選擇Vision Guide Setup。
+2. 跳出Manage Calibration視窗，在視窗空白處點右鍵選擇Launch Calibration。
+
+![&#x6821;&#x6B63;&#x7A0B;&#x5E8F;&#x8996;&#x7A97;](../../../.gitbook/assets/xiao-zheng-cheng-xu-shi-chuang-jie-shao.jpg)
+
+1. Name：校正名稱。
+2. Type：校正種類，分成RobotCam、TopCam與DownCam三種。
+3. Initial Offset：初始校正往X方向移動的距離。
+4. Rotate Angle：校正過程旋轉U軸的角度。
+5. Vision Project：選擇剛建立識別校正片的SmaVision專案。
+6. Cam Width/Height：相機的x / y解析度。
+
