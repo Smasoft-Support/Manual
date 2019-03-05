@@ -24,7 +24,7 @@
 * ![](../../.gitbook/assets/bool.jpg) **布林變數\(Boolean\) :** 傳遞布林\(TRUE\FALSE\)的變數型別。
 * ![](../../.gitbook/assets/image.jpg) **圖像變數\(Image\) :** 傳遞圖像的變數型別。
 * ![](../../.gitbook/assets/array.jpg) **陣列變數\(Array\) :** 傳遞陣列的變數型別，陣列的元素可以是數字、字串、布林或圖像。
-* ![](../../.gitbook/assets/group.jpg) **自訂群組\(**Group\) :** 讓使用者能夠替變數自訂群組歸類，方便進行管理與分類。
+* ![](../../.gitbook/assets/group.jpg) **自訂群組\(**Group\) :\*\* 讓使用者能夠替變數自訂群組歸類，方便進行管理與分類。
 
 ![](../../.gitbook/assets/_createarray.JPG)
 
