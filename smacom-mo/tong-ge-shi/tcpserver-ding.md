@@ -9,11 +9,9 @@
 ![SmaCOM TCPServer&#x8A2D;&#x5B9A;&#x4ECB;&#x9762;](../../.gitbook/assets/tcpserverstep-jie-mian.JPG)
 
 1. 接收與查看資料格式設定，預設為Standard、Buffered、CRLF與Immediate。
-
-* Standard\(預設\)：等待讀取所指定的bytes到達或是Server讀取時間逾時為止，並回傳目前接收到的bytes。若byte數量少於Server需求的數量，會回傳部分的byte並報告超時錯誤訊息。
-* Buffered：等待讀取指定的bytes到達或是Server讀取時間逾時為止。若byte數量少於Server需求的數量，不會回傳任何的byte並報告超時錯誤訊息。
-* CRLF：等待讀取所指定的bytes到達或是讀取到CR\(Carriage-Return\)與LF\(Line Feed\)換行符號與Server讀取時間逾時為止。若在字串中接收到CRLF符號，會回傳接收到的byte包含CR與LF符號。
-* Immediate：等待讀取所指定的任何bytes到達，直到沒有資料而Server讀取時間逾時為止，並回傳接收到的bytes。若函數沒有收到byte，則回傳超時錯誤訊息。
-
-    2. 與Client連線逾時設定與資料 傳送/接收 讀/寫 逾時時間設定。
+2. Standard\(預設\)：等待讀取所指定的bytes到達或是Server讀取時間逾時為止，並回傳目前接收到的bytes。若byte數量少於Server需求的數量，會回傳部分的byte並報告超時錯誤訊息。
+3. Buffered：等待讀取指定的bytes到達或是Server讀取時間逾時為止。若byte數量少於Server需求的數量，不會回傳任何的byte並報告超時錯誤訊息。
+4. CRLF：等待讀取所指定的bytes到達或是讀取到CR\(Carriage-Return\)與LF\(Line Feed\)換行符號與Server讀取時間逾時為止。若在字串中接收到CRLF符號，會回傳接收到的byte包含CR與LF符號。
+5. Immediate：等待讀取所指定的任何bytes到達，直到沒有資料而Server讀取時間逾時為止，並回傳接收到的bytes。若函數沒有收到byte，則回傳超時錯誤訊息。
+   1. 與Client連線逾時設定與資料 傳送/接收 讀/寫 逾時時間設定。
 
