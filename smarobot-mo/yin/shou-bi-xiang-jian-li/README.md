@@ -37,29 +37,36 @@
 
 * 開始手臂視覺取物校正step 1：
 
-![&#x624B;&#x81C2;&#x53D6;&#x7269;&#x6821;&#x6B63;step 1](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-1.jpg)
+![&#x624B;&#x81C2;&#x8996;&#x89BA;&#x53D6;&#x7269;&#x6821;&#x6B63;step 1](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-1.jpg)
 
 1. 若找圓成功，畫面會將以紅色圓框標示圓位置。
 2. 點擊Next，手臂會往X軸正方向移動設定的距離。
 
 * 手臂視覺取物校正step 2：
 
-![&#x624B;&#x81C2;&#x53D6;&#x7269;&#x6821;&#x6B63;step 2](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-2.jpg)
+![&#x624B;&#x81C2;&#x8996;&#x89BA;&#x53D6;&#x7269;&#x6821;&#x6B63;step 2](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-2.jpg)
 
 1. 移動完畢後，畫面將標示圓點位置。
 2. 點擊Next，手臂移動使圓點在畫面中心。
 
 * 手臂視覺取物校正step 3：
 
-![&#x624B;&#x81C2;&#x53D6;&#x7269;&#x6821;&#x6B63;step 3](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-3.png)
+![&#x624B;&#x81C2;&#x8996;&#x89BA;&#x53D6;&#x7269;&#x6821;&#x6B63;step 3](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-3.png)
 
 1. 移動完畢後，畫面將標示圓點位置。
 2. 點擊Next，手臂相機開始旋轉180度或是-180度\(請留意手臂周遭是否安全\)。
 
 * 手臂視覺取物校正step 4：
 
-![&#x624B;&#x81C2;&#x53D6;&#x7269;&#x6821;&#x6B63;step 4](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-4.jpg)
+![&#x624B;&#x81C2;&#x8996;&#x89BA;&#x53D6;&#x7269;&#x6821;&#x6B63;step 4](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-4.jpg)
 
 1. 旋轉後，程式會要求使用者操作手臂，使圓點再次回到畫面中\(如畫面面板所示\)。
 2. 點擊Next，找圓後移動手臂使其位在影像中心。
+
+* 手臂視覺取物校正step 5：
+
+![&#x624B;&#x81C2;&#x8996;&#x89BA;&#x53D6;&#x7269;&#x6821;&#x6B63;step 5](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-5.jpg)
+
+1. 移動完畢後，畫面將標示圓點位置。
+2. 點擊Next，手臂相機旋轉180度或-180度並回到旋轉位置。
 
