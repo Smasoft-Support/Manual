@@ -34,3 +34,10 @@
 
 1. 在相機能拍到的範圍內，將要抓取的元件隨意移動，並按下Next來將Tool點移動到抓取點\(此步驟是為了驗證剛剛設定的Offset是否正確\)。
 
+* 建立Offset step 6：
+
+![&#x5EFA;&#x7ACB;Offset&#x6D41;&#x7A0B;step 6](../../../.gitbook/assets/jian-li-offset6.jpg)
+
+1. 若Offset設定正確無誤，此時Tool點應在抓取點。
+2. 按下Next回到初始位置。
+
