@@ -62,7 +62,7 @@
     * [路徑規劃設定](smarobot-mo/zi-lu/lu-ding.md)
     * [Sequencer上的自動路徑規劃設定](smarobot-mo/zi-lu/sequencer-shang-de-zi-lu-ding.md)
     * [運行過程按下急停](smarobot-mo/zi-lu/hang-cheng-an-xia-ji-ting.md)
-    * [設定路徑比較](smarobot-mo/zi-lu/ding-lu-bi.md)
+    * [設定路徑結果比較](smarobot-mo/zi-lu/ding-lu-bi.md)
   * [視覺導引](smarobot-mo/yin/README.md)
     * [校正視覺專案設定](smarobot-mo/yin/xiao-zheng-an-ding.md)
     * [手臂與相機關係建立](smarobot-mo/yin/shou-bi-xiang-jian-li/README.md)
