@@ -37,3 +37,15 @@
 
 * 開始手臂視覺取物校正step 1：
 
+![&#x624B;&#x81C2;&#x53D6;&#x7269;&#x6821;&#x6B63;step 1](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-1.jpg)
+
+1. 若找圓成功，畫面會將以紅色圓框標示圓位置。
+2. 點擊Next，手臂會往X軸正方向移動設定的距離。
+
+* 手臂視覺取物校正step 2：
+
+![&#x624B;&#x81C2;&#x53D6;&#x7269;&#x6821;&#x6B63;step 2](../../../.gitbook/assets/shou-bi-qu-wu-xiao-zheng-2.jpg)
+
+1. 移動完畢後，畫面將標示圓點位置。
+2. 點擊Next，手臂移動使圓點在畫面中心。
+
