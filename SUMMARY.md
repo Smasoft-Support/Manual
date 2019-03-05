@@ -72,6 +72,7 @@
       * [設定Offset](smarobot-mo/yin/ding/ding-offset.md)
       * [設定Golden\(DownCam\)](smarobot-mo/yin/ding/ding-golden.md)
     * [Sequencer調用](smarobot-mo/yin/sequencer-yong.md)
+    * [設定引導極限](smarobot-mo/yin/ding-yin-xian.md)
 * [SmaMOTION模組](smamotion-mo/README.md)
   * [操作介面\(極限與原點燈號\)](smamotion-mo/cao-zuo-jie-mian-xian-yuan.md)
   * [連線設定\(IP\)](smamotion-mo/ding-ip.md)
