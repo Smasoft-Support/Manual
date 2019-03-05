@@ -19,8 +19,7 @@
 3. **途經點位表**：顯示使用者自行選擇之路徑組別中的途經點位。
 4. **路徑 起始點/終點 表**：顯示起始點/終點位置\(switch功能是轉換起始/終點位置\)。
 5. **途經點預覽設定表**：預覽顯示該路徑組別之途經點順序。
-
-* 依照自動路徑規劃藍圖設定路徑組別：
+6. 依照自動路徑規劃藍圖設定路徑組別：
 
 ![&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x85CD;&#x5716;](../.gitbook/assets/lu-jing-gui-hua-lan-tu.jpg)
 
@@ -44,11 +43,11 @@
 
 * 實際應用，AutoPlan ON：流程中只需增加目標點。
 
-![AutoPlan ON  A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/kai-qi-zi-dong-lu-jing-gui-hua.JPG)
+![AutoPlan ON A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/kai-qi-zi-dong-lu-jing-gui-hua.JPG)
 
 * AutoPlan OFF：過程中需自行設定各個點位且到達該點位時都會停頓下來。
 
-![AutoPlan OFF  A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/wei-kai-qi-zi-dong-lu-jing-gui-hua-lu-xian.JPG)
+![AutoPlan OFF A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../.gitbook/assets/wei-kai-qi-zi-dong-lu-jing-gui-hua-lu-xian.JPG)
 
 ## 運行過程按下急停
 

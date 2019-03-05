@@ -43,15 +43,12 @@
     * [TCPServer與設定參數](smacom-mo/tong-ge-shi/tcpserver-ding.md)
   * [通訊測試\(connect、disconnect、write、read、clear\)](smacom-mo/tong-connectdisconnectwritereadclear.md)
 * [SmaVISION模組](smavision-mo/README.md)
-<<<<<<< HEAD
   * [操作介面](smavision-mo/cao-zuo-jie-mian.md)
   * [簡單的影像概念\(彩色、灰階、二值化\)](smavision-mo/de-ying-xiang-gai-nian-cai-se-hui-er-hua.md)
   * [影像處理流程\(加入、編輯、刪除功能\)](smavision-mo/ying-xiang-li-liu-cheng-ru-he-jia-ru-han-shi-you-ding-han-shi-you-chu-han-shi.md)
-=======
-  * [簡單的影像概念\(彩色、灰階、二質化\)](smavision-mo/de-ying-xiang-gai-nian-cai-se-hui-er-hua.md)
-  * [操作介面](smavision-mo/cao-zuo-jie-mian.md)
-  * [影像處理流程\(如何加入函式、右鍵設定函式、右鍵刪除函式\)](smavision-mo/ying-xiang-li-liu-cheng-ru-he-jia-ru-han-shi-you-ding-han-shi-you-chu-han-shi.md)
->>>>>>> SmaROBOT
+  * [簡單的影像概念\(彩色、灰階、二質化\)](smavision-mo/de-ying-xiang-gai-nian-cai-se-hui-er-hua-1.md)
+  * [操作介面](smavision-mo/cao-zuo-jie-mian-1.md)
+  * [影像處理流程\(如何加入函式、右鍵設定函式、右鍵刪除函式\)](smavision-mo/ying-xiang-li-liu-cheng-ru-he-jia-ru-han-shi-you-ding-han-shi-you-chu-han-shi-1.md)
   * [影像操作\(放大、縮小、平移、存檔、框選ROI、刪除ROI\)](smavision-mo/ying-xiang-cao-zuo-fang-da-xiao-ping-yi-cun-kuang-roi-chu-roi.md)
   * [結果數據處理](smavision-mo/kan-guo.md)
   * [影像函式列表\(詳細參考附錄\)](smavision-mo/ying-xiang-han-shi-lie-biao-kao-fu.md)

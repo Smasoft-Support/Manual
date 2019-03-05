@@ -1,19 +1,20 @@
 # 環狀圖形展開工具
 
-## Unwrap
+## 環狀圖形展開工具
+
+### Unwrap
 
 * 將框選的圓形ROI中的影像展開
 
 ![](../../../.gitbook/assets/tu-pian-39.png)
 
-<<<<<<< HEAD
-=======
+## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | 單一 |
 
- 
+> > > > > > > SmaVISION
 
->>>>>>> SmaVISION

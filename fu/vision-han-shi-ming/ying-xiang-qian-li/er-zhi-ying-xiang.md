@@ -4,22 +4,22 @@ description: Binary Image
 
 # 二值影像
 
-## Basic Morphology: 二值影像形態學
+## 二值影像
+
+### Basic Morphology: 二值影像形態學
 
 * 二值影像形態處理 
   * 膨脹、侵蝕、結合、分割……
 
 ![](../../../.gitbook/assets/tu-pian-34.jpg)
 
-#### ROI 工具: <a id="roi-gong-ju"></a>
+#### ROI 工具:  <a id="roi-gong-ju"></a>
 
-|  Line |  Rectangle | Rotated Rectangle |  Annulus |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :--- | :--- | :--- | :--- |
 | - | - | - | - |
 
- 
-
-## Adv. Morphology: 進階形態學
+### Adv. Morphology: 進階形態學
 
 * 進階二值影像形態處理 
   * 去除視窗邊緣物件 
@@ -31,27 +31,24 @@ description: Binary Image
 
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
- 
-
-## Particle Filter: 粒子過濾
+### Particle Filter: 粒子過濾
 
 * 二值影像過濾門檻 
   * 座標、面積、轉動慣量……
 
 ![](../../../.gitbook/assets/tu-pian-36.jpg)
 
-<<<<<<< HEAD
-=======
+## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
- 
+> > > > > > > SmaVISION
 
->>>>>>> SmaVISION

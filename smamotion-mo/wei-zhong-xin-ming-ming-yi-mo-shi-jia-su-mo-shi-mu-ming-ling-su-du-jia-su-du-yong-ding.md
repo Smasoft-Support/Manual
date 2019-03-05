@@ -14,3 +14,4 @@
 * Deceleration : 編輯伺服電機減速度
 
 ![](../.gitbook/assets/servopositionedit.jpg)
+

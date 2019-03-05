@@ -1,6 +1,8 @@
 # 彩色影像
 
-## Color Pattern Match: 彩色圖像比對
+## 彩色影像
+
+### Color Pattern Match: 彩色圖像比對
 
 * Create Template: 創建比對樣本
 * Minimum Score: 分數門檻
@@ -14,14 +16,13 @@
 
 ![](../../../.gitbook/assets/tu-pian-9.png)
 
-<<<<<<< HEAD
-=======
+## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 / 多個 | - | - |
 
- 
+> > > > > > > SmaVISION
 
->>>>>>> SmaVISION

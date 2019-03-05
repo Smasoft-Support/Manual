@@ -4,7 +4,9 @@ description: Grayscale Image
 
 # 灰階影像
 
-## Morphology: 形態學\(灰階\)
+## 灰階影像
+
+### Morphology: 形態學\(灰階\)
 
 * Dilate: 膨脹 
 * Erode: 侵蝕 
@@ -19,13 +21,11 @@ description: Grayscale Image
 
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
- 
-
-## Lookup Table: 查找表
+### Lookup Table: 查找表
 
 * Equalize: 灰階圖像重建至0~255 
 * ……
@@ -33,31 +33,26 @@ description: Grayscale Image
 
 ![](../../../.gitbook/assets/tu-pian-12.jpg)
 
-
-
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
- 
-
-## Filter: 濾鏡
+### Filter: 濾鏡
 
 * Smoothing: 灰階圖像平滑處理 
 * ……
 
 ![](../../../.gitbook/assets/tu-pian-13.jpg)
 
-<<<<<<< HEAD
-=======
+## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
- 
+> > > > > > > SmaVISION
 
->>>>>>> SmaVISION

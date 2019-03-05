@@ -1,6 +1,8 @@
 # 灰階影像
 
-## Edge Detection: 邊緣偵測
+## 灰階影像
+
+### Edge Detection: 邊緣偵測
 
 #### 基本參數調整
 
@@ -28,31 +30,29 @@
 
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | 單一 | - | - | - |
 
- 
-
-## Find Straight Line 找直線
+### Find Straight Line 找直線
 
 * 搜尋框選的影像區域中的直線， 並回傳該直線起始點與終點的像素座標值
 
 ![](../../../.gitbook/assets/tu-pian-24.jpg)
 
-<<<<<<< HEAD
-Find Circle: 找圓
-=======
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+## Find Circle: 找圓
+
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
 
- 
+### Find Circle: 找圓
 
-## Find Circle: 找圓
->>>>>>> SmaVISION
+> > > > > > > SmaVISION
 
 * 在框選的影像區域中，搜尋圓形輪廓的目標，並輸出該圓形的圓心像素座標、半徑與真圓度
 
@@ -60,13 +60,11 @@ Find Circle: 找圓
 
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | 單一 |
 
- 
-
-## Shape Detection: 形狀偵測
+### Shape Detection: 形狀偵測
 
 * 搜尋影像中的基本幾何圖案
 
@@ -74,15 +72,13 @@ Find Circle: 找圓
 
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
- 
+### Pattern Match: 圖像比對
 
-## Pattern Match: 圖像比對
-
-#### 建立樣本\( Template \) 
+#### 建立樣本\( Template \)
 
 1. 新增 / 載入 / 編輯
 2. 框選樣本圖案
@@ -106,13 +102,11 @@ Find Circle: 找圓
 
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 / 多個 | 單一 / 多個 | - |
 
- 
-
-## Geometric Pattern Match: 幾何圖像比對
+### Geometric Pattern Match: 幾何圖像比對
 
 * 依照建立的模板輪廓，在框選的影像區域中搜尋輪廓相近的目標
 
@@ -124,8 +118,8 @@ Find Circle: 找圓
 
 ![](../../../.gitbook/assets/tu-pian-22.png)
 
-<<<<<<< HEAD
-=======
+## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 #### 設定搜尋參數
 
 * Rotation: 搜尋旋轉
@@ -136,10 +130,9 @@ Find Circle: 找圓
 
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
 
- 
+> > > > > > > SmaVISION
 
->>>>>>> SmaVISION

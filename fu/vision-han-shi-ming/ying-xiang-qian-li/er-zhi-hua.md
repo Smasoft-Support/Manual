@@ -1,6 +1,8 @@
 # 灰階影像二值化
 
-## Threshold: 二值化門檻
+## 灰階影像二值化
+
+### Threshold: 二值化門檻
 
 * 灰階影像二值化
 
@@ -8,26 +10,23 @@
 
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
- 
-
-## Auto Threshold: 自動二值化
+### Auto Threshold: 自動二值化
 
 * 灰階影像二值化 \(自動演算\)
 
 ![](../../../.gitbook/assets/tu-pian-33.jpg)
 
-<<<<<<< HEAD
-=======
+## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 #### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
- 
+> > > > > > > SmaVISION
 
->>>>>>> SmaVISION
