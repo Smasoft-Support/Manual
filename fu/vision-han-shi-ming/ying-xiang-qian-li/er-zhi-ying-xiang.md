@@ -11,13 +11,11 @@ description: Binary Image
 
 ![](../../../.gitbook/assets/tu-pian-34.jpg)
 
-#### ROI 工具: <a id="roi-gong-ju"></a>
+### ROI 工具:  <a id="roi-gong-ju"></a>
 
-|  Line |  Rectangle | Rotated Rectangle |  Annulus |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :--- | :--- | :--- | :--- |
 | - | - | - | - |
-
- 
 
 ## Adv. Morphology: 進階形態學
 
@@ -29,13 +27,11 @@ description: Binary Image
 
 ![](../../../.gitbook/assets/tu-pian-35.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
-
- 
 
 ## Particle Filter: 粒子過濾
 
@@ -44,11 +40,9 @@ description: Binary Image
 
 ![](../../../.gitbook/assets/tu-pian-36.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
-
- 
 

@@ -10,13 +10,11 @@ description: 條碼讀取、字體識別
 
 ![](../../../.gitbook/assets/tu-pian-28.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
-
- 
 
 ## 2D Barcode: 讀取 2D 條碼
 
@@ -24,13 +22,11 @@ description: 條碼讀取、字體識別
 
 ![](../../../.gitbook/assets/tu-pian-29-1.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
-
- 
 
 ## Tesseract OCR: 字體辨識
 
@@ -38,11 +34,9 @@ description: 條碼讀取、字體識別
 
 ![](../../../.gitbook/assets/tu-pian-30.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
-
- 
 

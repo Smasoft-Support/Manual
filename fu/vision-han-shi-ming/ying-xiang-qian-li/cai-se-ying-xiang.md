@@ -12,13 +12,9 @@ description: RGB Image
 
 ![](../../../.gitbook/assets/tu-pian-4.png)
 
-#### 
+### ROI 工具:
 
-#### ROI 工具:
-
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
-
- 
 

@@ -17,13 +17,11 @@ description: Grayscale Image
 
 ![](../../../.gitbook/assets/tu-pian-11.png)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
-
- 
 
 ## Lookup Table: 查找表
 
@@ -33,15 +31,11 @@ description: Grayscale Image
 
 ![](../../../.gitbook/assets/tu-pian-12.jpg)
 
+### ROI 工具:
 
-
-#### ROI 工具:
-
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
-
- 
 
 ## Filter: 濾鏡
 
@@ -50,11 +44,9 @@ description: Grayscale Image
 
 ![](../../../.gitbook/assets/tu-pian-13.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
-
- 
 

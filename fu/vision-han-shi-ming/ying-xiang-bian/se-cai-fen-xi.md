@@ -8,13 +8,11 @@
 
 ![](../../../.gitbook/assets/tu-pian-5.png)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 / 多個 | - | - |
-
- 
 
 ## Color Match 色彩比對
 
@@ -24,13 +22,11 @@
 
 ![](../../../.gitbook/assets/tu-pian-6.png)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 / 多個 | - | - |
-
- 
 
 ## Feature Vector: 特徵向量比對
 
@@ -40,13 +36,11 @@
 
 ![](../../../.gitbook/assets/tu-pian-7.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
-
- 
 
 ## Line Profile
 
@@ -54,11 +48,9 @@
 
 ![](../../../.gitbook/assets/tu-pian-8.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
-
- 
 

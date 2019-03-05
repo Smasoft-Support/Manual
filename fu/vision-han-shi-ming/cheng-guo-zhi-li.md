@@ -10,13 +10,11 @@ description: 設定數值門檻、字串比對
 
 ![](../../.gitbook/assets/tu-pian-31.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
-
- 
 
 ## Set Result Status 設定數據上下限標準
 
@@ -25,11 +23,9 @@ description: 設定數值門檻、字串比對
 
 ![](../../.gitbook/assets/tu-pian-40.png)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
-
- 
 

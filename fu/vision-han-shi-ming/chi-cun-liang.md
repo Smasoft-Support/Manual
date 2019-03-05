@@ -7,13 +7,11 @@
 
 ![](../../.gitbook/assets/tu-pian-15.png)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
-
- 
 
 ## Clamp: 尺寸量測 \(夾鉗式\)
 
@@ -30,13 +28,11 @@
 
 ![](../../.gitbook/assets/tu-pian-23.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
-
- 
 
 ## Caliper: 座標關係計算
 
@@ -64,11 +60,9 @@
 
 ![](../../.gitbook/assets/tu-pian-25.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
-|              Line              |         Rectangle         | Rotated Rectangle |        Annulus        |
+| Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
-
- 
 
