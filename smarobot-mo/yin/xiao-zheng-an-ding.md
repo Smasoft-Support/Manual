@@ -9,8 +9,19 @@
 1. 右鍵點擊SmaVision，點選Create new。
 2. 為本視覺模組命名。
 
-* 接著編輯影像模組來取得圖像。
+* 接著編輯影像模組來取得圖像：
 
 ![&#x7DE8;&#x8F2F;&#x5F71;&#x50CF;&#x6A21;&#x7D44;\_&#x53D6;&#x50CF;](../../.gitbook/assets/bian-ji-ying-xiang-mo-zu.jpg)
 
-1. 
+1. 在Acquire的選項中選擇AcquireIMAXQdx來新增取像功能。
+2. 在彈出視窗中選擇相機，這時會在影像視窗中看到連續影像，並選擇ok。
+3. 記得點擊右上角的儲存。
+
+* 調整焦距與光圈：
+
+![&#x8ABF;&#x6574;&#x76F8;&#x6A5F;&#x7126;&#x8DDD;&#x8207;&#x5149;&#x5708;&#x8A2D;&#x5B9A;](../../.gitbook/assets/diao-zheng-jiao-ju-yu-guang-quan.jpg)
+
+1. 在專案列表按右鍵選取剛建立的專案，選擇Launch。
+2. 此時介面會連續取像並調整成適當的焦距與光圈。
+3. 影像顯示視窗可點擊右鍵選取"放大工具"。
+
