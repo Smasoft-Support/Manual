@@ -1,7 +1,5 @@
 # Sequencer上的自動路徑規劃設定
 
-
-
 * 在Point Setup裡增加了"Route Auto Planning"選項，若開啟此選項將移動至該路徑規劃目標點時會以AutoRoute的方式移動。
 
 ![Point Setup&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x9078;&#x9805;](../../.gitbook/assets/seqautoroute.jpg)
