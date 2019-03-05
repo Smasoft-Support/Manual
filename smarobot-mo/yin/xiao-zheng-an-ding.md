@@ -49,3 +49,10 @@
 2. 在影像視窗中會以紅色overlay顯示找到的圓。
 3. 確認紅色框裡是否都有設定完成的勾字號。
 
+* 最後設定結果別名：
+
+![&#x8A2D;&#x5B9A;&#x7D50;&#x679C;&#x5225;&#x540D;](../../.gitbook/assets/she-ding-bie-ming.jpg)
+
+1. 點擊右下角Variable，彈出結果別名設定。
+2. 將Shape Detect的結果設定成上圖所示。
+
