@@ -35,3 +35,5 @@
 5. Vision Project：選擇剛建立識別校正片的SmaVision專案。
 6. Cam Width/Height：相機的x / y解析度。
 
+* 開始手臂視覺取物校正step 1：
+
