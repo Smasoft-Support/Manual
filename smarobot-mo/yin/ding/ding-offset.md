@@ -14,13 +14,13 @@
 
 ![&#x5EFA;&#x7ACB;Offset&#x6D41;&#x7A0B;step 2](../../../.gitbook/assets/jian-li-offset2.jpg)
 
-1. 相機取像並定位，點擊Next會將法蘭面中心或選用的TOOl中心移動到有定位Pattern的正上方，若有角度也會旋轉。
+1. 相機取像並定位，點擊Next會將法蘭面中心或選用的Tool中心移動到有定位Pattern的正上方，若有角度也會旋轉。
 
 * 建立Offset step 3：
 
 ![&#x5EFA;&#x7ACB;Offset&#x6D41;&#x7A0B;step 3](../../../.gitbook/assets/jian-li-offset3.jpg)
 
-1. 此時法蘭面或是TOOl中心應在Pattern的正上方，操作左下方的操作盤，來使TOOl移動到抓取點，若移動完畢，請點選Next。
+1. 此時法蘭面或是Tool中心應在Pattern的正上方，操作左下方的操作盤，來使Tool移動到抓取點，若移動完畢，請點選Next。
 
 * 建立Offset step 4：
 
@@ -31,4 +31,6 @@
 * 建立Offset step 5：
 
 ![&#x5EFA;&#x7ACB;Offset&#x6D41;&#x7A0B;step 5](../../../.gitbook/assets/jian-li-offset5.jpg)
+
+1. 在相機能拍到的範圍內，將要抓取的元件隨意移動，並按下Next來將Tool點移動到抓取點\(此步驟是為了驗證剛剛設定的Offset是否正確\)。
 
