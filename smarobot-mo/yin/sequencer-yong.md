@@ -16,7 +16,7 @@
 
 * 調用Vision Guide步驟：
 
-![Vision Guide &#x6B65;&#x9A5F;](../../.gitbook/assets/sequencer-diao-yong-3.jpg)
+![&#x8A2D;&#x5B9A;Vision Guide &#x6B65;&#x9A5F;](../../.gitbook/assets/sequencer-diao-yong-3.jpg)
 
 1. 流程編輯雙擊SmaRobot。
 2. 在Method選項點選VisionGuide。
@@ -29,4 +29,19 @@
 1. 選擇先前的製作的校正。
 2. 填入在變數表建立的視覺結果陣列名稱。
 3. 填入在變數表建立的手臂補償結果陣列名稱。
+
+* 調用Point步驟：
+
+![&#x8A2D;&#x5B9A;Point&#x6B65;&#x9A5F;](../../.gitbook/assets/sequencer-diao-yong-5.jpg)
+
+1. 流程編輯雙擊SmaRobot。
+2. 在Method選項點選Points。
+3. 點選鉛筆按鈕。
+
+* Point Setup說明：在Point指定要移動的點，並補償Vision Guide步驟所算出的補償值。
+
+![Point Setup&#x8AAA;&#x660E;](../../.gitbook/assets/sequencer-diao-yong-6.jpg)
+
+1. 選擇目標點：校正類型為TopCam、RobotCam，此點即為拍照點位。校正類型為DownCam，此點為放置產品的位置點位。
+2. 填入在變數表建立的手臂補償陣列。
 
