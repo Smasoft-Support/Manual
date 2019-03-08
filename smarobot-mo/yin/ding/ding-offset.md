@@ -89,5 +89,5 @@
 
 ![Manage Calibration&#x65B0;&#x589E;Offset&#x5B8C;&#x6210;](../../../.gitbook/assets/jian-li-offset8.jpg)
 
-若成功建立，Manage Calibration視窗會多一項Offset。
+1. 若成功建立，Manage Calibration視窗會多一項Offset。
 
