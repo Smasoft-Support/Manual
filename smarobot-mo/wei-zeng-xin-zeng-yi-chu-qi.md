@@ -13,7 +13,7 @@
 1. Name：點位名稱。
 2. Action：運動模式。
 3. X/Y/Z/U/V/W：點位座標資訊。
-4. Handly：手臂姿態。
+4. Handly：手臂姿態，可選擇右手姿態\(Righty\)與左手姿態\(Lefty\)。
 5. Tool：工具編號。
 6. Remark：註解。
 
