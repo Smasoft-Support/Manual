@@ -9,3 +9,6 @@
 
 ![Guide Move Setup Advanced&#x8A2D;&#x5B9A;](../../.gitbook/assets/guidemove-she-ding-2.jpg)
 
+1. 選擇要限制的方向與上下極限\(目前只支援純數，不支援變數\)。
+2. 關閉視窗完成儲存。
+
