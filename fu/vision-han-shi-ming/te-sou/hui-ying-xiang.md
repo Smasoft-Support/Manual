@@ -4,7 +4,7 @@
 
 ### Edge Detection: 邊緣偵測
 
-#### 基本參數調整
+### 基本參數調整
 
 * Process: 搜尋目標種類
   * Get First Edge: 第一個
@@ -20,7 +20,7 @@
 * Expected Number 預期數量
   * 達預期數量以上會輸出 Pass，反之則 NG
 
-#### 進階參數調整
+### 進階參數調整
 
 * Interpolation Type: 演算方式
 * Kernel Size: 搜尋之核心大小 \(預設為 3\*3\)
@@ -28,57 +28,79 @@
 
 ![](../../../.gitbook/assets/tu-pian-16.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | 單一 | - | - | - |
 
+<<<<<<< HEAD
 ### Find Straight Line 找直線
+=======
+## Find Straight Line 找直線
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * 搜尋框選的影像區域中的直線， 並回傳該直線起始點與終點的像素座標值
 
 ![](../../../.gitbook/assets/tu-pian-24.jpg)
 
+<<<<<<< HEAD
 &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 
 ## Find Circle: 找圓
 
 #### ROI 工具:
+=======
+### ROI 工具:
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
 
+<<<<<<< HEAD
 ### Find Circle: 找圓
 
 > > > > > > > SmaVISION
+=======
+## Find Circle: 找圓
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * 在框選的影像區域中，搜尋圓形輪廓的目標，並輸出該圓形的圓心像素座標、半徑與真圓度
 
 ![](../../../.gitbook/assets/tu-pian-17.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | 單一 |
 
+<<<<<<< HEAD
 ### Shape Detection: 形狀偵測
+=======
+## Shape Detection: 形狀偵測
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * 搜尋影像中的基本幾何圖案
 
 ![](../../../.gitbook/assets/tu-pian-18.png)
 
-#### ROI 工具:
+### ROI 工具:
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
+<<<<<<< HEAD
 ### Pattern Match: 圖像比對
 
 #### 建立樣本\( Template \)
+=======
+## Pattern Match: 圖像比對
+
+### 建立樣本\( Template \)
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 1. 新增 / 載入 / 編輯
 2. 框選樣本圖案
@@ -86,7 +108,7 @@
 
 ![](../../../.gitbook/assets/tu-pian-20.png)
 
-#### 設定搜尋參數
+### 設定搜尋參數
 
 * Algorithm: 演算法\(快速→嚴謹\)
   * 通常使用 Low Discrepancy Sampling 即可，偶會使用 Grayscale Value Pyramid
@@ -100,17 +122,21 @@
 
 ![](../../../.gitbook/assets/tu-pian-19.png)
 
-#### ROI 工具:
+### ROI 工具:
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 / 多個 | 單一 / 多個 | - |
 
+<<<<<<< HEAD
 ### Geometric Pattern Match: 幾何圖像比對
+=======
+## Geometric Pattern Match: 幾何圖像比對
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * 依照建立的模板輪廓，在框選的影像區域中搜尋輪廓相近的目標
 
-#### 建立樣本 \(Template\)
+### 建立樣本 \(Template\)
 
 1. 新增 / 載入 / 編輯
 2. 框選樣本圖案
@@ -118,9 +144,13 @@
 
 ![](../../../.gitbook/assets/tu-pian-22.png)
 
+<<<<<<< HEAD
 ## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 
 #### 設定搜尋參數
+=======
+### 設定搜尋參數
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * Rotation: 搜尋旋轉
 * Scale: 搜尋縮放
@@ -128,11 +158,14 @@
 
 ![](../../../.gitbook/assets/tu-pian-21.png)
 
-#### ROI 工具:
+### ROI 工具:
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
 
+<<<<<<< HEAD
 > > > > > > > SmaVISION
 
+=======
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75

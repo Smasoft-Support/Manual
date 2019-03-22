@@ -9,13 +9,17 @@
 
 ![](../../.gitbook/assets/tu-pian-15.png)
 
-#### ROI 工具:
+### ROI 工具:
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
 
+<<<<<<< HEAD
 ### Clamp: 尺寸量測 \(夾鉗式\)
+=======
+## Clamp: 尺寸量測 \(夾鉗式\)
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 搜尋影像的框選區域中，位於中間軸位置有較高梯度變化的兩點間距
 
@@ -30,13 +34,17 @@
 
 ![](../../.gitbook/assets/tu-pian-23.jpg)
 
-#### ROI 工具:
+### ROI 工具:
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
 
+<<<<<<< HEAD
 ### Caliper: 座標關係計算
+=======
+## Caliper: 座標關係計算
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * Available Points: 可選用座標點
 * Geometric Feature: 計算功能
@@ -58,13 +66,20 @@
 
 ![](../../.gitbook/assets/tu-pian-25.jpg)
 
+<<<<<<< HEAD
 ## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 
 #### ROI 工具:
+=======
+### ROI 工具:
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
+<<<<<<< HEAD
 > > > > > > > SmaVISION
 
+=======
+>>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
