@@ -27,8 +27,7 @@
 ![&#x8A2D;&#x5B9A;&#x6A19;&#x6E96;&#x503C;\(Golden Sample\)](../../../.gitbook/assets/offset-set-golden.png)
 
 1. 按下Next設定此樣品的位置及角度為標準值，之後的視覺導引便會以新取像到的樣品位置做比較，並引導手臂。
-
-* **Step 3：**
+2. **Step 3：**
 
 ![&#x5C0E;&#x5F15;&#x624B;&#x81C2;&#x5230;Pattern&#x6B63;&#x4E0A;&#x65B9;](../../../.gitbook/assets/jian-li-offset2.jpg)
 
@@ -84,8 +83,7 @@
 ![&#x5EFA;&#x7ACB;Offset&#x5C0E;&#x5F15;&#x7D50;&#x675F;](../../../.gitbook/assets/jian-li-offset7.jpg)
 
 1. 設定Offset導引過程結束。
-
-* **Step 9 :**
+2. **Step 9 :**
 
 ![Manage Calibration&#x65B0;&#x589E;Offset&#x5B8C;&#x6210;](../../../.gitbook/assets/jian-li-offset8.jpg)
 

@@ -1,8 +1,5 @@
 # Table of contents
 
-<<<<<<< HEAD
-* [Initial page](README.md)
-=======
 * [SmaSEQ 2.0 簡介](README.md)
 * [開始您的流程](shi-nin-de-liu-cheng/README.md)
   * [主畫面](shi-nin-de-liu-cheng/zhu-mian.md)
@@ -117,5 +114,4 @@
       * [環狀圖形展開工具](fu/vision-han-shi-ming/qi-ta-gong-ju/xing-gong-ju.md)
     * [結果數據比對](fu/vision-han-shi-ming/cheng-guo-zhi-li.md)
   * [robot上下視覺校正\(VisionGuide\)](fu/robot-shang-xia-xiao-zheng-visionguide.md)
->>>>>>> develop
 

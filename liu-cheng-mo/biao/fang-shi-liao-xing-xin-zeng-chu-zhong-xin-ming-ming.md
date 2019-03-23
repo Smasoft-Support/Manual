@@ -1,12 +1,12 @@
 # 基本功能
 
-## \# 變數表介面
+### \# 變數表介面
 
 首先，在開啟變數表後可以看到變數表分為兩個部分，左側為變數的名稱與總覽，右邊則是各個變數的初始值。
 
 ![](../../.gitbook/assets/_variable.JPG)
 
-## \# 變數群組\(Local\)
+### \# 變數群組\(Local\)
 
 每個專案都具有系統自動建立的兩個變數群組，分別為Local以及OI，其中創立在Local群組裡面的變數是線程運作中所用到的變數，而OI群組中的變數則是對應到操作員介面上的各項控件。
 
@@ -15,7 +15,7 @@
 
 ![](../../.gitbook/assets/variablegroup.jpg)
 
-## \# 變數的新增、重新命名、設定初值與刪除
+### \# 變數的新增、重新命名、設定初值與刪除
 
 線程變數的新增方式是透過點選Local群組後按下右鍵 -&gt; Insert Local進行增加，能夠新增的變數型別為 :
 
@@ -24,11 +24,13 @@
 * ![](../../.gitbook/assets/bool.jpg) **布林變數\(Boolean\) :** 傳遞布林\(TRUE\FALSE\)的變數型別。
 * ![](../../.gitbook/assets/image.jpg) **圖像變數\(Image\) :** 傳遞圖像的變數型別。
 * ![](../../.gitbook/assets/array.jpg) **陣列變數\(Array\) :** 傳遞陣列的變數型別，陣列的元素可以是數字、字串、布林或圖像。
-<<<<<<< HEAD
-* ![](../../.gitbook/assets/group.jpg) 自訂群組\(**Group\) :** 讓使用者能夠替變數自訂群組歸類，方便進行管理與分類。
-=======
+
+  &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+* \*\*\*\*![](../../.gitbook/assets/group%20%281%29.jpg) **自訂群組\(Group\) : 讓使用者能夠替變數自訂群組歸類，方便進行管理與分類。**
 * ![](../../.gitbook/assets/group.jpg) **自訂群組\(**Group\) :\*\* 讓使用者能夠替變數自訂群組歸類，方便進行管理與分類。
->>>>>>> Sequencer
+
+  > > > > > > > Sequencer
 
 ![](../../.gitbook/assets/_createarray.JPG)
 

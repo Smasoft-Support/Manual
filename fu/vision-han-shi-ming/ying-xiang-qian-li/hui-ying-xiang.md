@@ -25,11 +25,15 @@ description: Grayscale Image
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 ### Lookup Table: 查找表
+
 =======
+
 ## Lookup Table: 查找表
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * Equalize: 灰階圖像重建至0~255 
 * ……
@@ -37,41 +41,56 @@ description: Grayscale Image
 
 ![](../../../.gitbook/assets/tu-pian-12.jpg)
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 #### ROI 工具:
+
 =======
+
 ### ROI 工具:
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 ### Filter: 濾鏡
+
 =======
+
 ## Filter: 濾鏡
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * Smoothing: 灰階圖像平滑處理 
 * ……
 
 ![](../../../.gitbook/assets/tu-pian-13.jpg)
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 ## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 
 #### ROI 工具:
+
 =======
+
 ### ROI 工具:
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 > > > > > > > SmaVISION
 
 =======
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+

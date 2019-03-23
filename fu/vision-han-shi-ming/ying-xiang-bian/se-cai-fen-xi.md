@@ -16,11 +16,15 @@
 | :---: | :---: | :---: | :---: |
 | - | 單一 / 多個 | - | - |
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 ### Color Match 色彩比對
+
 =======
+
 ## Color Match 色彩比對
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * Create Template: 創建比對樣本
 * Color Sensitivity: 顏色解析精細度
@@ -34,11 +38,15 @@
 | :---: | :---: | :---: | :---: |
 | - | 單一 / 多個 | - | - |
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 ### Feature Vector: 特徵向量比對
+
 =======
+
 ## Feature Vector: 特徵向量比對
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * Grid Size: 分割數量
 * Histogram Bins: 特徵向量解析支束
@@ -52,30 +60,41 @@
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 ### Line Profile
+
 =======
+
 ## Line Profile
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * Save Current to Golden: 儲存ROI內所劃出的 3\*3 Line Profile
 
 ![](../../../.gitbook/assets/tu-pian-8.jpg)
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 ## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 
 #### ROI 工具:
+
 =======
+
 ### ROI 工具:
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
 
-<<<<<<< HEAD
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 > > > > > > > SmaVISION
 
 =======
->>>>>>> 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
+> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+
