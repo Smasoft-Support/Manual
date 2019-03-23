@@ -1,8 +1,6 @@
 # 灰階影像
 
-### 灰階影像
-
-#### Edge Detection: 邊緣偵測
+### Edge Detection: 邊緣偵測
 
 #### 基本參數調整
 
@@ -34,45 +32,13 @@
 | :---: | :---: | :---: | :---: |
 | 單一 | - | - | - |
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-#### Find Straight Line 找直線
-
-=======
-
 ### Find Straight Line 找直線
-
-> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * 搜尋框選的影像區域中的直線， 並回傳該直線起始點與終點的像素座標值
 
 ![](../../../.gitbook/assets/tu-pian-24.jpg)
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
 ### Find Circle: 找圓
-
-**ROI 工具:**
-
-=======
-
-#### ROI 工具:
-
-> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
-
-| Line | Rectangle | Rotated Rectangle | Annulus |
-| :---: | :---: | :---: | :---: |
-| - | 單一 | - | - |
-
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-#### Find Circle: 找圓
-
-> > > > > > > ## SmaVISION
-> > > > > > >
-> > > > > > > ### Find Circle: 找圓
-> > > > > > >
-> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * 在框選的影像區域中，搜尋圓形輪廓的目標，並輸出該圓形的圓心像素座標、半徑與真圓度
 
@@ -84,15 +50,7 @@
 | :---: | :---: | :---: | :---: |
 | - | - | - | 單一 |
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-#### Shape Detection: 形狀偵測
-
-=======
-
 ### Shape Detection: 形狀偵測
-
-> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * 搜尋影像中的基本幾何圖案
 
@@ -104,19 +62,9 @@
 | :---: | :---: | :---: | :---: |
 | - | - | - | - |
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-#### Pattern Match: 圖像比對
-
-**建立樣本\( Template \)**
-
-=======
-
 ### Pattern Match: 圖像比對
 
 #### 建立樣本\( Template \)
-
-> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 1. 新增 / 載入 / 編輯
 2. 框選樣本圖案
@@ -144,15 +92,7 @@
 | :---: | :---: | :---: | :---: |
 | - | 單一 / 多個 | 單一 / 多個 | - |
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-#### Geometric Pattern Match: 幾何圖像比對
-
-=======
-
 ### Geometric Pattern Match: 幾何圖像比對
-
-> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
 * 依照建立的模板輪廓，在框選的影像區域中搜尋輪廓相近的目標
 
@@ -164,17 +104,7 @@
 
 ![](../../../.gitbook/assets/tu-pian-22.png)
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-### &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-**設定搜尋參數**
-
-=======
-
-#### 設定搜尋參數
-
-> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
+### 設定搜尋參數
 
 * Rotation: 搜尋旋轉
 * Scale: 搜尋縮放
@@ -187,12 +117,4 @@
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :---: | :---: | :---: | :---: |
 | - | 單一 | - | - |
-
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-> > > > > > > SmaVISION
-
-=======
-
-> > > > > > > 1c9e3559cb27f2f92443627fc7d98f3e59876b75
 
