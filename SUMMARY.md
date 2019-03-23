@@ -85,7 +85,7 @@
 * [SmaDIO模組](smadio-mo/README.md)
   * [操作介面](smadio-mo/cao-zuo-jie-mian-qu-liao-du-ding-wei.md)
   * [操作方法](smadio-mo/cao-zuo-fang-fa.md)
-* [關於偲倢](undefined.md)
+* [關於偲倢](about-smasoft.md)
 * [附錄](fu/README.md)
   * [流程系統變數說明\(System.\)](fu/liu-cheng-xi-ming-system..md)
   * [Vision函式說明](fu/vision-han-shi-ming/README.md)
