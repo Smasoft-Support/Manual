@@ -1,4 +1,4 @@
-# vision函式說明
+# Vision函式說明
 
 我們可以將 SmaVISION 功能，大致以下列方式分類:
 
