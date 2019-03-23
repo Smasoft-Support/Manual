@@ -2,9 +2,7 @@
 
 設定Offset目的是為了解決RobotCam視覺引導點非抓取點的應用。
 
-{% hint style="info" %}
-前置動作: 先移動手臂到拍照點再執行以下程序。
-{% endhint %}
+**注意 : 先移動手臂到拍照點再執行以下程序。**
 
 * **Step 1：**
 
@@ -26,36 +24,25 @@
 
 ![&#x8A2D;&#x5B9A;&#x6A19;&#x6E96;&#x503C;\(Golden Sample\)](../../../.gitbook/assets/offset-set-golden.png)
 
-1. 按下Next設定此樣品的位置及角度為標準值，之後的視覺導引便會以新取像到的樣品位置做比較，並引導手臂。
-2. **Step 3：**
+按下Next設定此樣品的位置及角度為標準值，之後的視覺導引便會以新取像到的樣品位置做比較，並引導手臂。
+
+**Step 3：**
 
 ![&#x5C0E;&#x5F15;&#x624B;&#x81C2;&#x5230;Pattern&#x6B63;&#x4E0A;&#x65B9;](../../../.gitbook/assets/jian-li-offset2.jpg)
 
-1. 相機取像並定位，點擊Next會將法蘭面中心或選用的Tool中心移動到定位Pattern的正上方。
-
-{% hint style="info" %}
-按下Next後，手臂會依據視覺導引開始移動，請注意周遭設備避免碰撞，並準備好急停按鈕。
-{% endhint %}
+相機取像並定位，準備好急停按鈕，確認周遭設備不會有碰撞疑慮後，點擊Next會將法蘭面中心或選用的Tool中心移動到定位Pattern的正上方。
 
 * **Step 4：**
 
 ![&#x64CD;&#x4F5C;&#x624B;&#x81C2;&#x79FB;&#x52D5;&#x81F3;&#x9700;&#x8981;&#x7684;&#x6293;&#x53D6;&#x9EDE;](../../../.gitbook/assets/jian-li-offset3.jpg)
 
-1. 此時法蘭面或是Tool中心應在Pattern的正上方，操作左下方的操作盤，來使Tool移動到需要的抓取點。若移動完畢，請點選Next。
-
-{% hint style="info" %}
-手動操縱過程中，請注意周遭設備避免碰撞，並準備好急停按鈕。
-{% endhint %}
+此時法蘭面或是Tool中心應在Pattern的正上方，操作左下方的操作盤，來使Tool移動到需要的抓取點。若移動完畢，請點選Next。
 
 * **Step 5：**
 
 ![Offset&#x8A2D;&#x5B9A;&#x5B8C;&#x6210;](../../../.gitbook/assets/jian-li-offset4.jpg)
 
-1. Offset設定完成，請點擊Next使手臂回到回到起始位置。
-
-{% hint style="info" %}
-按下Next後，手臂會移動到起始拍照位置。請注意周遭設備避免碰撞，並準備好急停按鈕。
-{% endhint %}
+Offset設定完成，準備好急停按鈕，確認周遭設備不會有碰撞疑慮後，請點擊Next使手臂回到回到起始位置。
 
 * **Step 6：**
 

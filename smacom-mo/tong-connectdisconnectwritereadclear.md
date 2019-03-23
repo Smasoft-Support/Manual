@@ -1,4 +1,4 @@
-# 通訊測試\(connect、disconnect、write、read、clear\)
+# 通訊測試
 
 * 通訊設定完成後，按下"Connect"即可開始通訊測試是否成功：
 

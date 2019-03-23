@@ -4,7 +4,7 @@ description: SmaVISION 之設定介面
 
 # 操作介面
 
-## SmaVISION 提供了實用而單純的操作介面，簡單的幾項步驟，即可協助您完成一項視覺專案。
+### SmaVISION 提供了實用而單純的操作介面，簡單的幾項步驟，即可協助您完成一項視覺專案。
 
 ![](../.gitbook/assets/tu-pian-41%20%281%29.png)
 
