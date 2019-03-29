@@ -1,4 +1,4 @@
-# 目錄
+# Table of contents
 
 * [SmaSEQ 2.0 簡介](README.md)
 * [開始您的流程](shi-nin-de-liu-cheng/README.md)
