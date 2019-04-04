@@ -4,7 +4,7 @@ description: RGB Image
 
 # 彩色影像
 
-### Brightness: 亮度調整
+## Brightness: 亮度調整
 
 * Brightness: 亮度
 * Contrast: 對比度
@@ -12,7 +12,7 @@ description: RGB Image
 
 ![](../../../.gitbook/assets/tu-pian-4.png)
 
-#### ROI 工具:
+### ROI 工具:
 
 | Line | Rectangle | Rotated Rectangle | Annulus |
 | :--- | :--- | :--- | :--- |

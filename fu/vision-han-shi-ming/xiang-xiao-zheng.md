@@ -4,7 +4,7 @@ description: '調整影像以提高精準度，或使其符合真實數值。如
 
 # 取像與校正
 
-### IMAQdx Image ; Load Image
+## IMAQdx Image ; Load Image
 
 * IMAQdx Image: 取像 
 * Load Image: 載圖
