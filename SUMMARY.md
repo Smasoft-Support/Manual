@@ -1,6 +1,11 @@
 # Table of contents
 
 * [SmaSEQ 2.0 簡介](README.md)
+* [環境配置](jing-pei-zhi/README.md)
+  * [硬體安裝](jing-pei-zhi/ying-an.md)
+  * [軟體安裝](jing-pei-zhi/an.md)
+  * [軟體授權](jing-pei-zhi/shou.md)
+  * [Windows安全性管理](jing-pei-zhi/windows-an-quan-xing-guan-li.md)
 * [開始您的流程](shi-nin-de-liu-cheng/README.md)
   * [主畫面](shi-nin-de-liu-cheng/zhu-mian.md)
   * [建立新專案](shi-nin-de-liu-cheng/jian-li-xin-an.md)
