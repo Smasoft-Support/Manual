@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [SmaSEQ 2.0 簡介](README.md)
 * [環境配置](jing-pei-zhi/README.md)
