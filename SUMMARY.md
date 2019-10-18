@@ -9,8 +9,6 @@
   * [軟體授權](jing-pei-zhi/shou.md)
 * [快速開始](shi-nin-de-liu-cheng/README.md)
   * [開始您的SmaSEQ專案](shi-nin-de-liu-cheng/kai-shi-nin-de-smaseq-zhuan-an.md)
-  * [建立新專案](shi-nin-de-liu-cheng/jian-li-xin-an.md)
-  * [開啟原有專案](shi-nin-de-liu-cheng/an.md)
   * [SmaSEQ 版面配置](shi-nin-de-liu-cheng/zhu-mian.md)
   * [專案檔、專案介面檔](shi-nin-de-liu-cheng/an-an-jie-mian-jian-lu.md)
 * [模組簡介](mo-jie/README.md)
