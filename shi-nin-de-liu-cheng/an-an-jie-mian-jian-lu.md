@@ -1,7 +1,9 @@
-# 專案檔、專案介面檔
+# 專案檔與操作員介面檔說明
 
-在使用SmaSEQ 2.0的過程中必須先認識兩個重要的檔案，分別為專案檔\(SmSEQ Project File\)以及專案介面檔\(SmaSEQ Operation Interface File\)，檔案的內容為 :
+### 在使用 SmaSEQ 2.0 時，我們必須先認識兩個重要的檔案
 
-* **專案檔\(SmSEQ Project File\) :** 包含所有的線程內容、線程函式設定、模組參數與模組設定等重要資訊，是開發線程最重要的檔案，附檔名為.ssproj。
-* **專案介面檔\(SmaSEQ Operation Interface File\) :** 包含使用者自定義的操作者介面的所有相關參數與設定，若沒有設計介面則不會產生此檔案，副檔名為.ssoi。
+* **專案檔 \(SmaSEQ Project File\) :** 所有的專案內容、模組設定參數等資訊，都儲存在這個檔案中。
+  * 其附檔名為 _**.ssproj**_。
+* **操作員介面檔 \(SmaSEQ Operator Interface File\) :** 若使用者有自定義操作員介面，則所有操作員介面的相關設定皆會記錄在這個檔案中。
+  * 其副檔名為 _**.ssoi**_。
 
