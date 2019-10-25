@@ -2,7 +2,7 @@
 description: 本頁將說明流程編輯器(Sequencer)中，流程(Sequence)的分類與概念
 ---
 
-# 流程 Sequence（執行續）
+# Sequence - 流程（執行續）
 
 ### 流程\(Sequence\)主要可分成兩大類：
 
