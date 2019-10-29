@@ -26,10 +26,14 @@
 ### 。Action模式
 
 * Continue : 從暫停的狀態繼續運行 
-* Pause : 暫停線程
-* Goto : 指定繼續運行的下一個步驟
-* Cleanup : 進入Cleanup流程
-* Abort : 終止所有線程
+* Pause : 暫停流程
+* Goto : 繼續運行時，指定特定流程的起始步驟
+* Cleanup : 直接進入Cleanup流程
+* Abort : 強制關閉所有流程
 
 ![](../../../../.gitbook/assets/actionfunction.jpg)
+
+在上述的操作中，Goto的使用方式可以細分為2種，第一種是選擇特定流程的特定步驟，如:Main的Step 5、Setup 的 Step 9等方式，第二種方法是選擇特定的Label流程函式進行跳躍，輸入格式為\[流程@Label名稱\]，例如:Setup@Label3、Main@Label6，詳細的設定方式可以參考\[[函數的功能與參數設定方式](./)\]。
+
+另外需要注意的是Action的Goto只是改變流程繼續執行的位置，必須要再加入Action的Continue流程才會繼續運作。
 

@@ -23,7 +23,7 @@
     * [Steps - 流程編輯函式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/README.md)
       * [流程編輯方法](mo-jie/liu-cheng-mo/liu-cheng-han-shi/liu-cheng-fang-fa-xin-zeng-chu-shang-jie-geng-gai-zi-se.md)
       * [流程編輯函式列表](mo-jie/liu-cheng-mo/liu-cheng-han-shi/liu-han-shi-lie-biao.md)
-      * [函數的功能與參數設定方式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/README.md)
+      * [函數功能與設定方式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/README.md)
         * [一般函式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/yi-ban-han-shi.md)
         * [迴圈與判斷式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/quan-pan-shi.md)
         * [模組函式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/mo-han-shi.md)
