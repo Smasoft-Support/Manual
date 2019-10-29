@@ -22,10 +22,11 @@ description: 本頁將說明流程編輯器(Sequencer)中，流程(Sequence)的�
 * **Setup（初始化）：**機台在進入 Main 流程之前，會先執行一次 Setup 流程。 作為初始化流程，使用者可在這個流程中，加入如「手臂回初始點」、「馬達軸回原點」或「變數初始化」等動作。
 * **Main（主要流程）：**Main 是機台的主要工作流程。搭配工作列上 Continue 鍵的開啟，專案會在這個流程中不斷循環運行，直到流程被停止，或 Continue 鍵被關閉。
 * **Cleanup（賦歸）：**當 Main 流程運行完畢後（不再循環運行），會進入到 Cleanup 流程，使用者可以在這個流程中排入如「手臂回安全點」、「馬達軸回安全點」、「蜂鳴器與燈號關閉」等行為。
+* **ErrorHandle（錯誤處理）：**當主流程或子流程發生錯誤時，所有流程會被暫停，並啟動 ErrorHandle流程。使用者可在這個流程中編輯錯誤處理流程
 
 ![&#x4E3B;&#x6D41;&#x7A0B;&#x904B;&#x4F5C;&#x9806;&#x5E8F;](../../../.gitbook/assets/sequencer_systemstep.png)
 
-有關子流程的建立方式與使用情境，請參閱《在 ErrorHandle 編輯專案的錯誤處理流程》
+有關 ErrorHandle 的運作方式與範例，請參閱《在 ErrorHandle 編輯專案的錯誤處理流程》
 
 
 

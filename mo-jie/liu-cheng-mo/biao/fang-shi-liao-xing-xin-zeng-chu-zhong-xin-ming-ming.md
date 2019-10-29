@@ -17,7 +17,7 @@ description: 變數的種類、增刪、初始值設定
 
 * **新增變數：點選 Local 群組後，按下右鍵 -&gt; Insert Local -&gt; 選擇變數型態** 
 
-![&#x65B0;&#x589E;&#x8B8A;&#x6578;](../../../.gitbook/assets/_createarray.JPG)
+![Create Local Variable](../../../.gitbook/assets/variable-createnew.png)
 
 * **重新命名變數：**對著已存在的變數名稱，以滑鼠左鍵快速點擊兩下，即可更改變數名稱。
 * **設定變數初始值：**在變數數值的位置，以滑鼠左鍵快速點擊兩下，即可設定變數的初始值。
