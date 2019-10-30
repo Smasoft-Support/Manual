@@ -1,40 +1,50 @@
-# 迴圈與判斷式
+# 迴圈與條件式步驟函式
 
-## \# While...End
+## \# 迴圈【While】...【End】
 
-重複運行While迴圈中的程式內容，直到判斷式的條件被滿足後跳出迴圈，條件式中只能進行最多兩個條件判斷，且兩個條件中的變數必須為相同資料型態。
+#### 迴圈會重複運行 While ... End 框架內的步驟，直到 While 中的條件被滿足，才會離開迴圈。
 
-| 設定參數 | 參數說明 |
+#### 條件式中，一次最多只能給予兩個條件。
+
+| 可設定參數 | 說明 |
 | :--- | :--- |
-| 條件式\(Condition\) | 判斷是否要跳出While迴圈的條件式 |
+| Condition | 判斷是否要離開 While 迴圈的條件 |
 
-### 。Condition設定方式
+![While ... End](../../../../.gitbook/assets/step_while%20%281%29.PNG)
 
-* 數值變數 : Local.變數名稱
-* 字串變數 : Local.變數名稱=="idle"
-* 布林變數 :
-  * True -&gt; Local.變數名稱
-  * False -&gt; !Local.變數名稱
-* &&為且、\|\|為或
+條件語法詳見本頁下方。
 
-![](../../../../.gitbook/assets/while.jpg)
+## \# 條件式【If】...【ElseIf】...【End】
 
-## \# If...ElseIf...End
+#### If ... ElseIf ... End 架構的判斷方式為由上而下依序進行，當遇到成立的條件時即運行該條件下的步驟，且不再進行其他的條件判斷。
 
-由上而下依序進行條件判斷，當遇到條件成立時運行成立的條件式中的程式，其餘條件式中的程式則不執行，條件式中只能進行最多兩個條件判斷，且兩個條件中的變數必須為相同資料型態。
+#### 條件式中，一次最多只能給予兩個條件。
 
-| 設定參數 | 參數說明 |
+| 可設定參數 | 說明 |
 | :--- | :--- |
-| 條件式\(Condition\) | 判斷是否要執行程式的條件式 |
+| Condition | 判斷是否要執行底下步驟的條件 |
 
-### 。Condition設定方式
+![If ... ElseIf ... End](../../../../.gitbook/assets/step_if.PNG)
 
-* 數值變數 : Local.變數名稱
-* 字串變數 : Local.變數名稱=="idle"
-* 布林變數 :
-  * True -&gt; Local.變數名稱
-  * False -&gt; !Local.變數名稱
-* &&為且、\|\|為或
+### Condition語法
 
-![](../../../../.gitbook/assets/if-1.jpg)
+* 以數值變數為條件
+  * `Local.Numeric<=5`
+  * `Local.Numeric==8`
+* 以字串變數為條件
+  * `Local.Numeric=="Idle State"`
+* 以布林變數為條件
+  * 當布林為True
+    * `Local.Boolean`
+  * 當布林為False
+    * `!Local.Boolean`
+* 各式符號意義
+  * &&（且）
+    * `Local.Numeric>=5&&Local.String!="Run"`
+  * \|\|（或）
+    * `Local.Numeric<5||Local.Numeric>10`
+  * ==（等於）
+  * !=（不等於）
+  * &gt;=（大於或等於）
+  * &lt;=（小於或等於）
 
