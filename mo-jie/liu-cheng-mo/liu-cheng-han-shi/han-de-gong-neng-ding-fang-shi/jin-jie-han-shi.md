@@ -41,6 +41,8 @@
 | Sequence | 當 Action 選擇 Goto 方法時，可指定流程名稱。 |
 | Index | 當 Action 選擇 Goto 方法時，可指定步驟編號。 |
 
+![Action - Goto](../../../../.gitbook/assets/step_action.PNG)
+
 #### Action 方法類型
 
 * **Continue：**解除暫停狀態，從暫停的步驟繼續運行流程。

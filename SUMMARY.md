@@ -21,7 +21,7 @@
       * [變數表的基本功能](mo-jie/liu-cheng-mo/biao/fang-shi-liao-xing-xin-zeng-chu-zhong-xin-ming-ming.md)
       * [變數表的進階功能](mo-jie/liu-cheng-mo/biao/cha.md)
     * [Steps - 流程編輯](mo-jie/liu-cheng-mo/liu-cheng-han-shi/README.md)
-      * [函數功能與設定方式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/README.md)
+      * [步驟函式的功能與設定](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/README.md)
         * [基本步驟函式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/yi-ban-han-shi.md)
         * [迴圈與條件式步驟函式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/quan-pan-shi.md)
         * [模組步驟函式](mo-jie/liu-cheng-mo/liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/mo-han-shi.md)
