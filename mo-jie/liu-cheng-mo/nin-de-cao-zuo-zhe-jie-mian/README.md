@@ -1,14 +1,26 @@
-# OI - 設計您的操作員介面
+# OI - 設計操作員介面
 
-有時候機台在運作時，希望有一個簡單易懂的操作員介面\(Operation Interface，OI\)讓人員來確認機台的運轉狀況或是設備控制，SmaSEQ 2.0提供您能夠自行設計操作員介面的功能。
+#### SmaSEQ 的 OI 設計功能，讓使用者可以幫每個 Sequencer （流程編輯器）建立專屬的操作員介面。
 
-首先，點選主畫面上方的Setting標籤會開啟OI的載入視窗，其中 :
+點選 Sequencer 畫面上方的 Setting 按鈕，開啟 OI 的設定視窗
 
-* 建立新的OI : 直接按下視窗右下角的Open可以開啟一個新的空白OI。
-* 載入原有OI : 按下OI Path欄位右側的瀏覽標籤後，可載入已經存在的OI。
-* OI顯示與否 : 視窗左下角的Enable/Disable旗標用於決定在線程開始後是否要顯示OI，在開啟狀態下運作線程的話會自動跳出OI，否則OI不會出現。
+![ &#x9EDE;&#x64CA; Sequencer &#x4E0A;&#x65B9;&#x7684; Setting &#x6309;&#x9215;](../../../.gitbook/assets/oi-setting_boundingbox.PNG)
 
-![](../../../.gitbook/assets/setting.jpg)
+## 建立新的 OI
 
-![](../../../.gitbook/assets/oisetting.JPG)
+#### 在 OI 的設定視窗中，直接點擊 Open 按鈕，即可進入 OI 設計畫面
+
+![OI &#x8A2D;&#x5B9A;&#x8996;&#x7A97; - Open](../../../.gitbook/assets/oi-setup_open.PNG)
+
+## 載入既有的OI
+
+#### 若點擊 OI Path 右側的按鈕，可選擇已經存在的 OI 檔 \(.ssoi\)。
+
+![OI &#x8A2D;&#x5B9A;&#x8996;&#x7A97; - Load](../../../.gitbook/assets/oi-setup_load.PNG)
+
+## OI 啟用按鈕
+
+* OI 設定視窗左下角的 Enable/Disable 開關，決定 OI 在專案運行時是否啟用。在 Enable 狀態下，執行專案流程會自動跳出 OI 介面；Disable 狀態則否。
+
+![OI &#x8A2D;&#x5B9A;&#x8996;&#x7A97; - Enable / Disable](../../../.gitbook/assets/oi-setup_disable.PNG)
 

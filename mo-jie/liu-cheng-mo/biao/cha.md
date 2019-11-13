@@ -16,7 +16,7 @@
 
 ## 辨識未被使用的變數
 
-### 無用變數的黃底標記、Delete All Unused Variable \(一鍵刪除\)
+### 無用變數會以黃底標記，且可使用 「Delete All Unused Variable 」一鍵刪除
 
 您可能會發現在變數表中，有些變數被標註為黃底。這些被標註為黃底的變數，代表目前未被在流程中使用到。此時，在變數表中的任何地方按下右鍵 -&gt; Delete All Unused Variable，即可以快速清除所有無用的變數。
 
