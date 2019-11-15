@@ -38,5 +38,5 @@
 
 ## 影像的基本概念與分類
 
-![](../../.gitbook/assets/tu-pian-1.png)
+![](../../.gitbook/assets/visionmodule_concepts.png)
 
