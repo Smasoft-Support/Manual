@@ -1,16 +1,36 @@
-# 手臂控制面版
+# 手臂操控
 
-機械手臂的初步校正點位、控制手臂移動是需要一個簡單明瞭的控制面板來操作手臂，SmaRobot的手臂控制面版具有即時切換線性運動\(Linear\)與關節運動\(Axis\)的選項提供使用者依照需求操作，以下為SmaRobot的手臂控制面版的介紹。
+#### **連線手臂後，使用者即可使用操作面板來控制手臂。操作**面版位於 SmaRobot 介面的右下方。
 
-* 手臂控制面版位置就在SmaRobot的操作介面右下邊位置：
+![&#x624B;&#x81C2;&#x64CD;&#x4F5C;&#x9762;&#x677F;](../../.gitbook/assets/robotmodule_controlpanel_intro.PNG)
 
-![SmaRobot&#x624B;&#x81C2;&#x63A7;&#x5236;&#x9762;&#x7248;&#x4F4D;&#x7F6E;](../../.gitbook/assets/9.jpg)
+## **操控模式**
 
-* 手臂控制面版部分可分成兩種模式：世界座標與關節座標。
+#### **操控模式分為「Linear」座標系移動，與「Axis」關節移動**
 
-![SmaRobot&#x5169;&#x7A2E;&#x63A7;&#x5236;&#x9762;&#x7248;&#x6A21;&#x5F0F;](../../.gitbook/assets/10.jpg)
+* **Linear 座標系**
+  * 四軸：\[ X , Y , Z , U \]
+  * 六軸： \[ X , Y , Z , U , V , W \]
 
-1. **世界座標模式\(Linear\)與關節座標模式\(Axis\)轉換鈕**：分別點擊呈現上圖模式。
-2. **手臂控制移動距離設定**：選擇分別為連續移動或是吋動的距離。
-3. **手臂控制方向鈕**：依照手臂位置移動需求點擊移動。
+![Linear](../../.gitbook/assets/robotmodule_controlpanel_detail_intro.PNG)
+
+* **Axis**
+
+  * 四軸：\[ Axis 1 , Axis 2 , Axis 3 , Axis 4 \]
+  * 六軸：\[ Axis 1 , Axis 2 , Axis 3 , Axis 4 , Axis 5 , Axis 6 \]
+
+![Axis](../../.gitbook/assets/robotmodule_controlpanel_detail2_intro.PNG)
+
+## 移動距離
+
+#### 移動距離「寸動」與「連續移動」
+
+* 寸動
+  * 每按一下操作面板的「+」、「-」按鈕，手臂即移動一固定距離。
+* 連續移動
+  * 長按操作面板的「+」、「-」按鈕，手臂即連續移動，直到放開按鈕為止
+
+
+
+![&#x5BF8;&#x52D5;&#x8207;&#x9023;&#x7E8C;&#x79FB;&#x52D5;](../../.gitbook/assets/robotmodule_controlpanel_detail3_intro.PNG)
 
