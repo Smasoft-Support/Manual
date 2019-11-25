@@ -1,37 +1,40 @@
 # 軟體授權
 
-### SmaLICENSE
+#### SmaUtilities 的 Licence 工具，負責軟體授權的驗證與管理。
 
-SmaSEQ 授權是透過 SmaLICENSE 運作，SmaLICENSE 在開機後會自動啟動，並顯示在右下角工具列。
+## 獲取電腦機碼
 
-![SmaLICENSE](../.gitbook/assets/license1.png)
+#### 1. 右鍵點擊工作列上隱藏的 SmaUtilities 圖示，選擇 License 功能，開啟設定視窗。
 
-### 如何啟用授權？
+![&#x958B;&#x555F; SmaUtilities &#x7684; License &#x529F;&#x80FD;](../.gitbook/assets/smautilities_license.PNG)
 
-#### 取得電腦機碼檔
+#### 2. 點擊右側存檔圖示，儲存電腦機碼成文字檔（.txt）
 
-1. 找到右下角工作列的 SmaLicense，點擊右鍵開啟選單。
-2. 選擇 "Show Computer Info"，開啟電腦機碼視窗。
-3. 點擊視窗右邊的存檔按鈕，將檔案存成文字檔\(.txt\)。
+![Save computer info](../.gitbook/assets/smautilities_license_setup_save-info_intro.PNG)
 
-   ![](../.gitbook/assets/license2.png)
+![Info.txt](../.gitbook/assets/smautilities_license_setup_save-info-txt.PNG)
 
-#### 將機碼提供給偲倢的授權人員
+#### 3. 將機碼寄到偲倢的授權信箱（license@smasoft.com.tw），並請告知貴單位名稱、附上訂購憑據。
 
-1. 將機碼檔提供給偲倢的授權人員，換取授權檔
-   1. 將步驟上步驟取得的機碼文字檔傳送給授權人員 \(license@smasoft.com.tw\)。
-   2. 授權人員會回傳授權檔 \(各模組有各自的授權檔\)。
 
-#### 安裝授權檔
 
-1. 右鍵點擊工作列的 SmaLicense，開啟選單。
-2. 選擇 "Install License"，點選要安裝的授權\(.lic\)，可選擇一個或多個。
+## 啟用授權
 
-   ![](../.gitbook/assets/license3.png)
+#### 1. 偲倢人員回覆信件時，會附上產品授權金鑰，請使用此金鑰進行開通。（註：依照訂購合約內容，啟用的 SmaSEQ 模組可能有所不同）
 
-3. 安裝成功時，系統會跳出通知，點擊通知會開啟授權狀態視窗 
+![&#x7522;&#x54C1;&#x6388;&#x6B0A;&#x91D1;&#x9470;](../.gitbook/assets/smautilities_license_lic.PNG)
 
-   ![](../.gitbook/assets/license4.png)![](../.gitbook/assets/license5.png)
+#### 2. 在 SmaUtilities 的 License 功能中，點擊 Activate ，載入金鑰進行軟體授權
 
-4.  SmaSEQ 軟體授權完成
+![&#x9EDE;&#x64CA; Activate](../.gitbook/assets/smautilities_license_setup_load-lic_intro.PNG)
+
+![&#x9078;&#x64C7;&#x7522;&#x54C1;&#x91D1;&#x9470;](../.gitbook/assets/smautilities_license_setup_load-lic.PNG)
+
+#### 3. SmaSEQ 軟體授權成功後，即可關閉 License 視窗
+
+![License installed successfully](../.gitbook/assets/smautilities_license_setup_activated.PNG)
+
+#### 4. 開始使用 SmaSEQ 
+
+![SmaSEQ Activated](../.gitbook/assets/smautilities_license_login_activated.PNG)
 

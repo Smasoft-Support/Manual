@@ -2,11 +2,12 @@
 
 * [SmaSEQ 2.0 簡介](README.md)
 * [環境配置](jing-pei-zhi/README.md)
-  * [硬體安裝](jing-pei-zhi/ying-an.md)
+  * [SmaUtilities](jing-pei-zhi/smautilities.md)
   * [軟體安裝](jing-pei-zhi/an/README.md)
     * [線上安裝](jing-pei-zhi/an/xian-shang-an-zhuang.md)
     * [離線安裝](jing-pei-zhi/an/li-xian-an-zhuang.md)
   * [軟體授權](jing-pei-zhi/shou.md)
+  * [硬體與驅動程式](jing-pei-zhi/ying-ti-yu-qu-dong-cheng-shi.md)
 * [快速開始](shi-nin-de-liu-cheng/README.md)
   * [開始您的SmaSEQ專案](shi-nin-de-liu-cheng/kai-shi-nin-de-smaseq-zhuan-an.md)
   * [SmaSEQ 版面配置](shi-nin-de-liu-cheng/zhu-mian.md)
