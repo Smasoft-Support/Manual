@@ -11,7 +11,7 @@
 * [快速開始](shi-nin-de-liu-cheng/README.md)
   * [開始您的SmaSEQ專案](shi-nin-de-liu-cheng/kai-shi-nin-de-smaseq-zhuan-an.md)
   * [SmaSEQ 版面配置](shi-nin-de-liu-cheng/zhu-mian.md)
-  * [專案檔與操作員介面檔說明](shi-nin-de-liu-cheng/an-an-jie-mian-jian-lu.md)
+  * [認識「專案檔」與「操作員介面檔」](shi-nin-de-liu-cheng/an-an-jie-mian-jian-lu.md)
   * [文件閱讀提示](shi-nin-de-liu-cheng/wen-jian-yue-du-ti-shi.md)
 * [模組介紹](mo-jie/README.md)
   * [基本操作說明](mo-jie/mo-cao-zuo-you-xin-zeng-chu-zhong-xin-ming-ming-an-guan.md)
