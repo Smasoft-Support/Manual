@@ -1,4 +1,4 @@
-# Sequencer調用
+# 在 Sequencer 調用座標關係模型
 
 在流程中調用SmaROBOT視覺引導。
 

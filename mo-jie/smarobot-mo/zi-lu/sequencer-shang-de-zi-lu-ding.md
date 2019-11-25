@@ -1,14 +1,18 @@
-# Sequencer上的自動路徑規劃設定
+# 開啟 Sequencer 中的路徑規劃
 
-* 在Point Setup裡增加了"Route Auto Planning"選項，若開啟此選項將移動至該路徑規劃目標點時會以AutoRoute的方式移動。
+#### Sequencer 使用【SmaROBOT】步驟的 &lt; Point &gt; 指令，對 SmaROBOT 模組下達移動命令時，可選擇是否開啟路徑規畫功能（Route Auto Planning）。
 
-![Point Setup&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x9078;&#x9805;](../../../.gitbook/assets/seqautoroute.jpg)
+![Point &#x6307;&#x4EE4;&#x7684;&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x958B;&#x95DC;](../../../.gitbook/assets/seqautoroute.jpg)
 
-* 實際應用，AutoPlan ON：流程中只需增加目標點。
+## Route Auto Planning 在流程中的差異比較
 
-![AutoPlan ON A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../../../.gitbook/assets/kai-qi-zi-dong-lu-jing-gui-hua.JPG)
+* **AutoPlan ON**
+  * 流程中只需使用【SmaROBOT】步驟的 &lt; Point &gt; 下達一次終點的移動指令，手臂即會自動依循已設定的路徑平滑移動。
 
-* AutoPlan OFF：過程中需自行設定各個點位且到達該點位時都會停頓下來。
+![AutoPlan ON &#x65BC;&#x6D41;&#x7A0B;&#x7DE8;&#x8F2F;&#x5668;](../../../.gitbook/assets/kai-qi-zi-dong-lu-jing-gui-hua.JPG)
 
-![AutoPlan OFF A-&amp;gt;E&#x7A0B;&#x5F0F;&#x7DE8;&#x8F2F;](../../../.gitbook/assets/wei-kai-qi-zi-dong-lu-jing-gui-hua-lu-xian.JPG)
+* **AutoPlan OFF**
+  * 流程中需分別對路徑點位下達移動指令，且每段移動都會經過「加速 - 固定速度 - 減速」的過程。
+
+![AutoPlan OFF &#x65BC;&#x6D41;&#x7A0B;&#x7DE8;&#x8F2F;&#x5668;](../../../.gitbook/assets/wei-kai-qi-zi-dong-lu-jing-gui-hua-lu-xian.JPG)
 

@@ -1,35 +1,26 @@
-# 路徑規劃設定
+# 設定路徑規劃
 
-* 自動路徑規劃設定在SmaRobot操作介面的上方紅色框處\(在使用此之前先完成手臂點位設定\)：
-
-![SmaRobot&#x4ECB;&#x9762;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x4F4D;&#x7F6E;](../../../.gitbook/assets/25.jpg)
-
-* 當手臂完成點位設定後，配合自動路徑規劃的功能將點位依照現場狀況進行劃分，並組成若干條路徑，如此一來在手臂移動時可避免在使用者在不了解情況之下導致撞機的風險，同時也能將流程更加簡化。
-
-![&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x793A;&#x610F;&#x5716;](../../../.gitbook/assets/26.jpg)
-
-* 點擊"Edit Route"後會出現以下視窗：
-
-![](../../../.gitbook/assets/28-1.JPG)
-
-1. **路徑組別表**：將定義好的途經點\(via\)儲存為組別並顯示在表格\(若需要 新增/刪除 路徑組別，分別在中間圖 加號/減號 設定\)。
-2. **路徑點位表**：使用者設定的點位都會在此顯示。
-3. **途經點位表**：顯示使用者自行選擇之路徑組別中的途經點位。
-4. **路徑 起始點/終點 表**：顯示起始點/終點位置\(switch功能是轉換起始/終點位置\)。
-5. **途經點預覽設定表**：預覽顯示該路徑組別之途經點順序。
-6. 依照自動路徑規劃藍圖設定路徑組別：
+## 制定手臂移動軌跡藍圖
 
 ![&#x81EA;&#x52D5;&#x8DEF;&#x5F91;&#x898F;&#x5283;&#x85CD;&#x5716;](../../../.gitbook/assets/lu-jing-gui-hua-lan-tu.jpg)
 
-![Route&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(C-&amp;gt;B\)](../../../.gitbook/assets/lu-jing-gui-hua-1.JPG)
+## 新增路徑
 
-![Route\_1&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(A-&amp;gt;B-&amp;gt;D\)](../../../.gitbook/assets/lu-jing-gui-hua-2.JPG)
+* **於 SmaROBOT 的操作介面的上方，點擊「Edit Route」按鈕開啟編輯室窗（下圖紅色框處）**
 
-![Route\_2&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(D-&amp;gt;F-&amp;gt;G\)](../../../.gitbook/assets/lu-jing-gui-hua-3.JPG)
+![&#x958B;&#x555F;&#x8DEF;&#x5F91;&#x898F;&#x756B;&#x8996;&#x7A97;](../../../.gitbook/assets/25.jpg)
 
-![Route\_3&#x8DEF;&#x5F91;&#x7D44;&#x5225;\(D-&amp;gt;E\)](../../../.gitbook/assets/lu-jing-gui-hua-4.JPG)
+![&#x8A2D;&#x5B9A; Route &#x8DEF;&#x5F91;](../../../.gitbook/assets/lu-jing-gui-hua-1.JPG)
 
-* 設定完成後記得開啟"AutoPlan"功能，兩點之間的運動將會自動規劃路徑並使用Route方式移動至目標點。
+![&#x8A2D;&#x5B9A; Route\_1 &#x8DEF;&#x5F91;](../../../.gitbook/assets/lu-jing-gui-hua-2.JPG)
+
+![&#x8A2D;&#x5B9A; Route\_2 &#x8DEF;&#x5F91;](../../../.gitbook/assets/lu-jing-gui-hua-3.JPG)
+
+![&#x8A2D;&#x5B9A; Route\_3 &#x8DEF;&#x5F91;](../../../.gitbook/assets/lu-jing-gui-hua-4.JPG)
+
+## 啟動路徑規畫
+
+* 當路徑設定完成後，開啟「AutoPlan」開關，此時在 SmaROBOT 頁面下達手臂移動指令時，手臂會在起點與終點間自動找尋路徑，平滑地移動。
 
 ![](../../../.gitbook/assets/29.jpg)
 
