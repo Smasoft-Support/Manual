@@ -1,4 +1,4 @@
-# 開啟 Sequencer 中的路徑規劃
+# 於 Sequencer 使用路徑規劃
 
 #### Sequencer 使用【SmaROBOT】步驟的 &lt; Point &gt; 指令，對 SmaROBOT 模組下達移動命令時，可選擇是否開啟路徑規畫功能（Route Auto Planning）。
 
