@@ -1,20 +1,27 @@
-# TCPClient與設定參數
+# TCPClient 與設定參數
 
-* TCPClient功能位於SmaCOM上方處：
-
-![SmaCOM TCPClient&#x8A2D;&#x5B9A;&#x4F4D;&#x7F6E;](../../../.gitbook/assets/tcpclient-jie-mian.JPG)
-
-* 點擊"Settings"後會出現以下視窗：
-
-  ​
+* 使用 TCPClient 連線方式時，點擊「Settings」可調整以下設定：
 
 ![SmaCOM TCP Client Setup&#x4ECB;&#x9762;](../../../.gitbook/assets/tcpclientsetup-jie-mian.JPG)
 
-1. IP/Port設定欄位，預設為"127.0.0.1/6024"。
-2. 接收與查看資料格式設定，預設為Standard、Buffered、CRLF與Immediate模式。
-3. Standard\(預設\)：等待讀取所指定的bytes到達或是Client讀取時間逾時為止，並回傳目前接收到的byte。若byte數量少於Client需求的數量，會回傳部分的byte並報告超時錯誤訊息。
-4. Buffered：等待讀取指定的bytes到達或是Client讀取時間逾時為止。若byte數量少於Client需求的數量，不會回傳任何的byte數量並報告超時錯誤訊息。
-5. CRLF：等待讀取所指定的bytes到達或是讀取到CR\(Carriage-Return\)與LF\(Line Feed\)換行符號與Client讀取時間逾時為止。若在字串中接收到CRLF符號，會回傳接收到的byte包含CR與LF符號。
-6. Immediate：等待讀取所指定的任何bytes到達，直到沒有資料而Client讀取時間逾時為止，並回傳接收到的byte數量。若函數沒有收到byte，則回傳超時錯誤訊息。
-   1. 與Server連線逾時設定與資料 傳送/接收 讀/寫 逾時時間設定。
+* IP/Port 
+  * 填入 TCP Server 的 IP位址與 Port 號
+* Mode
+  * 接收與查看資料格式設定，預設為Standard、Buffered、CRLF與Immediate模式。
+    * Standard
+      * 等待讀取所指定的 byte 數達到要求，或讀取時間逾時為止，並回傳截止前接收到的 bytes。若 byte 數量少於要求的數量，則會回傳目前有的 bytes，並產生超時錯誤訊息。
+    * Buffered
+      * 等待讀取所指定的 byte 數達到要求，或讀取時間逾時為止。若 byte 數量少於要求的數量，則不會回傳任何 bytes ，並產生超時錯誤訊息。
+    * CRLF
+
+      * 等待讀取所指定的 byte 數達到要求，或是讀取到 CR（Carriage-Return）與 LF
+
+      （Line Feed）換行符號，或讀取時間逾時為止。若在字串中接收到 CRLF 符號，則直接回傳接收到的bytes，包含 CR 與 LF 符號。
+
+    * Immediate
+      * 等待讀取所指定的任何 bytes 到達，直到沒有資料而讀取時間逾時為止，並回傳接收到的 bytes。若期間沒有收到 byte，則回傳超時錯誤訊息。
+* Open Timeout
+  * 與 Server 連線逾時設定
+* R/W Timeout
+  * 資料傳送/接收（讀/寫）逾時設定。
 
