@@ -7,7 +7,7 @@
 * IP/Port 
   * 填入 TCP Server 的 IP位址與 Port 號
 * Mode
-  * 接收與查看資料格式設定，預設為Standard、Buffered、CRLF與Immediate模式。
+  * 接收與傳送資料結尾設定。
     * Standard
       * 等待讀取所指定的 byte 數達到要求，或讀取時間逾時為止，並回傳截止前接收到的 bytes。若 byte 數量少於要求的數量，則會回傳目前有的 bytes，並產生超時錯誤訊息。
     * Buffered
