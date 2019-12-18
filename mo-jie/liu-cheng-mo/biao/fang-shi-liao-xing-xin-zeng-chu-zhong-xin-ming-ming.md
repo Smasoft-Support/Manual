@@ -6,12 +6,12 @@ description: 變數的種類、增刪、初始值設定
 
 ## 變數的資料型態種類
 
-* ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LacIVByrI0yfDhWtSTj%2F-LadDcdFCzg8il06SldH%2F-LadDenPoDF8nEV0_iom%2Fnumber.jpg?generation=1553322391161731&alt=media) **數字變數 \(Number\) :** 數值資料型態。格式為浮點數。
-* ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LacIVByrI0yfDhWtSTj%2F-LadDcdFCzg8il06SldH%2F-LadDenRJ3hGu57C1VqF%2Fstring.jpg?generation=1553322393710276&alt=media) **字串變數 \(String\) :** 文字資料型態。
-* ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LacIVByrI0yfDhWtSTj%2F-LadDcdFCzg8il06SldH%2F-LadDenTQViHeOnjHpla%2Fbool.jpg?generation=1553322394216819&alt=media) **布林變數 \(Boolean\) :** 布林\( TRUE \ FALSE \)資料型態。
-* ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LacIVByrI0yfDhWtSTj%2F-LadDcdFCzg8il06SldH%2F-LadDenV6Mhq61beFp3v%2Fimage.jpg?generation=1553322393804443&alt=media) **圖像變數 \(Image\) :** 圖像資料型態。
-* ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LacIVByrI0yfDhWtSTj%2F-LadDcdFCzg8il06SldH%2F-LadDenXjYBuyJwQ7OEW%2Farray.jpg?generation=1553322391491793&alt=media) **陣列變數 \(Array\) :** 陣列的變數型態。陣列的元素可以是數值、文字、布林或圖像。
-* ​​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LacIVByrI0yfDhWtSTj%2F-LadDcdFCzg8il06SldH%2F-LadDenZNhUkBx2SEmFI%2Fgroup.jpg?generation=1553322394311366&alt=media) **新增群組 \(Group\)：**建立新的子群組，讓使用者能將變數分門別類，方便管理與視讀。
+* ![](../../../.gitbook/assets/variable-number.jpg)數**字變數 \(Number\) :** 數值資料型態。格式為浮點數。
+* ​​![](../../../.gitbook/assets/variable-string%20%282%29.jpg)**字串變數 \(String\) :** 文字資料型態。
+* ​​![](../../../.gitbook/assets/variable-bool.jpg)**布林變數 \(Boolean\) :** 布林\( TRUE \ FALSE \)資料型態。
+* ​​![](../../../.gitbook/assets/variable-image.jpg)**圖像變數 \(Image\) :** 圖像資料型態。
+* ​​![](../../../.gitbook/assets/variable-array.jpg)**陣列變數 \(Array\) :** 陣列的變數型態。陣列的元素可以是數值、文字、布林或圖像。
+* ​​![](../../../.gitbook/assets/variable-group.jpg)**新增群組 \(Group\)：**建立新的子群組，讓使用者能將變數分門別類，方便管理與視讀。
 
 ## Local 變數的新增、重新命名、設定初值與刪除
 
