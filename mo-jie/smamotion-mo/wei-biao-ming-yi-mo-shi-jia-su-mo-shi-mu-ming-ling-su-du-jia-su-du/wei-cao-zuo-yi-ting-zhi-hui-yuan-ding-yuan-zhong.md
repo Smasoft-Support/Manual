@@ -8,5 +8,5 @@ SmaMOTION模組中點位設定完成後，能夠進行伺服軸的運動測試�
 * **設定原點\(SetOrigin\)** : 將單軸當下位置設定為原點
 * **錯誤重製\(Clear\)** : 當運動過程中出現錯誤停止時進行錯誤重製
 
-![](../../.gitbook/assets/servooperation.jpg)
+![](../../../.gitbook/assets/servooperation.jpg)
 

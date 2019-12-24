@@ -13,12 +13,12 @@
 * Acceleration : 編輯伺服電機加速度
 * Deceleration : 編輯伺服電機減速度
 
-![](../../.gitbook/assets/servopositionedit.jpg)
+![](../../../.gitbook/assets/servopositionedit.jpg)
 
 
 
-![](../../.gitbook/assets/20.jpg)
+![](../../../.gitbook/assets/20.jpg)
 
-![](../../.gitbook/assets/21.jpg)
+![](../../../.gitbook/assets/21.jpg)
 
 * 
