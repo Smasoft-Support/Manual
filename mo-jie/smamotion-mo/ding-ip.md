@@ -1,6 +1,6 @@
 # 連線設定
 
-SmaMOTION模組使用TCP\IP的通訊協定與運動控制卡連接，在新建立的SmaMOTION模組頁面中，點擊功能列的Connect標籤會跳出IP設定的視窗，設定完成後模組專案會記錄IP位址，後續進行運動控制卡連線可直接按下Connect標籤，不需重複設定。
+SmaMOTION 使用 Ethernet TCP/IP 連接運動控制卡，在新建立的 SmaMOTION 模組點擊 Connect 並輸入 IP 後，即可連線運動控制卡。往後使用此模組時，便會以此 IP 進行連線，無須再次設定。
 
-![](../../.gitbook/assets/servoip.jpg)
+![Enter the IP Address of the motion control card](../../.gitbook/assets/servoip.jpg)
 

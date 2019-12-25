@@ -1,24 +1,23 @@
 # 點位參數設定
 
-在點位視窗能夠進行點位的參數編輯與設定，首先要在點位表中選擇想要編輯的點位，接著透過一旁的參數欄位進行設定，在參數設定完成後，必須按下操作視窗的Apply標籤將變更應用到點位中。
+#### 雙擊點位，可察看與編輯該點的參數。
 
-* Name : 編輯點位名稱
-* Axis : 軸選擇
-* Type : 編輯點位移動模式
-* Target : 編輯伺服命令\(Unit:pulse\)
-* Posiotion : 編碼器位置回授\(Unit:pulse\)
-* Profile : 編輯點位輪廓模式
-* Start Velocity : 編輯單軸起始速度
-* Max Velocity : 編輯伺服電機最大速度
-* Acceleration : 編輯伺服電機加速度
-* Deceleration : 編輯伺服電機減速度
+![](../../../.gitbook/assets/motionmodule_pointlist_properties.PNG)
 
-![](../../../.gitbook/assets/servopositionedit.jpg)
+* Name：點位名稱。
+* Type：點位的屬性。Absolute 為絕對座標；Relative 為相對移動。
+* Target：移動的目標值（單位為 Pulse）。
+* Profile：加減速度模式。
+* Start Velocity : 移動的起始速度。
+* Max Velocity : 移動的最大速度
+* Acceleration : 加速度。
+* Deceleration : 減速度。
 
 
+
+### Type 示意圖
 
 ![](../../../.gitbook/assets/20.jpg)
 
 ![](../../../.gitbook/assets/21.jpg)
 
-* 

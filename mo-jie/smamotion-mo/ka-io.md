@@ -1,6 +1,8 @@
 # 軸卡數位 I/O
 
-使用SmaMOTION功能列中的DIO標籤能夠測試軸卡上支援的輸入/輸出腳位並且將腳位進行命名，方便後續流程中調用軸卡的DIO控制
+#### 使用 SmaMOTION 可直接設定運動控制卡上的數位 I/O，在此輸入訊號點的名稱與註記後，即可在流程中調用。Digital Output 分頁右方的開關與燈號，可進行訊號點的測試。
 
-![](../../.gitbook/assets/motiondio.jpg)
+![Digital Output](../../.gitbook/assets/motionmodule_settingpanel_dio.PNG)
+
+![Digital Input](../../.gitbook/assets/motionmodule_settingpanel_di.PNG)
 
