@@ -6,9 +6,9 @@
 
 #### 點擊 SmaROBOT 介面左上方的 setting 按鈕，即可開啟連線設定視窗
 
-![&#x958B;&#x555F;&#x9023;&#x7DDA;&#x8A2D;&#x5B9A;&#x8996;&#x7A97;](../../.gitbook/assets/robotmodule_setting_intro.PNG)
+![&#x958B;&#x555F;&#x9023;&#x7DDA;&#x8A2D;&#x5B9A;&#x8996;&#x7A97;](../../../.gitbook/assets/robotmodule_setting_intro.PNG)
 
-![&#x9023;&#x7DDA;&#x8A2D;&#x5B9A;&#x8996;&#x7A97;](../../.gitbook/assets/robotmodule_setting-setup.PNG)
+![&#x9023;&#x7DDA;&#x8A2D;&#x5B9A;&#x8996;&#x7A97;](../../../.gitbook/assets/robotmodule_setting-setup.PNG)
 
 * **IP**
   * 手臂的 IP 位址，一般預設值為「192.168.0.1」。若無法連線，請參考各廠牌手臂 IP 查詢方式。
@@ -22,9 +22,9 @@
 
 ####  點擊 Connect 按鈕，與手臂連線
 
-![](../../.gitbook/assets/robotmodule_connect_intro.PNG)
+![](../../../.gitbook/assets/robotmodule_connect_intro.PNG)
 
 #### 連線成功後，界面下方會顯示手臂型號與手臂目前座標位置
 
-![](../../.gitbook/assets/robotmodule_connected_intro.PNG)
+![](../../../.gitbook/assets/robotmodule_connected_intro.PNG)
 

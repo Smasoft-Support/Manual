@@ -4,11 +4,11 @@
 
 * 機械手臂的工具設定，在 SmaROBOT 操作介面的右上角紅框處：
 
-![SmaRobot&#x5DE5;&#x5177;&#x8A2D;&#x5B9A;&#x4F4D;&#x7F6E;](../../.gitbook/assets/13.jpg)
+![SmaRobot&#x5DE5;&#x5177;&#x8A2D;&#x5B9A;&#x4F4D;&#x7F6E;](../../../.gitbook/assets/13.jpg)
 
 * 點擊後出現以下畫面：
 
-![SmaRobot&#x5DE5;&#x5177;&#x8A2D;&#x5B9A;&#x756B;&#x9762;](../../.gitbook/assets/11.jpg)
+![SmaRobot&#x5DE5;&#x5177;&#x8A2D;&#x5B9A;&#x756B;&#x9762;](../../../.gitbook/assets/11.jpg)
 
 1. **手臂工具編號**：以編號來管理不同的工具座標。
 2. **手臂工具點位表**：顯示已存在的工具座標。使用者亦可直接在此修改工具座標。

@@ -17,7 +17,7 @@
 
 ### Type 示意圖
 
-![](../../../.gitbook/assets/20.jpg)
+![Case 1](../../../.gitbook/assets/motionmodule_typeexplaination1.png)
 
-![](../../../.gitbook/assets/21.jpg)
+![Case 2](../../../.gitbook/assets/motionmodule_typeexplaination2.png)
 

@@ -4,11 +4,11 @@
 
 * 手臂控制器IO的位置在SmaRobot介面的右上邊紅色框處：
 
-![SmaRobot&#x624B;&#x81C2;&#x63A7;&#x5236;&#x5668;IO&#x4F4D;&#x7F6E;](../../.gitbook/assets/12-1.jpg)
+![SmaRobot&#x624B;&#x81C2;&#x63A7;&#x5236;&#x5668;IO&#x4F4D;&#x7F6E;](../../../.gitbook/assets/12-1.jpg)
 
 * 點擊之後出現以下畫面：
 
-![SmaRobot&#x624B;&#x81C2;&#x63A7;&#x5236;&#x5668;&#x4ECB;&#x9762;](../../.gitbook/assets/14.jpg)
+![SmaRobot&#x624B;&#x81C2;&#x63A7;&#x5236;&#x5668;&#x4ECB;&#x9762;](../../../.gitbook/assets/14.jpg)
 
 1. **DI / DO 設定分頁切換**：使用者可切換 DI / DO 分頁，針對訊號的使用需求進行設定。
 2. **DI / DO 編號頁面切換**：切換其他編號的訊號點頁面，請依照接線的位置找到對應的訊號點進行設定。

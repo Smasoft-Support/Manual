@@ -2,9 +2,9 @@
 
 #### SmaROBOT 可直接設定手臂的基礎移動速度與功率。點擊介面上方的「Property」按鈕，即可開啟速度設定視窗。（連線手臂後方能操作）
 
-![&#x624B;&#x81C2;&#x901F;&#x5EA6;&#x8ABF;&#x6574;](../../.gitbook/assets/robotmodule_property_intro.PNG)
+![&#x624B;&#x81C2;&#x901F;&#x5EA6;&#x8ABF;&#x6574;](../../../.gitbook/assets/robotmodule_property_intro.PNG)
 
-![&#x624B;&#x81C2;&#x901F;&#x5EA6;&#x8ABF;&#x6574;&#x8996;&#x7A97;](../../.gitbook/assets/robotmodule_property-setup.PNG)
+![&#x624B;&#x81C2;&#x901F;&#x5EA6;&#x8ABF;&#x6574;&#x8996;&#x7A97;](../../../.gitbook/assets/robotmodule_property-setup.PNG)
 
 * **Acceleration（加速度）**
   * 手臂從停止狀態開始移動時的加速度百分比。
