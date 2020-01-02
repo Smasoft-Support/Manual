@@ -14,7 +14,7 @@
 
 ![Info.txt](../.gitbook/assets/smautilities_license_setup_save-info-txt.PNG)
 
-#### 3. 將機碼寄到偲倢的授權信箱（license@smasoft.com.tw），並請告知貴單位名稱、附上訂購憑據。
+#### 3. 將機碼寄給負責的業務窗口，並請告知貴單位名稱、附上訂購憑據。
 
 
 

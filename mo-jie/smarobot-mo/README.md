@@ -16,7 +16,7 @@
 
 ## 操作介面
 
-SmaRobot的介面讓使用者操作起來簡單明瞭，以下為SmaRobot操作介面的介紹。
+SmaROBOT 的介面依照功能的類型，可分為五個區塊：
 
 ![SmaRobot&#x64CD;&#x4F5C;&#x4ECB;&#x9762;](../../.gitbook/assets/1-1.jpg)
 

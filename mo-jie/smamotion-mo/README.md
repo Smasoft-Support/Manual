@@ -13,7 +13,7 @@
 
 ## 操作介面
 
-SmaMOTION模組介面可以分為4個區域：
+SmaMOTION 模組介面可以分為4個區域：
 
 ![&#x64CD;&#x4F5C;&#x4ECB;&#x9762;](../../.gitbook/assets/motionmodule_panel_info.PNG)
 
