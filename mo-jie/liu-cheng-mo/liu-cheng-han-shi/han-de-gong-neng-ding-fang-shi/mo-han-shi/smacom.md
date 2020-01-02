@@ -1,4 +1,4 @@
-# \#命令通訊連線模組【SmaCOM】
+# 命令通訊連線模組【SmaCOM】
 
 ### 命令指定的 SmaCOM Module 執行動作指令。
 

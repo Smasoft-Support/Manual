@@ -1,4 +1,4 @@
-# \#命令機械手臂模組【SmaROBOT】
+# 命令機械手臂模組【SmaROBOT】
 
 ### 命令指定的 SmaROBOT Module 執行動作指令。
 

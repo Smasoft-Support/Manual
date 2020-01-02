@@ -1,4 +1,4 @@
-# \#命令數位訊號模組【SmaDIO】
+# 命令數位訊號模組【SmaDIO】
 
 ### 命令指定的 SmaDIO Module 執行動作指令。
 

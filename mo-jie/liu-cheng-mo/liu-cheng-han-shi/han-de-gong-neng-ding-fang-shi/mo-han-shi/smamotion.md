@@ -1,4 +1,4 @@
-# \#命令運動控制模組【SmaMOTION】
+# 命令運動控制模組【SmaMOTION】
 
 ### 命令指定的 SmaMOTION Module 執行動作指令。
 

@@ -1,4 +1,4 @@
-# \#命令機器視覺模組【SmaVISION】
+# 命令機器視覺模組【SmaVISION】
 
 ### 命令指定的 SmaVISION Module 執行動作指令。
 
@@ -25,16 +25,21 @@
 
 * **Update Result 參數**
   * 指派變數，負責接收結果數值
-  * 語法：
-    * `OI.Monitor=Source`，將影像原圖寫至操作員介面上名為「Monitor」的影像空間變數。
-      * 可用的圖層：
-        * Source（原圖）
-        * Image（影像成果圖）
-        * Overlay（原圖+標記）
-    * `OI.Pass=Result`，將結果 \(Pass / Fail\) 寫至操作員介面上名為「Pass」的 Boolean 變數。
-    * `Local.Number=Count`，可將視覺模組中的化名為 Count 的值，寫至名為 Number 的 Local 數值變數中。
+  * 設定：
+    * SmaVISION 預設輸出值
+      * Source（原圖），數值型態為 Image（影像）
+      * Image（影像成果圖），數值型態為 Image（影像）
+      * Overlay（原圖+標記），數值型態為 Image（影像）
+      * Log 紀錄了全部影像步驟的數值資訊、執行時間等，數值型態為 。
+      * Result 顯示模組執行後的結果，數值型態為 Boolean
+      * `OI.Monitor=Source`，將影像原圖寫至操作員介面上名為「Monitor」的影像空間變數。
+        * 可用的圖層：
+      * `OI.Pass=Result`，將結果 \(Pass / Fail\) 寫至操作員介面上名為「Pass」的 Boolean 變數。
+      * `Local.Number=Count`，可將視覺模組中的化名為 Count 的值，寫至名為 Number 的 Local 數值變數中。
 
-![SmaVISION - Result](../../../../../.gitbook/assets/smavision-result.PNG)
+![SmaVISION - Result](../../../../../.gitbook/assets/smavision-result2.PNG)
+
+![SmaVISION - Edit result step](../../../../../.gitbook/assets/smavision-result.PNG)
 
 {% hint style="info" %}
 有關化名的介紹與操作方式，詳見《SmaVISION模組 - 結果數據處理》
