@@ -4,7 +4,7 @@
 
 Smasoft 秉持著「自動化就是這麼簡單」的精神，致力於各種軟硬體整合，開發出一套簡單、快速與直覺的專案編輯軟體 - SmaSEQ \(Simple Modular Automation Sequencer\) 。
 
-![](.gitbook/assets/smasqe_smaseq.png)
+![](.gitbook/assets/simple-modular-automation-sequencer.png)
 
 ## 少了複雜的程式碼，自動化不再耗時費力。
 
