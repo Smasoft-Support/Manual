@@ -1,6 +1,4 @@
-# 彩色影像灰階化
-
-## Extract: 抽色
+# Extract 抽色
 
 * Color Plane: 選擇要抽出的色彩平面
 

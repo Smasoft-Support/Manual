@@ -1,6 +1,4 @@
-# 彩色影像
-
-## Color Pattern Match: 彩色圖像比對
+# Color Pattern Match 彩色圖案比對
 
 * Create Template: 創建比對樣本
 * Minimum Score: 分數門檻

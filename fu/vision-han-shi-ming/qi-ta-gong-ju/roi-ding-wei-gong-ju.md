@@ -4,19 +4,7 @@ description: 將特徵座標點，設定為ROI座標參考點
 
 # ROI定位
 
-## Coordinate: 選定 ROI 座標參考點
-
-* Point.X: X座標基準點 
-* Point.Y: Y座標基準點 
-* Angle: 角度基準
-
-![](../../../.gitbook/assets/tu-pian-26.png)
-
-### ROI 工具:
-
-| Line | Rectangle | Rotated Rectangle | Annulus |
-| :---: | :---: | :---: | :---: |
-| - | - | - | - |
+## 
 
 ## FindCoordSys \(Rect\): 搜尋兩相互垂直線並定義 ROI 座標點
 
