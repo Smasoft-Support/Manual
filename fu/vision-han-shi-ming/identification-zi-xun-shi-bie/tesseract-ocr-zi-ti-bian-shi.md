@@ -1,8 +1,8 @@
-# 1D Barcode 一維條碼
+# Tesseract OCR 字體辨識
 
-* 針對一維的Barcode進行資料識別
+* 選擇 Module Rotation: 字體旋轉角度\(轉正\)
 
-![](../../../.gitbook/assets/tu-pian-28.jpg)
+![](../../../.gitbook/assets/tu-pian-30.jpg)
 
 ### ROI 工具:
 

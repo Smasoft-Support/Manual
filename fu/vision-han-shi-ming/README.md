@@ -44,7 +44,7 @@
 * Find Straight Line 尋找直線
 * Geometric Pattern Match 幾何圖案比對
 * Pattern Match 圖樣比對
-* Set Result Status 設定評斷門檻
+* Set Result Status 設定數值評斷門檻
 * Shape Detection 幾何形狀偵測
 
 ## **Identification（資訊識別）**

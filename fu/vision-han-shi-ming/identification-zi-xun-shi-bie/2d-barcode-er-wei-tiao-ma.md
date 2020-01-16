@@ -1,8 +1,8 @@
-# 1D Barcode 一維條碼
+# 2D Barcode 二維條碼
 
-* 針對一維的Barcode進行資料識別
+* 針對二維的Barcode進行資料識別
 
-![](../../../.gitbook/assets/tu-pian-28.jpg)
+![](../../../.gitbook/assets/tu-pian-29-1.jpg)
 
 ### ROI 工具:
 
