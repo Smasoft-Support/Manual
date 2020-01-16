@@ -81,10 +81,9 @@
     * [馬達操控與教點](mo-jie/smamotion-mo/ma-da-cao-kong-yu-jiao-dian.md)
   * [SmaDIO模組](mo-jie/smadio-mo/README.md)
     * [基礎設定](mo-jie/smadio-mo/cao-zuo-fang-fa.md)
-* [關於偲倢](about-smasoft.md)
 * [附錄](fu/README.md)
   * [流程編輯器之系統變數](fu/liu-cheng-xi-ming-system..md)
-  * [影像處理函式](fu/vision-han-shi-ming/README.md)
+  * [影像處理函式說明](fu/vision-han-shi-ming/README.md)
     * [取像與校正](fu/vision-han-shi-ming/xiang-xiao-zheng.md)
     * [圖像前處理](fu/vision-han-shi-ming/ying-xiang-qian-li/README.md)
       * [彩色影像](fu/vision-han-shi-ming/ying-xiang-qian-li/cai-se-ying-xiang.md)
@@ -106,4 +105,5 @@
       * [影像遮罩](fu/vision-han-shi-ming/qi-ta-gong-ju/ying-xiang-zhe-zhao.md)
       * [環狀圖形展開工具](fu/vision-han-shi-ming/qi-ta-gong-ju/xing-gong-ju.md)
     * [結果數據比對](fu/vision-han-shi-ming/cheng-guo-zhi-li.md)
+* [關於偲倢](about-smasoft.md)
 
