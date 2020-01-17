@@ -6,9 +6,3 @@
 
 ![](../../../.gitbook/assets/tu-pian-26.png)
 
-### ROI 工具:
-
-| Line | Rectangle | Rotated Rectangle | Annulus |
-| :---: | :---: | :---: | :---: |
-| - | - | - | - |
-
