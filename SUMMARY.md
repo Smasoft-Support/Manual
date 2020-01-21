@@ -7,7 +7,7 @@
     * [線上安裝](jing-pei-zhi/an/xian-shang-an-zhuang.md)
     * [離線安裝](jing-pei-zhi/an/li-xian-an-zhuang.md)
   * [軟體授權](jing-pei-zhi/shou.md)
-  * [硬體與驅動程式](jing-pei-zhi/ying-ti-yu-qu-dong-cheng-shi.md)
+  * [選擇驅動程式](jing-pei-zhi/ying-ti-yu-qu-dong-cheng-shi.md)
 * [快速開始](shi-nin-de-liu-cheng/README.md)
   * [開始您的SmaSEQ專案](shi-nin-de-liu-cheng/kai-shi-nin-de-smaseq-zhuan-an.md)
   * [SmaSEQ 版面配置](shi-nin-de-liu-cheng/zhu-mian.md)
@@ -130,5 +130,6 @@
       * [AI Inference 影像分類](fu/vision-han-shi-ming/ai-zhi-neng-jian-ce/ai-inference-ying-xiang-fen-lei.md)
       * [Object Detection 物件偵測](fu/vision-han-shi-ming/ai-zhi-neng-jian-ce/object-detection-wu-jian-zhen-ce.md)
       * [Segmentation 語意分割](fu/vision-han-shi-ming/ai-zhi-neng-jian-ce/segmentation-yu-yi-fen-ge.md)
+* [FAQ](faq.md)
 * [關於偲倢](about-smasoft.md)
 

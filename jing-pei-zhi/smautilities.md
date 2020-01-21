@@ -4,10 +4,10 @@
 
 ![Menu of SmaUtilities](../.gitbook/assets/smautilities_menu.PNG)
 
-SmaUtilities 主要的功能為：
-
 * **Auto Startup**
+
   * 可指定軟體在開機時自動啟動
+
 * **Database**
   * 可調閱 SmaSEQ 的歷史錯誤紀錄（Error Log）與流程動作（Event）
 
