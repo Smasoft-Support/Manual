@@ -1,6 +1,6 @@
 # Table of contents
 
-* [SmaSEQ 2.0 簡介](README.md)
+* [SmaSEQ 簡介](README.md)
 * [環境配置](jing-pei-zhi/README.md)
   * [SmaUtilities](jing-pei-zhi/smautilities.md)
   * [軟體安裝](jing-pei-zhi/an/README.md)
