@@ -1,6 +1,6 @@
 # 線上安裝
 
-#### SmaSEQ 的安裝是透過 SmaUtilities 管理，請先[下載 SmaUtilities ](https://smasoft.sharepoint.com/:u:/s/Smasoft_Download73/EQaOnTzdFT5BgG9F4R51IC0BjU8MlI9Gk5ZlGVoRIGC0BA?e=9q7jmF)並安裝。
+#### SmaSEQ 的安裝是透過 SmaUtilities 管理，請先下載 [SmaUtilities ](https://gitlab.com/SmaSoftTW/smautilities-release/-/releases)並安裝。
 
 ## 安裝 SmaUtilities
 
