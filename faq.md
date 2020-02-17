@@ -1,6 +1,6 @@
 # FAQ
 
-## 為什麼 Sequencer 中， SmaROBOT、SmaMOTION 要將 &lt;CheckDone&gt; 獨立做成一個步驟？
+## Sequencer 中， SmaROBOT、SmaMOTION 為何要將 &lt;CheckDone&gt; 獨立做成一個步驟？
 
 #### 保持流程編寫的彈性
 
