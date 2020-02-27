@@ -14,15 +14,11 @@
 
 ![](../../.gitbook/assets/smautilities_package_offineinstal_markedl.PNG)
 
-#### Include Run-Time
+#### 選擇 Include Run-Time
 
 若在全新電腦上安裝 SmaSEQ ，請選擇 Include run-time
 
 ![](../../.gitbook/assets/smautilities_package_offineinstall_download_includeruntime.PNG)
-
-#### Exclude Run-Time
-
-在已有舊版 SmaSEQ 上更新，請選擇 Exclude run-time
 
 ## 在不能上網的電腦上進行安裝
 
