@@ -62,7 +62,7 @@
 * 以**字串變數**作為顯示文字
   * `Local.string`
 * 以**數值變數**作為顯示文字
-  * `str("Local.Numeric")`
+  * `str(Local.Numeric)`
 
 
 
