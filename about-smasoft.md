@@ -6,6 +6,10 @@
 
 ## 聯絡方式
 
+#### Website
+
+#### 偲倢科技 Smasoft 官方網站：[https://smasoft-tech.com/](https://smasoft-tech.com/)
+
 #### Email
 
 銷售服務 : salesinfo@smasoft.com.tw  

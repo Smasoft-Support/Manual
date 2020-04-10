@@ -12,8 +12,6 @@ Smasoft 致力於各種軟硬體整合，開發出簡單、快速與直覺的專
 
 ![](.gitbook/assets/simple-modular-automation-sequencer.png)
 
-#### Smasoft 偲倢科技官方網站：[https://smasoft-tech.com/](https://smasoft-tech.com/)
-
 ## 少了複雜的程式碼，自動化不再耗時費力
 
 SmaSEQ 提供簡易操作、彈性運用的工具介面，為機器視覺、機械手臂、運動控制......等模組制定了標準化的設置環境，使用滑鼠點擊、拖拉編排，即可完成大部分的設定。
