@@ -12,7 +12,7 @@
 
 ## 視覺模組 vs. 流程編輯器
 
-#### SmaVISION 是一個預先設定好功能的被動角色，由 Sequencer
+#### SmaVISION 是一個預先設定好功能的被動角色，由 Sequencer 下達運作指令如 &lt;Start&gt;、&lt;Result&gt; 等。
 
 ![SmaVISION vs. Sequencer](../../.gitbook/assets/visionmodule_vs-sequencer2.png)
 

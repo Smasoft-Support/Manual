@@ -4,5 +4,5 @@
 
 各函式的介紹與使用方法請參考附錄《[vision函式說明](../../fu/vision-han-shi-ming/)》。
 
-![](../../.gitbook/assets/tu-pian-42.png)
+![](../../.gitbook/assets/visionmodule_functionlist.PNG)
 
