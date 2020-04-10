@@ -1,6 +1,6 @@
 # 線上安裝
 
-#### SmaSEQ 的安裝是透過 SmaUtilities 管理，請先下載 [SmaUtilities ](https://gitlab.com/SmaSoftTW/smautilities-release/-/releases)並安裝。
+#### SmaSEQ 的安裝是透過 SmaUtilities 管理，請下載最新的 [SmaUtilities ](https://gitlab.com/SmaSoftTW/smautilities-release/-/releases)並安裝。
 
 ## 安裝 SmaUtilities
 
@@ -22,11 +22,9 @@
 
 ![Start Installing Stage 2](../../.gitbook/assets/smautilities-installer_install5.PNG)
 
-#### 5. 第二階段安裝完成後，點擊「Close」關閉視窗，並重新開機。 
+#### 5. 第二階段安裝完成後，點擊「Close」關閉視窗，並執行 SmaUtilities。 
 
 ![Stage 2 Installation Finished](../../.gitbook/assets/smautilities-installer_install6%20%289%29.PNG)
-
-![](../../.gitbook/assets/smautilities-installer_reboot%20%288%29.PNG)
 
 ## 安裝 SmaSEQ
 
@@ -42,13 +40,15 @@
 
 #### 3. SmaSEQ 安裝過程會引導安裝其他需要的元素，請依序逐一安裝，直到 SmaSEQ 安裝完成，依照網速約 3~15 分鐘完成。
 
-![Installing SmaSEQ](../../.gitbook/assets/smautilities_package_install-smaseq_installing.PNG)
-
 ![Installing Tesseract-OCR](../../.gitbook/assets/smautilities_package_install-smaseq_tesseract%20%283%29.PNG)
 
-#### 4. 確認安裝完成後，即可關閉視窗，進行《軟體授權》
+![Installing SmaSEQ](../../.gitbook/assets/smautilities_package_install-smaseq_installing.PNG)
+
+#### 4. 確認安裝完成後，即可關閉視窗並重新啟動電腦，再進行《[軟體授權](https://app.gitbook.com/@smasoft-support/s/dev-manual/~/drafts/-M4Y1k5YALxCEmbKryfu/jing-pei-zhi/shou)》
 
 ![Check and Close](../../.gitbook/assets/smautilities_package_install-smaseq_finish_intro.PNG)
+
+![Restart the computer](../../.gitbook/assets/smautilities-installer_reboot%20%288%29.PNG)
 
 {% hint style="info" %}
 如需軟體授權，請參閱《軟體授權》

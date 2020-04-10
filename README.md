@@ -4,13 +4,15 @@ description: 適用於 SmaSEQ 2.21.0
 
 # SmaSEQ 簡介
 
-## 一起享受簡單快速的自動化系統開發吧！
+## 一起享受簡單快速的自動化系統開發
 
-Smasoft 秉持著「自動化就是這麼簡單」的精神，致力於各種軟硬體整合，開發出一套簡單、快速與直覺的專案編輯軟體 - SmaSEQ \(Simple Modular Automation Sequencer\) 。
+#### 自動化就是這麼簡單。
+
+Smasoft 致力於各種軟硬體整合，開發出簡單、快速與直覺的專案編輯軟體 - SmaSEQ \(Simple Modular Automation Sequencer\) 。
 
 ![](.gitbook/assets/simple-modular-automation-sequencer.png)
 
-## 少了複雜的程式碼，自動化不再耗時費力。
+## 少了複雜的程式碼，自動化不再耗時費力
 
 SmaSEQ 提供簡易操作、彈性運用的工具介面，為機器視覺、機械手臂、運動控制......等模組制定了標準化的設置環境，使用滑鼠點擊、拖拉編排，即可完成大部分的設定。
 
@@ -18,7 +20,7 @@ SmaSEQ 提供簡易操作、彈性運用的工具介面，為機器視覺、機�
 
 ![&#x6D41;&#x7A0B;&#x7DE8;&#x6392;](.gitbook/assets/scheduler.PNG)
 
-## 來看看有哪些模組吧！
+## 來看看有哪些模組吧
 
 ### 通訊傳輸 - SmaCOM
 

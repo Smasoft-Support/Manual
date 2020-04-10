@@ -4,6 +4,8 @@
 
 ![Menu of SmaUtilities](../.gitbook/assets/smautilities_menu.PNG)
 
+### SmaUtilities 功能
+
 * **Auto Startup**
 
   * 可指定軟體在開機時自動啟動
