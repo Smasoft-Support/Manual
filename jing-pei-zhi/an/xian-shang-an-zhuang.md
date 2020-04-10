@@ -44,13 +44,19 @@
 
 ![Installing SmaSEQ](../../.gitbook/assets/smautilities_package_install-smaseq_installing.PNG)
 
-#### 4. 確認安裝完成後，即可關閉視窗並重新啟動電腦，再進行《[軟體授權](https://smasoft-support.gitbook.io/dev-manual/jing-pei-zhi/shou)》
+#### 4. 確認安裝完成後，即可關閉視窗並重新啟動電腦。
 
 ![Check and Close](../../.gitbook/assets/smautilities_package_install-smaseq_finish_intro.PNG)
 
 ![Restart the computer](../../.gitbook/assets/smautilities-installer_reboot%20%288%29.PNG)
 
+## 進行《軟體授權》
+
 {% hint style="info" %}
-如需軟體授權，請參閱《軟體授權》
+有關軟體授權，請參閱《軟體授權》章節
 {% endhint %}
+
+{% page-ref page="../shou.md" %}
+
+
 

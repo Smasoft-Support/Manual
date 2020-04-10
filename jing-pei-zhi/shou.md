@@ -36,5 +36,3 @@
 
 #### 4. 開始使用 SmaSEQ 
 
-![SmaSEQ Activated](../.gitbook/assets/smautilities_license_login_activated.PNG)
-
