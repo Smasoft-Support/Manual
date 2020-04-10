@@ -4,11 +4,11 @@ description: 包含簡介、基本組成與介面介紹
 
 # Sequencer 流程編輯器
 
-## 簡介
+## Sequencer 簡介
 
-### Sequencer 是 SmaSEQ 的核心，以「邏輯」與「順序」概念串連所有所有模組。
+### Sequencer 是 SmaSEQ 的核心，以「邏輯」與「流程」概念串連所有所有模組。
 
-在流程中，您可以自由呼叫已設定好的各項模組\(如 SmaROBOT、SmaVISION 等\)，加上條件式、運算式的運用後，即可以輕鬆且快速地編排出屬於自己的專案。
+在流程中，您可以自由呼叫已設定好的各項模組\(如 SmaROBOT、SmaVISION 等\)，加上條件式、運算式的運用後，輕鬆且快速地編排出屬於自己的專案。
 
 ![](../../.gitbook/assets/sequencer_intro.png)
 

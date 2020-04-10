@@ -14,9 +14,27 @@
 
 #### Mode 類別說明
 
-* Sequential
-* Parallel
-* AutoRun
+* **Sequential：**
+  * **說明**
+    * 使用這個指令呼叫 Subsequence 者，會等待該 Subsequence 執行完畢才繼續運行。
+  * **主要用途**
+    * 整理、簡化流程。
+  * **使用時機**
+    * 任何流程的任何地方皆可使用
+* **Parallel：**
+  * **說明**
+    * 使用這個指令呼叫 Subsequence 者，不會等待該 Subsequence 執行完畢；該 Subsequence 在被呼叫後會執行一次即停止。
+  * **主要用途**
+    * 將某個工作階段平行運行，省去乎相等待的時間。
+  * **使用時機**
+    * 任何流程的任何地方皆可使用
+* **AutoRun：**
+  * **說明**
+    * 使用這個指令呼叫 Subsequence 者，不會等待該 Subsequence 執行完畢；該 Subsequence 在被呼叫後會執行一次即停止。
+  * **主要用途**
+    * 獨立出新的執行緒，可單獨編寫獨立的運作流程。
+  * **使用時機**
+    * 建議僅在 Setup 主流程時使用此指令。
 
 ## \# 觸發錯誤【Error】
 
@@ -29,6 +47,12 @@
 | Error Message | 定義本步驟的錯誤訊息，觸發時會寫進 Error.Msg 變數。 |
 
 ![Error](../../../../.gitbook/assets/step_error.PNG)
+
+{% hint style="info" %}
+有關 ErrorHandle 的詳細說明，請參閱《在 ErrorHandle 編輯專案的錯誤處理流程》
+{% endhint %}
+
+{% page-ref page="../../liu-cheng-sequence-zhi-hang-xu/liu-cheng-zhong-de-li-errorhandle.md" %}
 
 ## \# 流程控制【Action】\*僅供 ErrorHandle 使用
 
@@ -53,6 +77,4 @@
     * 在 Sequence 欄位中，僅指定 SequenceName ，並在 Index 欄位中給予步驟編號。
 * **Cleanup：**直接進入Cleanup流程。
 * **Abort：**強制關閉所有流程。
-
-有關 ErrorHandle 的詳細說明，請參閱《在 ErrorHandle 編輯專案的錯誤處理流程》
 

@@ -23,5 +23,11 @@
    2. 觸發錯誤【Error】
    3. 流程控制【Action】
 
-以上函式將會在接下來的段落中詳細說明
+{% page-ref page="yi-ban-han-shi.md" %}
+
+{% page-ref page="quan-pan-shi.md" %}
+
+{% page-ref page="mo-han-shi/" %}
+
+{% page-ref page="jin-jie-han-shi.md" %}
 

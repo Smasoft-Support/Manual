@@ -28,11 +28,13 @@ description: 功能與效益、建立與編輯
 
 * **獨立運作的執行續。**
 
-若一個 Main 獨立執行續已經無法滿足需求，可編輯獨立的子流程，並以自動運行的方式呼叫該子流程。
+若一個獨立執行續 Main Thread 無法滿足需求，可編輯獨立的子流程，以自動運行的指令呼叫該子流程。
 
 
 
 欲瞭解 Subsequence 如何被呼叫以及指定運作方式，請參閱《進階步驟函式》
+
+{% page-ref page="../liu-cheng-han-shi/han-de-gong-neng-ding-fang-shi/jin-jie-han-shi.md" %}
 
 ## 建立與編輯
 

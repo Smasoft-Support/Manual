@@ -117,7 +117,7 @@
 * **字串變數**
   * 寫入
     * `Local.String="Input String"`
-  * 串連
+  * 字串串連
     * `Local.String=Local.String+"ZZZ"` \(若 Local.String 原本為 ABC，疊加後會變成 ABCZZZ\)
 
 
