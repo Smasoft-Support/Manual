@@ -66,6 +66,8 @@
 
 {% hint style="info" %}
 化名 Count、X、Y、R 是後續進行視覺導引設定時的避要數值，分別代表目標物的數量、X 座標、Y 座標、角度。
+
+此處化名必須依照說明填寫，不可任意改動
 {% endhint %}
 
 ![&#x7D50;&#x679C;&#x6578;&#x503C;&#x5316;&#x540D;](../../../.gitbook/assets/patternmatch-jie-guo-bie-ming.jpg)
