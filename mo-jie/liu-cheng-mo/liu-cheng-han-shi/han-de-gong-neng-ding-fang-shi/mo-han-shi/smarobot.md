@@ -71,6 +71,10 @@
 
 ![SmaROBOT - CheckDone](../../../../../.gitbook/assets/smarobot_checkdone.PNG)
 
+{% hint style="info" %}
+若要確認手臂是否完成移動，請加入 CheckDone 步驟
+{% endhint %}
+
 ### &lt; WriteDO &gt;，**改變手臂控制器的數位輸出訊號**
 
 * **Command：**
