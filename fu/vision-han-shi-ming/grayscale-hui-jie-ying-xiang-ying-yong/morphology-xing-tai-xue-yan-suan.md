@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Dilate: 膨脹 
+</table>
+
+* Dilate: 膨脹 
 * Erode: 侵蝕 
 * Close: 先膨脹後侵蝕 
 * Open: 先侵蝕後膨脹 

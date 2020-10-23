@@ -33,7 +33,9 @@
       <td style="text-align:center">O</td>
     </tr>
   </tbody>
-</table>* 將框選的圓形ROI中的影像展開
+</table>
+
+* 將框選的圓形ROI中的影像展開
 
 ![](../../../.gitbook/assets/tu-pian-39.png)
 

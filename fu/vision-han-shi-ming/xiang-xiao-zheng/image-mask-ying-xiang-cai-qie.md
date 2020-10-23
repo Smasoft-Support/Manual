@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 用於剪取特定的影像區域
+</table>
+
+* 用於剪取特定的影像區域
 
 ![](../../../.gitbook/assets/tu-pian-38.png)
 

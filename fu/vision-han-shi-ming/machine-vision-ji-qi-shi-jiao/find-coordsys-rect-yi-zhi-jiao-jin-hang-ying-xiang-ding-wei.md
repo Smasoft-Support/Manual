@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 自動搜尋影像框選區域中的直角並設為參考坐標，右上角選擇搜尋直線方向
+</table>
+
+* 自動搜尋影像框選區域中的直角並設為參考坐標，右上角選擇搜尋直線方向
 
 ![](../../../.gitbook/assets/tu-pian-27.png)
 

@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 選擇 Module Rotation: 字體旋轉角度\(轉正\)
+</table>
+
+* 選擇 Module Rotation: 字體旋轉角度\(轉正\)
 
 ![](../../../.gitbook/assets/tu-pian-30.jpg)
 

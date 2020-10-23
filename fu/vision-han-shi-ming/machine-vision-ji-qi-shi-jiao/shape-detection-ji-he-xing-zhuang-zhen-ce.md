@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 搜尋影像中的基本幾何圖案
+</table>
+
+* 搜尋影像中的基本幾何圖案
 
 ![](../../../.gitbook/assets/tu-pian-18.png)
 

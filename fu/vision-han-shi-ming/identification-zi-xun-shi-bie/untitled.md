@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 針對一維的Barcode進行資料識別
+</table>
+
+* 針對一維的Barcode進行資料識別
 
 ![](../../../.gitbook/assets/tu-pian-28.jpg)
 

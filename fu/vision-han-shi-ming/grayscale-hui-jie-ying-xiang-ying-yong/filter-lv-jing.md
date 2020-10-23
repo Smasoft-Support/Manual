@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Smoothing: 灰階圖像平滑處理 
+</table>
+
+* Smoothing: 灰階圖像平滑處理 
 * ……
 
 ![](../../../.gitbook/assets/tu-pian-13.jpg)

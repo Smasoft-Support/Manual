@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Brightness: 亮度
+</table>
+
+* Brightness: 亮度
 * Contrast: 對比度
 * Gamma: Gamma校正
 

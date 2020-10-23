@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Path: 載入資訊檔\(.clf\)
+</table>
+
+* Path: 載入資訊檔\(.clf\)
 * Target: 目標名稱
 * Identity Score: 分數門檻
 

@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>搜尋影像的框選區域中，位於中間軸位置有較高梯度變化的兩點間距
+</table>
+
+搜尋影像的框選區域中，位於中間軸位置有較高梯度變化的兩點間距
 
 * Process: 選擇量測方式
 * Edge Parameters 邊緣參數

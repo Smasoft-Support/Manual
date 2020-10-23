@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Curve Extraction 偵測邊緣弧線 
+</table>
+
+* Curve Extraction 偵測邊緣弧線 
 * Contour Selection 輪廓搜尋模式
 
 ![](../../../.gitbook/assets/tu-pian-15.png)

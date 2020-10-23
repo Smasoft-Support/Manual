@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 二值影像過濾門檻 
+</table>
+
+* 二值影像過濾門檻 
   * 座標、面積、轉動慣量……
 
 ![](../../../.gitbook/assets/tu-pian-36.jpg)

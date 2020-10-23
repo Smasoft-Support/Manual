@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 二值影像數值分析與判斷設定 
+</table>
+
+* 二值影像數值分析與判斷設定 
   * 座標、面積、轉動慣量……
 
 ![](../../../.gitbook/assets/tu-pian-37.jpg)

@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>### 建立樣本\( Template \)
+</table>
+
+### 建立樣本\( Template \)
 
 1. 新增 / 載入 / 編輯
 2. 框選樣本圖案

@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 灰階影像二值化 \(自動演算\)
+</table>
+
+* 灰階影像二值化 \(自動演算\)
 
 ![](../../../.gitbook/assets/tu-pian-33.jpg)
 

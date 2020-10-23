@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Color Plane: 選擇要抽出的色彩平面
+</table>
+
+* Color Plane: 選擇要抽出的色彩平面
 
 ![](../../../.gitbook/assets/tu-pian-10.png)
 

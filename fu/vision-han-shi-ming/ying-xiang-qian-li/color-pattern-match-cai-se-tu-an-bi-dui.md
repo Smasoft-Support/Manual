@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Create Template: 創建比對樣本
+</table>
+
+* Create Template: 創建比對樣本
 * Minimum Score: 分數門檻
 * Numbers to Find: ROI內搜尋數量
 * Search for Rotation: 搜尋旋轉圖案 

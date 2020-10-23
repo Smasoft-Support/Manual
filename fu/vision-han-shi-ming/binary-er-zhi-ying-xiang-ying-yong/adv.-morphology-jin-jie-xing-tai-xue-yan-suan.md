@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 進階二值影像形態處理 
+</table>
+
+* 進階二值影像形態處理 
   * 去除視窗邊緣物件 
   * 孔洞填補 
   * 凸包 

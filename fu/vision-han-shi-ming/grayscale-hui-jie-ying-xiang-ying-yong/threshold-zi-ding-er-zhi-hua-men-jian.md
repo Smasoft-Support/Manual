@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 灰階影像二值化
+</table>
+
+* 灰階影像二值化
 
 ![](../../../.gitbook/assets/tu-pian-32.jpg)
 

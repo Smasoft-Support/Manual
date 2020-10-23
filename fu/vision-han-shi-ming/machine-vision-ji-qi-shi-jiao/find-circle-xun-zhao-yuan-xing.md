@@ -33,7 +33,9 @@
       <td style="text-align:center">O</td>
     </tr>
   </tbody>
-</table>* 在框選的影像區域中，搜尋圓形輪廓的目標，並輸出該圓形的圓心像素座標、半徑與真圓度
+</table>
+
+* 在框選的影像區域中，搜尋圓形輪廓的目標，並輸出該圓形的圓心像素座標、半徑與真圓度
 
 ![](../../../.gitbook/assets/tu-pian-17.jpg)
 

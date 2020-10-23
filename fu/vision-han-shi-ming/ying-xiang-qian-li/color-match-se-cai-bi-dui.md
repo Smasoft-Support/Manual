@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Create Template: 創建比對樣本
+</table>
+
+* Create Template: 創建比對樣本
 * Color Sensitivity: 顏色解析精細度
 * Minimum Score: 分數門檻
 

@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Equalize: 灰階圖像重建至0~255 
+</table>
+
+* Equalize: 灰階圖像重建至0~255 
 * ……
 * Power Value: 強度
 

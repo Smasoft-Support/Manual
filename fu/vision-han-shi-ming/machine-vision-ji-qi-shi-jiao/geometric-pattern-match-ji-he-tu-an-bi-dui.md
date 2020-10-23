@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 依照建立的模板輪廓，在框選的影像區域中搜尋輪廓相近的目標
+</table>
+
+* 依照建立的模板輪廓，在框選的影像區域中搜尋輪廓相近的目標
 
 ### 建立樣本 \(Template\)
 

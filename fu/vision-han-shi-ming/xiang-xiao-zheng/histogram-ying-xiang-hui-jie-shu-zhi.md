@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* Mean Value: 灰階分布平均值
+</table>
+
+* Mean Value: 灰階分布平均值
 * Standard Deviation: 標準差 
   * 灰階值越分散越大
 

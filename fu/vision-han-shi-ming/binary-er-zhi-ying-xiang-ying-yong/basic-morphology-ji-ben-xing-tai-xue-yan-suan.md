@@ -33,7 +33,9 @@
       <td style="text-align:center">X</td>
     </tr>
   </tbody>
-</table>* 二值影像形態處理 
+</table>
+
+* 二值影像形態處理 
   * 膨脹、侵蝕、結合、分割……
 
 ![](../../../.gitbook/assets/tu-pian-34.jpg)
