@@ -133,6 +133,10 @@
       * [AI Inference 影像分類](fu/vision-han-shi-ming/ai-zhi-neng-jian-ce/ai-inference-ying-xiang-fen-lei.md)
       * [Object Detection 物件偵測](fu/vision-han-shi-ming/ai-zhi-neng-jian-ce/object-detection-wu-jian-zhen-ce.md)
       * [Segmentation 語意分割](fu/vision-han-shi-ming/ai-zhi-neng-jian-ce/segmentation-yu-yi-fen-ge.md)
+* [專案範例](zhuan-an-fan-li/README.md)
+  * [視覺範例](zhuan-an-fan-li/shi-jiao-fan-li/README.md)
+    * [載入圖片](zhuan-an-fan-li/shi-jiao-fan-li/zai-ru-tu-pian.md)
+    * [二質化進行瑕疵檢測](zhuan-an-fan-li/shi-jiao-fan-li/er-zhi-hua-jin-hang-xia-ci-jian-ce.md)
 * [FAQ](faq.md)
 * [關於偲倢](about-smasoft.md)
 
