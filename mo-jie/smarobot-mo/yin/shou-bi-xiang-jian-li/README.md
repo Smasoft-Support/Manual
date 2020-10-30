@@ -2,7 +2,7 @@
 description: RobotCam / DownCam
 ---
 
-# 建立手臂與相機的座標關係模型
+# 2. 建立手臂與相機的座標關係模型
 
 ### 目標：使用 SmaROBOT 的 Vision Guide 功能，搭配視覺校正模組進行導引設定。
 
