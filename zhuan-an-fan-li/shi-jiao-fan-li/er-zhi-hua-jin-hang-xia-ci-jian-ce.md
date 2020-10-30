@@ -4,7 +4,7 @@
 
 ## 使用二質化分析工具，進行PCB瑕疵檢測
 
-{% file src="../../.gitbook/assets/pcb-inspection-using-particle-analysis.zip" caption="PCB Inspection Using Particle Analysis" %}
+{% file src="../../.gitbook/assets/pcb-inspection-using-particle-analysis.zip" caption="範例 - PCB Inspection Using Particle Analysis" %}
 
 ![PCB&#x5716;&#x7247;&#x96C6;](../../.gitbook/assets/example_vision_pcbparticleanalysis5.png)
 

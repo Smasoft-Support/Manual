@@ -4,7 +4,7 @@
 
 ## 在流程中依序載入資料夾內的所有圖片後，結束流程
 
-{% file src="../../.gitbook/assets/load-image-folder.zip" caption="Load Image Folder" %}
+{% file src="../../.gitbook/assets/load-image-folder.zip" caption="範例 - Load Image Folder" %}
 
 ![&#x5716;&#x7247;&#x96C6;&#x8CC7;&#x6599;&#x593E;](../../.gitbook/assets/example_vision_loadimagefolder1.png)
 
