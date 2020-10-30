@@ -8,13 +8,7 @@
 
 ![SmaSEQ &#x624B;&#x81C2;&#x6A21;&#x7D44; - SmaROBOT &#x9EDE;&#x4F4D;&#x8A2D;&#x5B9A;](../../.gitbook/assets/example_robot_p2p4.png)
 
-123
-
-![Position 1](../../.gitbook/assets/example_robot_p2p1.png)
-
-![Position 2](../../.gitbook/assets/example_robot_p2p2.png)
-
-![Position 3](../../.gitbook/assets/example_robot_p2p3.png)
+![Robot Position \(Using Epson Simulator\)](../../.gitbook/assets/example_robot_p2p6.png)
 
 ![SmaSEQ - Sequencer &#x7DE8;&#x8F2F;&#x4E09;&#x9EDE;&#x79FB;&#x52D5;](../../.gitbook/assets/example_robot_p2p5.png)
 
