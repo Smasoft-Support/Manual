@@ -20,7 +20,7 @@
   * [模組選單基本操作說明](mo-jie/mo-cao-zuo-you-xin-zeng-chu-zhong-xin-ming-ming-an-guan.md)
   * [Sequencer 流程編輯器](mo-jie/liu-cheng-mo/README.md)
     * [Sequence - 流程（執行續）](mo-jie/liu-cheng-mo/liu-cheng-sequence-zhi-hang-xu/README.md)
-      * [善用 Subsequence，讓主流程保持簡潔](mo-jie/liu-cheng-mo/liu-cheng-sequence-zhi-hang-xu/bao-nin-de-liu-cheng-subsequence.md)
+      * [善用 Subsequence，讓專案流程更易讀更彈性](mo-jie/liu-cheng-mo/liu-cheng-sequence-zhi-hang-xu/bao-nin-de-liu-cheng-subsequence.md)
       * [在 ErrorHandle 編輯專案的錯誤處理流程](mo-jie/liu-cheng-mo/liu-cheng-sequence-zhi-hang-xu/liu-cheng-zhong-de-li-errorhandle.md)
     * [Variable - 變數表](mo-jie/liu-cheng-mo/biao/README.md)
       * [變數表的基本功能](mo-jie/liu-cheng-mo/biao/fang-shi-liao-xing-xin-zeng-chu-zhong-xin-ming-ming.md)

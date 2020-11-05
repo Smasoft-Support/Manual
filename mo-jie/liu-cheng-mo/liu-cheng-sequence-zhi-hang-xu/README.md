@@ -36,7 +36,7 @@ description: 本頁將說明流程編輯器(Sequencer)中，流程(Sequence)的�
 
 ![](../../../.gitbook/assets/sequencer_systemcallsub.png)
 
-有關子流程的建立方式與使用情境，請參閱《善用 Subsequence，讓主流程保持簡潔》
+有關子流程的建立方式與使用情境，請參閱《[善用 Subsequence，讓主流程保持簡潔](bao-nin-de-liu-cheng-subsequence.md)》
 
 
 
