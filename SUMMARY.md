@@ -86,7 +86,7 @@
 * [專案範例](zhuan-an-fan-li/README.md)
   * [視覺範例](zhuan-an-fan-li/shi-jiao-fan-li/README.md)
     * [載入圖片](zhuan-an-fan-li/shi-jiao-fan-li/zai-ru-tu-pian.md)
-    * [二質化進行瑕疵檢測](zhuan-an-fan-li/shi-jiao-fan-li/er-zhi-hua-jin-hang-xia-ci-jian-ce.md)
+    * [二值化瑕疵檢測](zhuan-an-fan-li/shi-jiao-fan-li/er-zhi-hua-jin-hang-xia-ci-jian-ce.md)
   * [手臂範例](zhuan-an-fan-li/shou-bi-fan-li/README.md)
     * [手臂點到點控制](zhuan-an-fan-li/shou-bi-fan-li/shou-bi-dian-dao-dian-kong-zhi.md)
   * [馬達平台範例](zhuan-an-fan-li/ma-da-ping-tai-fan-li.md)
