@@ -38,5 +38,3 @@
 有關軟體授權，請參閱《軟體授權》章節
 {% endhint %}
 
-{% page-ref page="../shou.md" %}
-

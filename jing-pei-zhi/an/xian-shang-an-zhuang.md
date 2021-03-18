@@ -1,30 +1,6 @@
 # 線上安裝
 
-#### SmaSEQ 的安裝是透過 SmaUtilities 管理，請下載最新的 [SmaUtilities ](https://gitlab.com/SmaSoftTW/smautilities-release/-/releases)並安裝。
-
-## 安裝 SmaUtilities
-
-#### 1. 解壓縮 SmaUtilities Installer，開啟「SmaUtilities Installer」資料夾，點擊 `Install.exe`
-
-![Install.exe](../../.gitbook/assets/smautilities-installer_install%20%282%29.PNG)
-
-#### 2. 同意授權條件，並點「Next」繼續安裝  
-
-![Start Installing Stage 1](../../.gitbook/assets/smautilities-installer_install2%20%288%29.PNG)
-
-![Next](../../.gitbook/assets/smautilities-installer_install3.PNG)
-
-#### 3. 等待第一階段安裝，歷時約 3分鐘  
-
-![Wait for Stage 1 Installation](../../.gitbook/assets/smautilities-installer_install4%20%282%29.PNG)
-
-#### 4. 第一階段安裝完成後，會自動引導至第二階段。點擊「Next」開始第二階段安裝，歷時約數秒  
-
-![Start Installing Stage 2](../../.gitbook/assets/smautilities-installer_install5.PNG)
-
-#### 5. 第二階段安裝完成後，點擊「Close」關閉視窗，並執行 SmaUtilities。 
-
-![Stage 2 Installation Finished](../../.gitbook/assets/smautilities-installer_install6%20%289%29.PNG)
+#### SmaSEQ是透過SmaUtilities安裝，請下載並安裝最新的 [SmaUtilities](https://gitlab.com/SmaSoftTW/smautilities-release/-/releases)，詳見[SmaUtilities User Manual](https://smasoft-support.gitbook.io/manual-smautilities/smautilities)。
 
 ## 安裝 SmaSEQ
 
@@ -34,9 +10,9 @@
 
 #### 2. 右鍵點擊 SmaSEQ Utilities 圖示，開啟 SmaUtilities 選單。選擇 Package 功能，挑選 SmaSEQ 版本後，按下 Install 開始安裝。
 
-![&#x958B;&#x555F; SmaUtilities &#x7684; Package &#x7BA1;&#x7406;&#x529F;&#x80FD;](../../.gitbook/assets/smautilities_package_open%20%281%29.PNG)
+![](../../.gitbook/assets/smautilities_driver_open2.png.png)
 
-![Select SmaSEQ and Install](../../.gitbook/assets/smautilities_package_install-smaseq%20%282%29.PNG)
+![](../../.gitbook/assets/smautilities_package_install-smaseq2.png)
 
 #### 3. SmaSEQ 安裝過程會引導安裝其他需要的元素，請依序逐一安裝，直到 SmaSEQ 安裝完成，依照網速約 3~15 分鐘完成。
 
@@ -46,7 +22,7 @@
 
 #### 4. 確認安裝完成後，即可關閉視窗並重新啟動電腦。
 
-![Check and Close](../../.gitbook/assets/smautilities_package_install-smaseq_finish_intro.PNG)
+![](../../.gitbook/assets/smautilities_package_install-smaseq_finish_intro2.png.png)
 
 ![Restart the computer](../../.gitbook/assets/smautilities-installer_reboot%20%288%29.PNG)
 
@@ -55,8 +31,6 @@
 {% hint style="info" %}
 有關軟體授權，請參閱《軟體授權》章節
 {% endhint %}
-
-{% page-ref page="../shou.md" %}
 
 
 
